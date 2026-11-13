@@ -6,11 +6,7 @@
     {
       "start_time": 0,
       "end_time": 25.44,
-      "annotation": [
-        {
-          "text": "[B-roll footage of a crowd]"
-        }
-      ],
+      "annotation": [],
       "tags": [],
       "uuid": "24951a3e-2155-4824-ac19-c2d6643414b6"
     },
