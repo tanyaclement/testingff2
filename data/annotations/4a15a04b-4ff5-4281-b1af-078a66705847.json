@@ -1,0 +1,18 @@
+{
+  "event_id": "cce4179a-641d-4b69-91ec-abc09b56b8b5",
+  "source_id": "3716828b-1a8c-4189-830f-1684107ccc06",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/092/357/original/UA0017-DVCAM-0059_edited.vtt.vtt?1774451303"
+        }
+      ],
+      "tags": [],
+      "uuid": "d02449e5-a1f4-4823-ab26-9f1a42f1d5f9"
+    }
+  ]
+}

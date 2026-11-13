@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "3716828b-1a8c-4189-830f-1684107ccc06": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/306/646/original/Circle%20Jam%20and%20Cave%20Canem%20Reunion%20Reading,%202004%20September%2025,%20Tape%201%20%5BUA0017-DVCAM-0059%5D.mp4?1774448744",
+      "duration": 2342.14,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-11-13T19:46:02.318Z",
+  "created_by": "tanyaclement",
+  "label": "Media File 1 of 3 - Circle Jam and Cave Canem Reunion Reading, 2004 September 25, Tape 1 [UA0017-DVCAM-0059].mp4",
+  "updated_at": "2026-11-13T19:46:02.318Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}
