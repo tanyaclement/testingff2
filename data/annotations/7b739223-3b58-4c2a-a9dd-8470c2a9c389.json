@@ -6,15 +6,7 @@
     {
       "start_time": 0,
       "end_time": 2,
-      "annotation": [
-        {
-          "text": "Tony Bolden:",
-          "bold": true
-        },
-        {
-          "text": " : I'm going to talk about my book."
-        }
-      ],
+      "annotation": [],
       "tags": [],
       "uuid": "4fa0a7e7-c934-4b24-8b75-60b287e245b1"
     },
