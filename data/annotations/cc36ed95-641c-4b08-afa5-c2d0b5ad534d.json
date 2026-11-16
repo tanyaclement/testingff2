@@ -28,15 +28,7 @@
     {
       "start_time": 28.32,
       "end_time": 30.32,
-      "annotation": [
-        {
-          "text": "Audience:",
-          "bold": true
-        },
-        {
-          "text": " : Yeah, for the brothers."
-        }
-      ],
+      "annotation": [],
       "tags": [],
       "uuid": "90b48c7e-681d-4c50-aba9-6ba5f7e2b58f"
     },
