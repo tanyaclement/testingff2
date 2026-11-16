@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "2b351319-bb14-447e-9655-4890371018ca": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/301/730/original/Critics'%20Roundtable%201,%202004%20September%2023,%20Tape%201%20%5BUA0017-DVCAM-0045%5D.mp4?1770217287",
+      "duration": 2419.684,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-11-16T21:50:20.028Z",
+  "created_by": "tanyaclement",
+  "label": "Media File 1 of 3 - Critics' Roundtable 1, 2004 September 23, Tape 1 [UA0017-DVCAM-0045].mp4",
+  "updated_at": "2026-11-16T21:50:20.028Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}

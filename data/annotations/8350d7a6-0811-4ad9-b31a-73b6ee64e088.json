@@ -1,0 +1,5317 @@
+{
+  "event_id": "11f1ce9d-b40c-4559-89aa-119333b44f01",
+  "source_id": "2b351319-bb14-447e-9655-4890371018ca",
+  "set": "Critics' Roundtable 1, September 23, 2004  [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " : We'd like to thank Joanne Gabbin again for having the energy to put this together."
+        }
+      ],
+      "tags": [],
+      "uuid": "2793b411-0a5a-4d3e-8a5e-e21b95f578e9"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " This morning we are here for the first of a critics' roundtable."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1e478d8-8e68-44de-8720-8c06130d4035"
+    },
+    {
+      "start_time": 13,
+      "end_time": 21,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And we have three presenters. Bernard Bell found China to be more appealing than we are."
+        }
+      ],
+      "tags": [],
+      "uuid": "203e021e-4ded-4a5a-b584-829729086455"
+    },
+    {
+      "start_time": 21,
+      "end_time": 29,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " So he's in China. And we have Lorenzo Thomas is ill and cannot be here."
+        }
+      ],
+      "tags": [],
+      "uuid": "58f8daa3-4e62-44bd-92ea-eb453b33eaf2"
+    },
+    {
+      "start_time": 29,
+      "end_time": 37,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " But we have Maryemma Graham, Tony Bolden, and Hilary Holladay, we hope will make it here on time."
+        }
+      ],
+      "tags": [],
+      "uuid": "6cffd68c-2490-413f-924e-edc5cbef2759"
+    },
+    {
+      "start_time": 37,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " We will proceed nonetheless. I'm going to make a few introductory comments."
+        }
+      ],
+      "tags": [],
+      "uuid": "a83697a4-588f-49ff-b41e-96c2f55d6d0a"
+    },
+    {
+      "start_time": 44,
+      "end_time": 52,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Then we will have sort of a formal presentation from each of our presenters for this morning."
+        }
+      ],
+      "tags": [],
+      "uuid": "b49ca14b-4a1d-48d9-a5ad-df7ebaa754b7"
+    },
+    {
+      "start_time": 52,
+      "end_time": 61,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " After which we will engage in conversation among ourselves and then invite the entire audience to engage in conversation with us."
+        }
+      ],
+      "tags": [],
+      "uuid": "d037162f-4a41-4c62-acae-56bff42f3a2e"
+    },
+    {
+      "start_time": 61,
+      "end_time": 66,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Our task today is to focus on the state of African American poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "8e7ec349-13f6-49bc-896c-b4b557e7c644"
+    },
+    {
+      "start_time": 66,
+      "end_time": 72,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Which means that we will consider where it has been and where it is."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c28b838-1972-4a2b-b27b-8de63dda39fd"
+    },
+    {
+      "start_time": 72,
+      "end_time": 76,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " When we consider the broad sweep of African American poetic creation,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2aaf0f32-c1da-44e1-a855-3786674bcbca"
+    },
+    {
+      "start_time": 76,
+      "end_time": 84,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " there are several issues that emerge in what may be considered the politics of literary creativity."
+        }
+      ],
+      "tags": [],
+      "uuid": "cf3eba13-cddc-4c9b-84a5-d7bac946f2ee"
+    },
+    {
+      "start_time": 84,
+      "end_time": 90,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " From conversations about the use of eye dialect that characterized Paul Laurence Dunbar's work,"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc0f628e-c8b4-4017-872b-fe2dc6ee777c"
+    },
+    {
+      "start_time": 90,
+      "end_time": 97,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " to the urban vernacular that may be used to define the folk voices in Langston Hughes' poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "244213a6-be8e-4932-bb31-955a90734159"
+    },
+    {
+      "start_time": 97,
+      "end_time": 105,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " African American poets have been concerned about how to achieve the best or most representative or most poetic"
+        }
+      ],
+      "tags": [],
+      "uuid": "8827e275-617a-437c-89c1-53c9fdd3df29"
+    },
+    {
+      "start_time": 105,
+      "end_time": 109,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " or most authentic rather, poetic voices."
+        }
+      ],
+      "tags": [],
+      "uuid": "50015761-729b-4dac-a5e9-3b43656b2dcf"
+    },
+    {
+      "start_time": 109,
+      "end_time": 116,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Such choices were obviously related to considerations of insider versus outsider status."
+        }
+      ],
+      "tags": [],
+      "uuid": "9a1631e0-89fd-413a-a689-56a12aa5e556"
+    },
+    {
+      "start_time": 116,
+      "end_time": 126,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What a poet might have been comfortable with among his or her Black peers might have made him or her look stereotypical from the perspective of non-Blacks."
+        }
+      ],
+      "tags": [],
+      "uuid": "760e3052-a1f4-48cc-af62-4de945708590"
+    },
+    {
+      "start_time": 127,
+      "end_time": 130,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " At one point in his life, Paul Laurence Dunbar wrote,"
+        }
+      ],
+      "tags": [],
+      "uuid": "53c1cb73-23ea-4c99-8188-c4fd8ce90728"
+    },
+    {
+      "start_time": 130,
+      "end_time": 135,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " I'm tired of dialect, but the magazines aren't."
+        }
+      ],
+      "tags": [],
+      "uuid": "a61095ba-debd-4c4c-a1b3-09d790ebc47c"
+    },
+    {
+      "start_time": 135,
+      "end_time": 141,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Every time I send them something else, they write back asking for dialect."
+        }
+      ],
+      "tags": [],
+      "uuid": "a17d0340-d506-4ba4-b4d5-7eff41ff104c"
+    },
+    {
+      "start_time": 141,
+      "end_time": 146,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Nothing wrong with the poems, a Dunbar just has to be dialect."
+        }
+      ],
+      "tags": [],
+      "uuid": "a35f400a-6947-4eeb-9215-cb2af5e48e50"
+    },
+    {
+      "start_time": 146,
+      "end_time": 151,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " I'll fool them someday though, I'll use a numb to poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "57c95e23-edb4-4b21-a778-ba2882754e69"
+    },
+    {
+      "start_time": 151,
+      "end_time": 160,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " In the 19th and early 20th centuries, what a poet might have wanted to write and what he or she was able to write"
+        }
+      ],
+      "tags": [],
+      "uuid": "865188bc-cc65-4286-856f-23afbafea221"
+    },
+    {
+      "start_time": 160,
+      "end_time": 165,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " was thus influenced by a series of internal and external factors."
+        }
+      ],
+      "tags": [],
+      "uuid": "b762c9d4-2e58-4551-a2ea-8b8e1722b751"
+    },
+    {
+      "start_time": 165,
+      "end_time": 175,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Editors and publishers, the reading public, availability of publishing outlets, his or her own creative tendencies and desires."
+        }
+      ],
+      "tags": [],
+      "uuid": "d0842cf8-3b75-496b-adb8-f7df82179b4d"
+    },
+    {
+      "start_time": 175,
+      "end_time": 182,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Is the state of African American poetry 100 years later changed substantially?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3d39a806-63cf-4aff-baf7-a348053d7c74"
+    },
+    {
+      "start_time": 182,
+      "end_time": 188,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Are poets free to write absolutely what they want to write and get it published?"
+        }
+      ],
+      "tags": [],
+      "uuid": "aed1fd62-d980-4973-a0fb-9370f7891d88"
+    },
+    {
+      "start_time": 188,
+      "end_time": 193,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What are the relationships between politics and creativity?"
+        }
+      ],
+      "tags": [],
+      "uuid": "78dc2e1c-4b7f-4b06-ae19-b33be58056a5"
+    },
+    {
+      "start_time": 193,
+      "end_time": 201,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " How are the politics different in the early 21st century from what they were in the early 20th century?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e52a3c5-8b20-4ccd-98ad-280a6073069d"
+    },
+    {
+      "start_time": 202,
+      "end_time": 209,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Did those poets such as Langston Hughes who debated how the Negro should be represented in the 1920s"
+        }
+      ],
+      "tags": [],
+      "uuid": "9f2af705-aee7-4b72-a13f-d32d8fa85f5d"
+    },
+    {
+      "start_time": 209,
+      "end_time": 215,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " plant sufficient seeds for the transcendence of strictures in the 21st century?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5df6c138-e318-4e74-a0eb-187d44067d8d"
+    },
+    {
+      "start_time": 215,
+      "end_time": 223,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Did the poets of the mid-20th century such as Margaret Walker, Gwendolyn Brooks, Robert Haney, Melvin Tolson"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd438c1f-01dc-4fa6-bb05-7ee8c3ddccfb"
+    },
+    {
+      "start_time": 223,
+      "end_time": 231,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " provide enough variety for the poets of the late 20th century to be comfortable with an assertion of individuality and creativity?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b289be8f-09b9-41c2-977b-6c94721cb37b"
+    },
+    {
+      "start_time": 231,
+      "end_time": 237,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What kinds of legacies are their descendants heir to in the 21st century?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f488c2be-4519-4c33-9ac9-6a299df9b2ad"
+    },
+    {
+      "start_time": 237,
+      "end_time": 246,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What role did the so-called radicalism militancy of the 1960s play in shaping how African American poetry looks today?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a925e75-a3f6-4f51-a85b-e3030cc72652"
+    },
+    {
+      "start_time": 246,
+      "end_time": 256,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " How have audiences for poetry that might be labeled militant changed since the 1960s if there is a tradition of militant poetry today?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc737e5f-de07-4c0e-a321-c7a4043790e2"
+    },
+    {
+      "start_time": 256,
+      "end_time": 263,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " How have contemporary Black audiences shaped Black poetry and the performance of Black poetry?"
+        }
+      ],
+      "tags": [],
+      "uuid": "09ac5bfa-3fbd-4c3c-8478-cc9c301f164b"
+    },
+    {
+      "start_time": 263,
+      "end_time": 273,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What role has the music industry played in the perpetuation of, performance of, and shaping of forms of contemporary African American poetry?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d0357d2-3e17-4649-b4eb-7613c4e73f51"
+    },
+    {
+      "start_time": 273,
+      "end_time": 281,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Our panelists today certainly won't answer all of these questions in any kind of definitive way."
+        }
+      ],
+      "tags": [],
+      "uuid": "284ad76e-1ad4-479f-bccc-dcbf7c3bff68"
+    },
+    {
+      "start_time": 281,
+      "end_time": 293,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Rather, we hope that the points we raise here will provide the beginnings of discussions about these and other issues informing the current state of African American poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "d02391a8-a0d7-4f8d-8545-4ebc3d5d49b9"
+    },
+    {
+      "start_time": 293,
+      "end_time": 306,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Our panelists today are Maryemma Graham. Maryemma is a professor of English at the University of Kansas out of Lawrence."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c314dda-1a89-4d46-9f82-176431d764e6"
+    },
+    {
+      "start_time": 306,
+      "end_time": 315,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " She has done any number of groundbreaking things in African American literary scholarship including directing the History of Black Writing Project."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9ab15e0-c207-4ab8-81d7-db5dd34af456"
+    },
+    {
+      "start_time": 315,
+      "end_time": 326,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " But we are very proud of Maryemma at this point because she is in the process of bringing to conclusion the first biography of Margaret Walker."
+        }
+      ],
+      "tags": [],
+      "uuid": "0be2f610-0ec3-464a-ba4f-4c168f54f5df"
+    },
+    {
+      "start_time": 326,
+      "end_time": 330,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Which we hope will be forthcoming very, very soon."
+        }
+      ],
+      "tags": [],
+      "uuid": "93589a95-4317-4a5a-9782-270f4e37a2ec"
+    },
+    {
+      "start_time": 330,
+      "end_time": 335,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Our second speaker today is Hilary Holladay."
+        }
+      ],
+      "tags": [],
+      "uuid": "8db1f073-f831-49ab-bd27-7f3d4bdcff50"
+    },
+    {
+      "start_time": 335,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Hilary, I'm proud to say, as a faculty person at the University of North Carolina at Chapel Hill,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f98c79a2-6c05-4f7d-a43e-63512a345c16"
+    },
+    {
+      "start_time": 340,
+      "end_time": 353,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " earned her doctoral degree in the Department of English at UNC Chapel Hill in 1993 and in a relatively short period of time has become Professor of English and Director of American Studies at the University of Massachusetts at Lowell."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e474626-bcf8-43c2-8814-856028c8a2f2"
+    },
+    {
+      "start_time": 354,
+      "end_time": 362,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " She is the author of Wild Blessings, the Poetry of Lucille Clifton, which has just been published by LSU Press."
+        }
+      ],
+      "tags": [],
+      "uuid": "3ea0d095-ae9a-47f2-8d34-35efe8b2a898"
+    },
+    {
+      "start_time": 362,
+      "end_time": 371,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And she's co-editor with Hazel Arnett Ervin of Ann Petry's Short Fiction: Critical Essays, published this year by Prager."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3ac5195-ebdf-49d6-a7ee-5e8ead0578ec"
+    },
+    {
+      "start_time": 371,
+      "end_time": 378,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " She is also the author of Ann Petry and a poetry chapbook, Baptism in the Merrimack."
+        }
+      ],
+      "tags": [],
+      "uuid": "bf313fb9-505a-4a53-8b7a-3d69d01e1173"
+    },
+    {
+      "start_time": 378,
+      "end_time": 391,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " In addition to teaching African American literature, contemporary poetry, and literature of the Beat Movement, she is founding director of the Jack Kerouac Conference of Beat Literature at UMass Lowell."
+        }
+      ],
+      "tags": [],
+      "uuid": "25d0c227-b2ff-4eba-ad44-b8edf4599285"
+    },
+    {
+      "start_time": 391,
+      "end_time": 403,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Our third presenter, Tony Bolden, just had his book, Afro-Blue: Improvisations in African American Poetry and Culture published."
+        }
+      ],
+      "tags": [],
+      "uuid": "275416d4-c923-4c91-97e1-d8a24cf59ce0"
+    },
+    {
+      "start_time": 403,
+      "end_time": 410,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And he engages in the historic debate over the role of the vernacular in African American poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "937cc964-57eb-4fec-8604-cdd14d75e414"
+    },
+    {
+      "start_time": 410,
+      "end_time": 421,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " He surveys the history of the debate and then states his position and proposes his own critical framework for studying African American poetry based on the blues."
+        }
+      ],
+      "tags": [],
+      "uuid": "264c637b-f17a-49e6-acd6-54272f2f865a"
+    },
+    {
+      "start_time": 421,
+      "end_time": 427,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Tony is on the faculty in my hometown, University of Alabama at Tuscaloosa."
+        }
+      ],
+      "tags": [],
+      "uuid": "21763446-8df3-4691-9bd5-d560ee591cf6"
+    },
+    {
+      "start_time": 428,
+      "end_time": 432,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " As I said, this will be a combination of formal presentation and informality."
+        }
+      ],
+      "tags": [],
+      "uuid": "91e30083-8f39-4670-9402-9497a4f20119"
+    },
+    {
+      "start_time": 432,
+      "end_time": 439,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And we will start the formal presentations with Maryemma Graham, then Hilary Holladay, then Tony Bolden. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "827ebbd3-9fba-49f6-a497-b10d688a3e61"
+    },
+    {
+      "start_time": 449,
+      "end_time": 451,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " : Good morning."
+        }
+      ],
+      "tags": [],
+      "uuid": "96cbfa3d-8523-40b5-9a0f-e4c07fcde705"
+    },
+    {
+      "start_time": 451,
+      "end_time": 459,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " : I must thank Trudier Harris for reminding me that I am old because she told me that I was the elder person on this panel and therefore I must go first."
+        }
+      ],
+      "tags": [],
+      "uuid": "c228df59-03da-4a0e-974c-384c85005705"
+    },
+    {
+      "start_time": 459,
+      "end_time": 462,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So thank you, Trudier, for letting me know that."
+        }
+      ],
+      "tags": [],
+      "uuid": "ed64f85d-a7b6-408e-b05f-d26fe9c026bb"
+    },
+    {
+      "start_time": 465,
+      "end_time": 476,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I kind of gathered my comments under a title and I'll explain why as I go along under God Knows No Poetry, 100 Years After Dunbar."
+        }
+      ],
+      "tags": [],
+      "uuid": "07b8babd-e5e9-4377-b454-6b777db307e7"
+    },
+    {
+      "start_time": 477,
+      "end_time": 489,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In 1984, Robert Penn Warren edited an anthology, 50 Years of American Poetry, commemorating the semicentennial of the founding of the Academy of American Poets."
+        }
+      ],
+      "tags": [],
+      "uuid": "39ea550c-1fff-46b2-9c31-ddd56edd5949"
+    },
+    {
+      "start_time": 489,
+      "end_time": 498,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The volume, including Warren's introduction, is a testament to the beliefs and ideals that have guided American poetry throughout this century."
+        }
+      ],
+      "tags": [],
+      "uuid": "de095343-815a-446a-8d7a-397c6040aea9"
+    },
+    {
+      "start_time": 498,
+      "end_time": 504,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That is, a century that named modernism as the dominant expressive mode of our time."
+        }
+      ],
+      "tags": [],
+      "uuid": "bb300f7c-cc29-41ab-9eff-7a653478a9fe"
+    },
+    {
+      "start_time": 504,
+      "end_time": 513,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " From all indications, Warren sincerely believed that the volume showed no one school, bailiwick method, or category of poetry,"
+        }
+      ],
+      "tags": [],
+      "uuid": "781709df-b0b6-4b91-8ba1-4b5c9db6fc46"
+    },
+    {
+      "start_time": 513,
+      "end_time": 524,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " suggesting that the Academy has been interested in poetry, not in cults or schools, in helping as best it could serious poets of whatever persuasion."
+        }
+      ],
+      "tags": [],
+      "uuid": "078b6d07-42f3-4fec-b7f0-46f6b35b35f2"
+    },
+    {
+      "start_time": 525,
+      "end_time": 534,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " As stated by Penn Warren in that introduction, the Academy's mission was to encourage, stimulate, and foster the production of American poetry,"
+        }
+      ],
+      "tags": [],
+      "uuid": "03e1aa0f-8b0f-499e-b443-2d6649735bac"
+    },
+    {
+      "start_time": 534,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and it did so with a wide range of programs, fellowship awards, and a commitment to cultivate readers."
+        }
+      ],
+      "tags": [],
+      "uuid": "7aea83d2-58b5-4632-b936-8909558bcbad"
+    },
+    {
+      "start_time": 543,
+      "end_time": 549,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " A quick read of the name suggests that he had reason to honor the inclusiveness of the 1984 volume,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e06f4b1-ee94-4d04-a825-d7df574a8b48"
+    },
+    {
+      "start_time": 550,
+      "end_time": 559,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " that this is impressive in its representation of women poets, such as the usual Edna St. Vincent Millay, Marianne Moore, and Sylvia Plath,"
+        }
+      ],
+      "tags": [],
+      "uuid": "004b98fa-e7b0-443a-90f7-1db6d728449e"
+    },
+    {
+      "start_time": 559,
+      "end_time": 567,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " but also the names of Leonora Speyer, Louise Bogan, Louise Townsend Nicholl, and Léonie Adams."
+        }
+      ],
+      "tags": [],
+      "uuid": "51c2a99e-0817-4f07-bed1-61b338fd718e"
+    },
+    {
+      "start_time": 567,
+      "end_time": 576,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Now while these names may not be familiar to all of you, I was particularly intrigued because Speyer, Bogan, Nicholl, and Adams were poets who Margaret Walker knew,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4668ef5d-5aef-4d9c-ba13-12ca9e373eb6"
+    },
+    {
+      "start_time": 576,
+      "end_time": 582,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " read, and took her inspiration from when she began publishing in Chicago in the 1930s."
+        }
+      ],
+      "tags": [],
+      "uuid": "d52fd25e-9654-4cb5-9b19-56c29901506c"
+    },
+    {
+      "start_time": 582,
+      "end_time": 590,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " More to the point, however, is that Robert Hayden is the only African American poet represented in the volume."
+        }
+      ],
+      "tags": [],
+      "uuid": "0670620d-9051-4927-a8c2-d94eefbc34e6"
+    },
+    {
+      "start_time": 590,
+      "end_time": 600,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Hayden was one of our finest poets, and one gets the feeling that here he is in part fulfilling his obligatory role as the Black modernist,"
+        }
+      ],
+      "tags": [],
+      "uuid": "34041f6c-7dc0-42ef-b119-bb27daf2ca31"
+    },
+    {
+      "start_time": 600,
+      "end_time": 604,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " a role he often shared with Melvin Tolson."
+        }
+      ],
+      "tags": [],
+      "uuid": "8bf84c59-c005-4809-9adb-1aced9455e2f"
+    },
+    {
+      "start_time": 604,
+      "end_time": 615,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And it is a curious thing why such names such as Margaret Walker, Gwendolyn Brooks, who was awarded the Pulitzer in 1950, or Michael Harper, and others are not included."
+        }
+      ],
+      "tags": [],
+      "uuid": "40e6d62e-56aa-42d5-a835-ebb35ce3de05"
+    },
+    {
+      "start_time": 615,
+      "end_time": 625,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But as I said, the volume was written in 1984, and the Academy simply hadn't gotten around to that other kind of inclusiveness."
+        }
+      ],
+      "tags": [],
+      "uuid": "9e6ba195-7bf2-4d68-a3a7-8cb3bcadf949"
+    },
+    {
+      "start_time": 626,
+      "end_time": 632,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Today, their support of Cave Canem is but one outstanding example that they have arrived."
+        }
+      ],
+      "tags": [],
+      "uuid": "238b12a6-d0ca-4e1f-8dcb-ba9770160ec7"
+    },
+    {
+      "start_time": 632,
+      "end_time": 645,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And in 2001, late 2001, the Academy was very pleased to announce that for the first time in their history, a clear consensus existed about who was the most well-known American poet."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c07e816-85b1-4443-b727-55522169a6ce"
+    },
+    {
+      "start_time": 645,
+      "end_time": 655,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was, of course, Langston Hughes, and for many of us it was too little too late, since it took 100 years to give Hughes the recognition he so well deserved."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f8379ef-9aeb-485b-8be9-801a4510e754"
+    },
+    {
+      "start_time": 655,
+      "end_time": 666,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Since there are countless examples of this kind of exclusion, even in more recent times, it is no longer, or nor should it be perhaps, grounds for controversy."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd2f29d3-7236-4db4-b566-69103d8a1035"
+    },
+    {
+      "start_time": 666,
+      "end_time": 675,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " For after all, we know that African American poetry historically has been nourished by separate and parallel streams, American and Afrocentric."
+        }
+      ],
+      "tags": [],
+      "uuid": "156f5143-2056-47c0-bb4a-db9b693ccd07"
+    },
+    {
+      "start_time": 675,
+      "end_time": 680,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The aesthetic chronicle of a race, Joanne Gabbin reminds us."
+        }
+      ],
+      "tags": [],
+      "uuid": "2df8fe13-a0d2-408c-8a58-f21b492c73e1"
+    },
+    {
+      "start_time": 680,
+      "end_time": 682,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The fact remains..."
+        }
+      ],
+      "tags": [],
+      "uuid": "60ba84a2-6305-4274-ab58-0ee37e0853d6"
+    },
+    {
+      "start_time": 683,
+      "end_time": 686,
+      "annotation": [
+        {
+          "text": "Audience:",
+          "bold": true
+        },
+        {
+          "text": " : Can you just back up a little bit from the microphone?"
+        }
+      ],
+      "tags": [],
+      "uuid": "264611d2-7185-4a7e-9546-cb858e63873e"
+    },
+    {
+      "start_time": 686,
+      "end_time": 696,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Okay, thank you. Is that okay? Okay. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "1f3d91d1-ced8-49e8-ab02-f7bf6d790995"
+    },
+    {
+      "start_time": 698,
+      "end_time": 705,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Since she made her entree, the aesthetic chronicle of a race reminds us."
+        }
+      ],
+      "tags": [],
+      "uuid": "d45e445e-7787-481e-8f10-224d6f6eadc4"
+    },
+    {
+      "start_time": 705,
+      "end_time": 710,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The fact remains, however, that African Americans' poetic creativity is a given."
+        }
+      ],
+      "tags": [],
+      "uuid": "bbd74975-d4d3-46dd-bbb4-a6303b6a8a92"
+    },
+    {
+      "start_time": 712,
+      "end_time": 715,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And yet, it's visibility is not."
+        }
+      ],
+      "tags": [],
+      "uuid": "5797ea43-4555-4422-b800-df4af7fc26fa"
+    },
+    {
+      "start_time": 715,
+      "end_time": 723,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That generally depends upon the emergence or existence of a kind of cultural practice or a political program."
+        }
+      ],
+      "tags": [],
+      "uuid": "0d8e9ed6-74ff-4281-811e-d7027dc87668"
+    },
+    {
+      "start_time": 723,
+      "end_time": 729,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The abolitionist movement or the nationalist thrust of the Black Arts Movement, for example."
+        }
+      ],
+      "tags": [],
+      "uuid": "6ecc21cf-b9f2-41e8-a70e-8945d4b33036"
+    },
+    {
+      "start_time": 729,
+      "end_time": 740,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I do think, however, we need to be more rigorous in our critical examination and investigations of the strategic placement or displacement of African American poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "9a71685d-104d-4d76-9cd3-553c6ea28e00"
+    },
+    {
+      "start_time": 740,
+      "end_time": 748,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And especially now, in the beginning of the 21st century, the role played by the institutionalization of modernism."
+        }
+      ],
+      "tags": [],
+      "uuid": "2ad04126-c02b-47f6-9cf9-39e3029a855a"
+    },
+    {
+      "start_time": 748,
+      "end_time": 754,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In a sense, the story I have to tell is old and tired."
+        }
+      ],
+      "tags": [],
+      "uuid": "b15cb29d-7815-4eb0-8e6e-4c737e763da6"
+    },
+    {
+      "start_time": 754,
+      "end_time": 756,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We know it well."
+        }
+      ],
+      "tags": [],
+      "uuid": "e041925d-b009-4741-8c4e-a525ddb7a268"
+    },
+    {
+      "start_time": 756,
+      "end_time": 759,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The themes, the dismissals of Black art."
+        }
+      ],
+      "tags": [],
+      "uuid": "99cf0428-b0b1-4038-b532-d8ed705ffaba"
+    },
+    {
+      "start_time": 759,
+      "end_time": 762,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It has at times been their most insidious."
+        }
+      ],
+      "tags": [],
+      "uuid": "acee541b-f1f2-4c1e-8ba3-b984a45fdd0f"
+    },
+    {
+      "start_time": 762,
+      "end_time": 767,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Who can forget Thomas Jefferson, in whose shadows we stand here today?"
+        }
+      ],
+      "tags": [],
+      "uuid": "69182b57-ddac-4efa-893c-08b51c1d5497"
+    },
+    {
+      "start_time": 767,
+      "end_time": 770,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Whose words I have borrowed as the title of this paper."
+        }
+      ],
+      "tags": [],
+      "uuid": "94de9c8c-e9cc-452a-ac1c-8abe1aec8bdb"
+    },
+    {
+      "start_time": 770,
+      "end_time": 779,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In the 18th century, Jefferson's discourse on the intellectual capacity of African Americans offered the following in his notes on the state of Virginia."
+        }
+      ],
+      "tags": [],
+      "uuid": "d29fc269-3c99-4e20-a94d-fb351d0dd25e"
+    },
+    {
+      "start_time": 779,
+      "end_time": 785,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Misery is often the parent of the most affecting touches in poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e6b661f-e697-4926-8936-bf3238b40380"
+    },
+    {
+      "start_time": 785,
+      "end_time": 788,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Among the Blacks is misery enough."
+        }
+      ],
+      "tags": [],
+      "uuid": "1e48dbb5-2c9c-41a5-b75b-d3837ac35d50"
+    },
+    {
+      "start_time": 788,
+      "end_time": 791,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " God knows, but not poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "3d7e4118-549f-4b9d-9c0a-7dd5e1d37dfa"
+    },
+    {
+      "start_time": 791,
+      "end_time": 795,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Speaking directly of Phyllis Wheatley, whose work had been brought to his attention."
+        }
+      ],
+      "tags": [],
+      "uuid": "36ef16ec-ee63-4158-b60d-3ba0647016c7"
+    },
+    {
+      "start_time": 796,
+      "end_time": 804,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We are reminded that Jefferson stated that her poems were, and I quote him here, below the dignity of criticism."
+        }
+      ],
+      "tags": [],
+      "uuid": "0904ae78-324e-45de-a3f3-238d84aa4e7d"
+    },
+    {
+      "start_time": 804,
+      "end_time": 814,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So on the one hand, I must answer the question about whether things have changed since Dunbar with, no, they've gotten worse."
+        }
+      ],
+      "tags": [],
+      "uuid": "ff7234c0-9617-4eb4-a3c6-786ee70ffbff"
+    },
+    {
+      "start_time": 814,
+      "end_time": 816,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We still have a very divided culture."
+        }
+      ],
+      "tags": [],
+      "uuid": "db7086bb-fbd2-4d51-90a5-94d119bf843e"
+    },
+    {
+      "start_time": 816,
+      "end_time": 821,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " African American expressive culture provides the economic base for the world's leading industries."
+        }
+      ],
+      "tags": [],
+      "uuid": "d0efe375-eb8b-4352-a450-329956e2c96a"
+    },
+    {
+      "start_time": 822,
+      "end_time": 831,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Providing gazillions of dollars in revenue for a very good entertainment industry that includes everything from music and publishing to fashion, hair, cosmetics."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1b3a427-ca02-4d13-a63c-5cc737a8b65c"
+    },
+    {
+      "start_time": 831,
+      "end_time": 840,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And because of the natural link between Black poetry and music, it means that the borders of these genres are continually shifting."
+        }
+      ],
+      "tags": [],
+      "uuid": "76568584-2d60-4d2e-b9cc-9f03e414dd9f"
+    },
+    {
+      "start_time": 840,
+      "end_time": 850,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And like some of you, I got here in time to hear the poetry jam last night just to remind us just how visible Black poetry and Black poetic expression is."
+        }
+      ],
+      "tags": [],
+      "uuid": "786ac426-3374-4bda-b201-84f304d6cf1e"
+    },
+    {
+      "start_time": 851,
+      "end_time": 861,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And yet, the poet who wishes to write outside of the existing paradigm finds herself engaged in an uphill battle for outlooks, for support."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ac1f843-15ff-40ba-8a42-a53aadc40028"
+    },
+    {
+      "start_time": 861,
+      "end_time": 871,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Even with the staggering number of small, independent presses, poetry reading venues, and creative writing awards, and positions available in higher education."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1f59d1e-dda2-47ec-90d2-77bd9906c3a4"
+    },
+    {
+      "start_time": 871,
+      "end_time": 875,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " While our poets certainly have their challenges,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5e5dfec-638d-4db5-8284-b4b9b183462f"
+    },
+    {
+      "start_time": 876,
+      "end_time": 892,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I think the primary group who needs to ask the questions includes the students and the scholars who engage in writing, researching, and producing scholarly work."
+        }
+      ],
+      "tags": [],
+      "uuid": "6ffa4b1a-e55a-40a5-8479-51f425344924"
+    },
+    {
+      "start_time": 892,
+      "end_time": 900,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And who are part of a huge education industry that employs almost all of us here today."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a0e70b3-24c7-4ee5-a844-1954da320fb4"
+    },
+    {
+      "start_time": 901,
+      "end_time": 908,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Let me go back to the Academy's anthology and to Jefferson's comment below the dignity of criticism."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa307f95-a7e4-4983-8af1-758471dc07fe"
+    },
+    {
+      "start_time": 908,
+      "end_time": 914,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In an early study of the foundations of African American poetry, the late Sherley Anne Williams said,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a3e6f7d2-25df-4856-9664-dc760588e453"
+    },
+    {
+      "start_time": 914,
+      "end_time": 921,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In an age where almost everyone is singing someone else's song, performance has taken the place of authorship."
+        }
+      ],
+      "tags": [],
+      "uuid": "40409eee-2e1a-4b26-8718-32791eca7ed9"
+    },
+    {
+      "start_time": 921,
+      "end_time": 925,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Performance-based poetry is not new."
+        }
+      ],
+      "tags": [],
+      "uuid": "9829de5f-eed1-4b92-962a-b19e11b93297"
+    },
+    {
+      "start_time": 925,
+      "end_time": 929,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was essential to that first poetry of the Negro spirituals."
+        }
+      ],
+      "tags": [],
+      "uuid": "d3fdad90-66a8-4e2a-8ff9-2566f83c1e68"
+    },
+    {
+      "start_time": 929,
+      "end_time": 932,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was part and parcel of anti-slave poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "4ab47bc9-9868-48c1-9b2e-f54ae58f54ef"
+    },
+    {
+      "start_time": 932,
+      "end_time": 941,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Its mastery is seen in Dunbar, Hughes, Sterling Brown, Margaret Walker, as well as in the poets of the Black Arts Movement, no less than it is seen among our performance artists today."
+        }
+      ],
+      "tags": [],
+      "uuid": "a963ce67-cf1d-4c18-b395-fd1328a2f5ff"
+    },
+    {
+      "start_time": 941,
+      "end_time": 945,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But there is another history to be taken into account here."
+        }
+      ],
+      "tags": [],
+      "uuid": "9cb6e6c0-d79c-4a67-b869-e59b30067665"
+    },
+    {
+      "start_time": 945,
+      "end_time": 950,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Black poetry was increasingly written out of the modernist discourse that privileged complexity."
+        }
+      ],
+      "tags": [],
+      "uuid": "03359730-4dae-4bdf-8ecf-79137900eb3f"
+    },
+    {
+      "start_time": 950,
+      "end_time": 957,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Any poetry that was perceived as simple or too transparent was dismissed or devalued, even by Black critics."
+        }
+      ],
+      "tags": [],
+      "uuid": "c022b1ef-a789-44e3-b199-29f0b7b910f3"
+    },
+    {
+      "start_time": 957,
+      "end_time": 966,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Once having been shown the door by modernism, although some critics felt the need to act as apologists for Black poetry,"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b3e9d84-e226-4402-a313-9798c6604d32"
+    },
+    {
+      "start_time": 966,
+      "end_time": 972,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " others took responsibility for explaining what it was that was distinctive about it."
+        }
+      ],
+      "tags": [],
+      "uuid": "abc9e295-0aaf-4df6-8410-79caf4f63bb1"
+    },
+    {
+      "start_time": 972,
+      "end_time": 978,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " As a result, we have theories of and debates over the vernacular, though it wasn't called that at the time,"
+        }
+      ],
+      "tags": [],
+      "uuid": "492aac5c-b7ce-4a8b-83b4-c7f1725ad7d1"
+    },
+    {
+      "start_time": 978,
+      "end_time": 987,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " from a host of earlier writers and critics, James Weldon Johnson, Stewart Brown, for example, and among critics in every generation since."
+        }
+      ],
+      "tags": [],
+      "uuid": "92b576ea-8be6-4eae-b0f0-4690b92bb82f"
+    },
+    {
+      "start_time": 987,
+      "end_time": 992,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In the 60s and 70s, you might mention the work of Stephen Henderson, Bernard Bell, and Sherley Anne Williams."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c322be5-188e-4100-a7b1-eaca53d0cefa"
+    },
+    {
+      "start_time": 992,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " This was followed in the 80s by the work of Craig Werner, Ken Vincent, Henry Louis Gates, and Houston Baker, all of whom helped us to coin the phrase vernacular modernism."
+        }
+      ],
+      "tags": [],
+      "uuid": "7561d229-2e16-42d5-aa39-bafa55190407"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " More recently, the important work of Aldon Nielsen, Joanne Gabbin, Tony Bolden and Lorenzo Thomas and others, who have been with us today,"
+        }
+      ],
+      "tags": [],
+      "uuid": "222e77df-3ab7-4c46-90e8-a5e94987c4e0"
+    },
+    {
+      "start_time": 1009,
+      "end_time": 1017,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " has reestablished an intergenerational dialogue in an effort to provide more nuanced understandings of the impact of marginalization,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e4af37f-2c92-4a18-b007-85350c2a6617"
+    },
+    {
+      "start_time": 1017,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " not only on Black poets and poetry, but on Black critics as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "e28ef507-61f1-46a8-a219-cd0e3d64a90d"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In other words, Black poetry is clearly no longer beneath the dignity of criticism."
+        }
+      ],
+      "tags": [],
+      "uuid": "ff443afb-0745-4578-87d4-d6b71f7ed6f5"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " From each of the generations of scholars, we have taken important lessons, but the training that our institutions provide too often excludes these scholars."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ec1e077-810c-4ba6-afd1-9102bf8b45e6"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It is not uncommon, for example, for students of poetry to have to stumble upon the work of James Welden Johnson or Sterling Brown on Black folk culture,"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfb2aeed-3782-448a-af83-fac0f639f748"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and the important work of Sherley Anne Williams on the blues roots of contemporary African American poetry is virtually invisible."
+        }
+      ],
+      "tags": [],
+      "uuid": "fbfb519a-5bd5-46a7-a817-5868b4c26e70"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I mention Williams because her work on Black poetry and what she called ethno-poetics should be required reading for any scholar or writer of poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "498ee5a7-96c0-461e-8069-ea0f3bb07fa6"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1074,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " There is, therefore, a great deal of reinventing the wheel as younger scholars try to grapple with the history and nature of Black poetics."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba2bfafc-f137-4ec9-97d9-31144ff42b49"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " There are two examples from our history that I'd like to focus on today to make us more aware of the need to be vigilant and systematic in our scholarly endeavors."
+        }
+      ],
+      "tags": [],
+      "uuid": "4c66261a-dd64-4df4-b9d8-965b8bec5a65"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1096,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Let me turn back to the 20th century, the beginning of it, a time when not only Black poetry was below the dignity of criticism, but the whole of American poetry was as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "821ccc5a-e796-4621-8466-0048c0047b52"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1103,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " For all accounts, America was a cultural wasteland, to borrow the term made famous by T.S. Eliot."
+        }
+      ],
+      "tags": [],
+      "uuid": "f2163380-c6ac-4417-8548-9e5e57ab093a"
+    },
+    {
+      "start_time": 1103,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The last recognizably great American poet was Walt Whitman, and his most famous work, Leaves of Grass, had appeared in 1855, before the war."
+        }
+      ],
+      "tags": [],
+      "uuid": "5644ae3e-7b0b-43db-a8e1-a2c6466854c7"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was impossible for the nation to return to the stability it had known before the war, a stability by and large dependent upon slavery."
+        }
+      ],
+      "tags": [],
+      "uuid": "4bcac5fb-a3a9-45ae-8eeb-50a5a4e25d43"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Moreover, to quote Lorenzo Thomas, the perceived technological progress, if nothing else, the emergence of communications from high-speed newspaper printing presses to automobiles to motion pictures to radio,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4552ab7d-78ac-48d6-8c5f-6260f63dec43"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " separated the culture of this century from that of an earlier one and provoked a crisis of social and personal values, a sense that the gulf between this age and the past, while welcome, demanded a bridge."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd11d8c2-5887-4697-9986-50e90ec8d14e"
+    },
+    {
+      "start_time": 1151,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Into this wasteland came Paul Laurence Dunbar, like a phoenix rising from the ashes."
+        }
+      ],
+      "tags": [],
+      "uuid": "16fe842e-b9e1-414a-87aa-9319dcfdec71"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " He was that bridge between the centuries."
+        }
+      ],
+      "tags": [],
+      "uuid": "84852c66-afad-4431-824a-826b5de24f03"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " He was better by far than any other poet of his generation, Black or white."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e0345a3-84b2-4c75-8304-dee3b7bd2a66"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But given the instability and uncertainty of the time, to unleash Dunbar's imagination and brilliant poetics on a nation would be relinquishing white racial authority."
+        }
+      ],
+      "tags": [],
+      "uuid": "4b36eec1-5448-4234-80e2-5826334e85af"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was safer, by far, to contain Dunbar in his talent by relegating him to house poet, the antebellum wonder boy, for there was no telling where his powers would take poetry, and by implications, his own people."
+        }
+      ],
+      "tags": [],
+      "uuid": "01c8c9c4-f544-4161-be37-7a44a323a901"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In other words, Dunbar was operating at a time of fear, if not hostility, and these were normalized in the literary imagination as an escape into the past, along with the image of a docile, uncomplicated people."
+        }
+      ],
+      "tags": [],
+      "uuid": "ebeef6a7-ce78-4e97-be58-512432d1f8c1"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But even at that, Dunbar's brilliance shone through."
+        }
+      ],
+      "tags": [],
+      "uuid": "dfdce646-c353-42ad-b3dc-a31ab7066150"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " He mastered the art of speaking to two different audiences simultaneously, giving each a different meaning through the same words."
+        }
+      ],
+      "tags": [],
+      "uuid": "06c4904a-f9cb-4d61-ae98-b449d7438db5"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1239,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " By the time modernism's birth was proclaimed in the opening years of the century, and punctuated by the birth of Harriet Monroe's poetry, A Magazine of Verse, in 1912, Dunbar would no longer be a factor of concern for modernism."
+        }
+      ],
+      "tags": [],
+      "uuid": "a693a68f-fe11-420b-a62f-cd7333876202"
+    },
+    {
+      "start_time": 1239,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " He could easily be dismissed as being part of the old world, something that his widely circulating dialect poetry assured."
+        }
+      ],
+      "tags": [],
+      "uuid": "f0001b2a-a052-4fd9-8ad2-03f0edd32396"
+    },
+    {
+      "start_time": 1249,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The point I'd like to make is that the early modernists, as were Pound, Miss Elliot, and the religious poets, were calling for a new poetry and a new criticism that would help to reestablish poetry's preeminence."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f7e6146-8a1d-4bf7-974b-f9917f6a0437"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Since what had been constructed as America had such a young history, these writers looked beyond America to bring to poetry new content, thus breaking with the fixed forms of 19th century genteel verse."
+        }
+      ],
+      "tags": [],
+      "uuid": "8940f4c1-e24b-4cfc-b72b-b714771349e2"
+    },
+    {
+      "start_time": 1276,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " This was a deliberate and calculated move, once supported by the institutionalization of a movement by wealthy and established patrons who wanted America to be as literarily exciting as they knew Europe to be."
+        }
+      ],
+      "tags": [],
+      "uuid": "0f753655-64c5-4767-9b02-f9e71dbb7c1c"
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Thus, while Dunbar was acceptable in a moment of transition, by the time Harriet Monroe and others began looking for poets to represent a new movement, Dunbar, and any other Black poet, was dead on the vine."
+        }
+      ],
+      "tags": [],
+      "uuid": "30d72feb-6bf6-46b0-ad8b-5b1d5d85a03a"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But what most of us don't know is that another magazine was launched at the same time as Monroe's poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "b0b671ab-39d3-4c9a-964c-6e0d0a1174a2"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was the Poetry Journal in Boston by William Stanley Braithwaite, who had already become the nation's most visible critic, writing as a columnist or journalist for the Boston Evening Transcript."
+        }
+      ],
+      "tags": [],
+      "uuid": "f40190eb-a659-488b-990f-8cceae761894"
+    },
+    {
+      "start_time": 1327,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " According to Lorenzo Thomas, it was Braithwaite and not Monroe who launched the careers of Robert Frost and other major figures."
+        }
+      ],
+      "tags": [],
+      "uuid": "dc393b49-dbca-4386-8b1d-1e1fbbfbaad1"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1346,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Braithwaite believed that the role of the critic was to make modern literature accessible to readers, and because he understood the politics of the time, he did not hesitate to align himself with the mainstream."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4fce749-04b0-4f85-9805-bb6be34bec97"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " For five years, two magazines, Poetry and The Poetry Journal, were neck and neck, and the increase of the poetic activity was amazing."
+        }
+      ],
+      "tags": [],
+      "uuid": "03cb4b27-b536-40ac-8d43-4616c725b1bd"
+    },
+    {
+      "start_time": 1357,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " By 1917, the competition between the two magazines came to a head. Monroe saw herself as the guiding star of the new poetry movement."
+        }
+      ],
+      "tags": [],
+      "uuid": "6a1a1b08-1d76-41dc-b6bc-397f14e698df"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Modernism became, in effect, an elitist cult and a battle for control over who would write poetry as well as who would get to interpret it."
+        }
+      ],
+      "tags": [],
+      "uuid": "e387ce69-143e-4ad3-9818-674651fb907c"
+    },
+    {
+      "start_time": 1382,
+      "end_time": 1390,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But Monroe was, for lack of a better term, one of our first divas, self-possessed and possessive."
+        }
+      ],
+      "tags": [],
+      "uuid": "fcf1907c-b2b1-43b2-bfa1-ea28a140ceeb"
+    },
+    {
+      "start_time": 1390,
+      "end_time": 1397,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " She enjoyed her preeminence as poetry's foremost promoter and began a vicious campaign against Braithwaite."
+        }
+      ],
+      "tags": [],
+      "uuid": "0a5478c9-5144-4c0f-a700-6e65b8d3f285"
+    },
+    {
+      "start_time": 1397,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " What transpired, you can't imagine. Braithwaite was attacked for his critical judgments that were seen as too generous and laudatory, too concerned with readers, and not enough with serious poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "f5540514-9626-4efb-a538-bc12d252fb8f"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " His error lay in his failure to publish any of those poets Monroe considered part of her new movement, or a failure to acknowledge the importance of Monroe's discovery of certain poets when he did publish them."
+        }
+      ],
+      "tags": [],
+      "uuid": "80b99ba2-bc7f-4219-9d30-9861ae02bd1a"
+    },
+    {
+      "start_time": 1424,
+      "end_time": 1435,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It was clear that Monroe wanted no competition and that she would have to find a way to end the career of an influential journalist."
+        }
+      ],
+      "tags": [],
+      "uuid": "2a041def-a1d8-4145-bd1d-2e893d0545c6"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1444,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Incidentally, one was whacked. The attacks and counterattacks led to a boycott of Braithwaite's future anthologies."
+        }
+      ],
+      "tags": [],
+      "uuid": "a0d033a1-8359-46cd-bbd2-776c14a52cf2"
+    },
+    {
+      "start_time": 1444,
+      "end_time": 1454,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Even Kansas got into the picture when Willard Wattles' Sunflowers: A Book of Kansas Poems, accused those who appeared in Braithwaite's anthology of shaming themselves."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4da96c0-9bb2-4325-8909-0c7f0905acb5"
+    },
+    {
+      "start_time": 1454,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " One cannot believe that any of this was ever civil, and indeed it became very personal."
+        }
+      ],
+      "tags": [],
+      "uuid": "077c66f8-46f6-4f30-b836-6d0f76e58102"
+    },
+    {
+      "start_time": 1460,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " If Braithwaite wasn't called an uppity or incompetent nigger, what he was called was certainly close to."
+        }
+      ],
+      "tags": [],
+      "uuid": "a1a8fec1-bf1a-4555-942e-a39ae40aabb2"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Eventually, Braithwaite was rejected not only by Frost, whose work he had first published, but also by Carl Sandburg and Ezra Pound, who had never met him, among others."
+        }
+      ],
+      "tags": [],
+      "uuid": "d2806298-069c-481f-84df-f5c26a29d582"
+    },
+    {
+      "start_time": 1478,
+      "end_time": 1486,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In short, when the chips were down and the battle lines drawn, it came down to race and a struggle for power."
+        }
+      ],
+      "tags": [],
+      "uuid": "87a38669-b8a0-4b7b-beb9-cb7a12ec7d2e"
+    },
+    {
+      "start_time": 1487,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The sense of modernism as a battle, certainly among African American poets, is nowhere clearer than in Melvin Tolson's quote in his 1955 book review."
+        }
+      ],
+      "tags": [],
+      "uuid": "72f11b83-8b93-4474-a8b6-bbc0220284cb"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Speaking of the awarding of the Pulitzer Prize to Eliot, Tolson commented,"
+        }
+      ],
+      "tags": [],
+      "uuid": "40e4587b-adfe-486d-8f84-318a4d83ba44"
+    },
+    {
+      "start_time": 1505,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The victory of the moderns was complete. With all the competition suppressed or destroyed, indeed it was."
+        }
+      ],
+      "tags": [],
+      "uuid": "32cc7d65-146c-4605-825c-5ea514ffd5be"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Much of this remains buried in the back pages of literary history, but I urge you to engage in more careful, close reading of the period, provided by scholars like Aldon Nielsen and Lorenzo Thomas."
+        }
+      ],
+      "tags": [],
+      "uuid": "5f6a2a9d-df92-4d2f-b4e8-21607fb0f15a"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1543,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " If nothing else, you will come to understand the shameless opportunism and embattled nature of a movement that has come across to us as an ivory tower, refined European aberration of the American body politic."
+        }
+      ],
+      "tags": [],
+      "uuid": "6f28502e-5f88-4625-993c-6713045509be"
+    },
+    {
+      "start_time": 1543,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " In contrast, American modernism used every tool in the arsenal to gain ascendancy and to marginalize and even run over anyone in its path."
+        }
+      ],
+      "tags": [],
+      "uuid": "7d8fe5c9-a1d2-45db-a00d-336a9846c4a5"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " One poet, one critic, both affected by the calculated exclusions, both victimized by the political and aesthetic practices of pre-modernism and modernism proper."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd3d8bb9-1a50-4be8-b0ba-5b34c91c1c28"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " If Dunbar's failure lay in his isolation and commercialization, he didn't have Furious Flower in his support."
+        }
+      ],
+      "tags": [],
+      "uuid": "92e8a327-4b60-4c13-932b-28086a4e3fa7"
+    },
+    {
+      "start_time": 1575,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " What does this portend for the current poetry revolution?"
+        }
+      ],
+      "tags": [],
+      "uuid": "84a6ebd3-56a1-442b-a429-738ba030b2c3"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " If Braithwaite's defeat constrained the capacity of African American critics to challenge prevailing assumptions about literature,"
+        }
+      ],
+      "tags": [],
+      "uuid": "86efec3a-3a03-407d-ba2e-b41d45908976"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " it may help to explain why in 1939, in To Make a Poet Black, Saunders Redding was concerned to borrow a formalist paradigm in his important critique of Black poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "5061602d-7e3e-4b81-8717-0851840aca71"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1613,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Redding was able to do what Braithwaite could not, maintain an open place for Black poetry by linking his criticism to formalism and fusing it with the theme of the burden of race."
+        }
+      ],
+      "tags": [],
+      "uuid": "a1131576-823c-464f-babe-68879a01a4fb"
+    },
+    {
+      "start_time": 1613,
+      "end_time": 1619,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We are indeed a century away from the stories I have told, but in another sense, we are not."
+        }
+      ],
+      "tags": [],
+      "uuid": "bf7ffc8a-4d10-4711-a38c-2a8f95891008"
+    },
+    {
+      "start_time": 1619,
+      "end_time": 1632,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " There is a great deal of work for critics and literary historians in order to assure that we have a full knowledge of the parallel and interflowing streams that constitute African American poetic discourse."
+        }
+      ],
+      "tags": [],
+      "uuid": "f9f86aaa-a41c-4ce8-8c9e-8b16a2a55941"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1636,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We cannot, however, leave the task to the poets alone."
+        }
+      ],
+      "tags": [],
+      "uuid": "9732a873-605c-43bc-9b4b-c4654a636a25"
+    },
+    {
+      "start_time": 1636,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " It is, as always, a communal and cultural mandate involving critics and readers, and it is the mission of the institution, those institutions like Furious Flower Center."
+        }
+      ],
+      "tags": [],
+      "uuid": "6edc9680-32c3-40ca-a9a9-0bcb43cbcc54"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Only in this way, says Lorenzo Thomas, will the next generation have the freedom to demonstrate the energetic diversity that has always characterized the African American intellectual tradition. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "c94eff3b-b96b-4902-b043-0c826c1c432b"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1687,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " : Good morning."
+        }
+      ],
+      "tags": [],
+      "uuid": "e561a960-8f41-4b42-b25d-90ad09373ee6"
+    },
+    {
+      "start_time": 1687,
+      "end_time": 1695,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " : You know, with an all-white audience, it's so much harder to get a good morning coming back to you."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f9d8a97-04f3-4068-b14d-b8db55b346ab"
+    },
+    {
+      "start_time": 1695,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "text": "Audience:",
+          "bold": true
+        },
+        {
+          "text": " : Well, good morning."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e862553-0cdd-4818-8cbf-1a3c6deac43f"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1699,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " : Well thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "b157f1f2-2077-4e96-aafb-7d695d9d56ed"
+    },
+    {
+      "start_time": 1699,
+      "end_time": 1701,
+      "annotation": [
+        {
+          "text": "Audience:",
+          "bold": true
+        },
+        {
+          "text": " : Good morning."
+        }
+      ],
+      "tags": [],
+      "uuid": "cf09d110-48fc-4252-88ec-3dfc2b24359d"
+    },
+    {
+      "start_time": 1702,
+      "end_time": 1705,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " : I'm so happy to be here at Furious Flower."
+        }
+      ],
+      "tags": [],
+      "uuid": "5bc9e1c7-86d1-49ec-9335-d1c96d4339c3"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1716,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I wasn't here at the inaugural event in 1994, and I've been regretting that for ten years, so I'm honored to be part of this occasion."
+        }
+      ],
+      "tags": [],
+      "uuid": "d8b9fe9e-389f-4802-8fa8-7baa76d91e49"
+    },
+    {
+      "start_time": 1716,
+      "end_time": 1720,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And I'm also happy to be back in my home state of Virginia."
+        }
+      ],
+      "tags": [],
+      "uuid": "694d4bcc-0d11-42d3-9b4f-0c728b13a8ec"
+    },
+    {
+      "start_time": 1720,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :This is actually the first time I've visited the JMU campus, and I had a scenic tour of it this morning."
+        }
+      ],
+      "tags": [],
+      "uuid": "ec526e35-78bc-4ed4-94b4-5469e8a46c7f"
+    },
+    {
+      "start_time": 1728,
+      "end_time": 1736,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Evie Shockley and her friend, Stephen, were kind enough to drive me here, so a Trudier"
+        }
+      ],
+      "tags": [],
+      "uuid": "edf24f5f-b0bf-48ce-ac45-afdeead58a1a"
+    },
+    {
+      "start_time": 1736,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :thank you for letting me join the panel when you'd already started introductions."
+        }
+      ],
+      "tags": [],
+      "uuid": "86b75b48-6679-46f6-a2db-da45ea025b84"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I knew you would."
+        }
+      ],
+      "tags": [],
+      "uuid": "07a06fc4-5ff4-4efa-9651-3ae9d04ceddf"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1751,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Well, I will talk a little bit today about African American poetry, and I'm going to address this to poets in the audience."
+        }
+      ],
+      "tags": [],
+      "uuid": "a7d8402e-232e-4459-9e40-0ad3236821ee"
+    },
+    {
+      "start_time": 1751,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :How many of you are poets?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d3419993-e6d1-4732-b93c-039064027b35"
+    },
+    {
+      "start_time": 1753,
+      "end_time": 1757,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :How many of you are poets under 30?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4324a3c7-9849-495e-ae29-e77b76cf43d5"
+    },
+    {
+      "start_time": 1757,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Okay."
+        }
+      ],
+      "tags": [],
+      "uuid": "22cbdbad-fac2-4678-a2d1-fcebfd2f24e6"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 1762,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Well, let's go back in history, for starters."
+        }
+      ],
+      "tags": [],
+      "uuid": "a03f19a3-b2c6-45ae-9c91-bc49ccbefd85"
+    },
+    {
+      "start_time": 1762,
+      "end_time": 1770,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :For African American poets beginning with Phillis Wheatley in 18th century Boston, writing verse has always been an act of hope and courage."
+        }
+      ],
+      "tags": [],
+      "uuid": "0f4f6c43-582a-4471-aa0c-5c415f330227"
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1781,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :But like that proverbial tree falling silently in a forest devoid of living creatures, a poem makes no sound unless someone other than the author hears it or reads it."
+        }
+      ],
+      "tags": [],
+      "uuid": "6e962f7f-b47a-49e4-8bde-ba5ca1718817"
+    },
+    {
+      "start_time": 1781,
+      "end_time": 1787,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Delivering the poem to the world is the greater act of courage, the overtly political act."
+        }
+      ],
+      "tags": [],
+      "uuid": "ea8ef07e-8193-4403-8c35-a0992e82fe4b"
+    },
+    {
+      "start_time": 1787,
+      "end_time": 1797,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :We all know that for the poets we're reading, remembering, and listening to during this conference, courage is like oxygen, and politics are a fact of everyday life."
+        }
+      ],
+      "tags": [],
+      "uuid": "4f7fb967-1782-4b0d-89e9-d4766727ee3c"
+    },
+    {
+      "start_time": 1797,
+      "end_time": 1803,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :For as Gwendolyn Brooks once said, every time I walk out my front door, it's a political act."
+        }
+      ],
+      "tags": [],
+      "uuid": "90686fba-8eef-4a68-8b8b-4555f4777972"
+    },
+    {
+      "start_time": 1803,
+      "end_time": 1809,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Every time a Black poet in the United States writes a poem, it's a political gesture."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee859f6e-ddbe-4680-9e6a-4a416d13ac20"
+    },
+    {
+      "start_time": 1809,
+      "end_time": 1818,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :But when you write a poem and give it to a friend or a teacher, to your students or coworkers, when you publish your poems in journals or books or post them on websites,"
+        }
+      ],
+      "tags": [],
+      "uuid": "03104599-b467-432e-83af-2a961261b248"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1824,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :when you read or perform them publicly, that's their literary equivalent of walking out the front door."
+        }
+      ],
+      "tags": [],
+      "uuid": "14c15c93-82c8-420f-802d-2513be6dbffa"
+    },
+    {
+      "start_time": 1824,
+      "end_time": 1834,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :You're taking the poem to a place where the poem is no longer safe, but its life on the outside will be so much more interesting than it would be at home on your hard drive."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d815540-9765-4b15-9b36-32980ffedc86"
+    },
+    {
+      "start_time": 1834,
+      "end_time": 1843,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Outside the house, the poem risks interpretation, misinterpretation, appropriation, celebration, degradation."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e9e8905-b93a-44af-b82f-800b8c686d33"
+    },
+    {
+      "start_time": 1843,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :So that's the poet's most important political act, taking poems for a walk and then letting them make their own way in the world."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d6f3f96-65c7-4117-990d-91d141b729ad"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 1859,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :African-American poets have long faced an uphill walk, climbing that racial mountain Langston Hughes talked about is very hard work."
+        }
+      ],
+      "tags": [],
+      "uuid": "10b01618-60b8-4f93-8b23-c458cda5a1d6"
+    },
+    {
+      "start_time": 1859,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Many of you probably know his famous essay by heart but his lesson still bears repeating."
+        }
+      ],
+      "tags": [],
+      "uuid": "61ea8d99-2652-4dba-9618-9fc7fda7ac9f"
+    },
+    {
+      "start_time": 1865,
+      "end_time": 1869,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Here are several key sentences from The Negro Artist and the Racial Mountain."
+        }
+      ],
+      "tags": [],
+      "uuid": "d89ad0f5-0d6a-4a41-95b4-e28004cfb6a8"
+    },
+    {
+      "start_time": 1869,
+      "end_time": 1873,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :No great poet has ever been afraid of being himself."
+        }
+      ],
+      "tags": [],
+      "uuid": "93bfcf10-8a6c-49ef-8ee8-44dfc6052577"
+    },
+    {
+      "start_time": 1873,
+      "end_time": 1880,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :The road for the serious Black artist who would produce racial art is most certainly rocky and the mountain is high."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f312012-b6c9-44b9-aa92-75e2d15d06cf"
+    },
+    {
+      "start_time": 1880,
+      "end_time": 1887,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :An artist must be free to choose what he does, certainly, but he also must never be afraid to do what he might choose."
+        }
+      ],
+      "tags": [],
+      "uuid": "00fed617-9fe0-4ea6-a6f2-02743c4eaae2"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :It's no small achievement that so many of Hughes' contemporaries of literary sentiments have lived up to his standards of self-acceptance and unapologetic truth-telling."
+        }
+      ],
+      "tags": [],
+      "uuid": "44f9a67b-79c1-4ca0-b681-07d36bdf567b"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :But like everyone else, poets have to deal with the realities of their own lives in the sliver of time they're given or reserved."
+        }
+      ],
+      "tags": [],
+      "uuid": "547b4f30-6a5b-4757-ba39-4cf10d9e951c"
+    },
+    {
+      "start_time": 1907,
+      "end_time": 1917,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :We can only imagine what Phillis Wheatley might have written if she'd come along later to publish her work in 1973 instead of 1773."
+        }
+      ],
+      "tags": [],
+      "uuid": "bdb33408-5b5a-4aea-bcdc-fd1e663d4d49"
+    },
+    {
+      "start_time": 1917,
+      "end_time": 1923,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I wonder, would Phillis have been part of the Black Lives Movement? Maybe."
+        }
+      ],
+      "tags": [],
+      "uuid": "cef81602-a170-43da-acef-6c14ed03384b"
+    },
+    {
+      "start_time": 1923,
+      "end_time": 1930,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :There are specific hurdles and problems associated with every generation and even with every election cycle."
+        }
+      ],
+      "tags": [],
+      "uuid": "5d002f59-d89a-4c15-b6e2-6d5e069e805c"
+    },
+    {
+      "start_time": 1931,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :The way that poets respond to those matters has a lot to do with how well they'll be remembered."
+        }
+      ],
+      "tags": [],
+      "uuid": "102d4d0c-d3f8-4106-b0e4-8a36f7c46bb7"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1943,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :For the rest of my presentation, I'd like to outline a few of the challenges facing young African American poets today."
+        }
+      ],
+      "tags": [],
+      "uuid": "20d24c4f-345b-477a-82bb-36b5e52782da"
+    },
+    {
+      "start_time": 1943,
+      "end_time": 1949,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Although I am not an African American poet myself, and I've never played one on TV,"
+        }
+      ],
+      "tags": [],
+      "uuid": "842257ed-b568-46e6-8cf9-5bea2e43a672"
+    },
+    {
+      "start_time": 1949,
+      "end_time": 1958,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I have spent some time reading and thinking about African American poetry and poets, Lucille Clifton in particular."
+        }
+      ],
+      "tags": [],
+      "uuid": "ff44bf23-a81a-4e56-94e5-5c0f310b51db"
+    },
+    {
+      "start_time": 1958,
+      "end_time": 1965,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I'm going to tailor my remarks to the ways in which she has responded to these challenges over the course of her career."
+        }
+      ],
+      "tags": [],
+      "uuid": "e49d1dfa-8c73-42d0-a5d5-4ec8ac0fe600"
+    },
+    {
+      "start_time": 1965,
+      "end_time": 1971,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I'll leave it to the rest of you to fill in the blanks as you think about other poets and their ways of responding."
+        }
+      ],
+      "tags": [],
+      "uuid": "d84b95a1-e9c8-41f8-a461-cc50071241cc"
+    },
+    {
+      "start_time": 1971,
+      "end_time": 1976,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Challenge number one, how do you write poems for two Americas?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c37cf82a-b314-4f9b-a968-e32875646630"
+    },
+    {
+      "start_time": 1976,
+      "end_time": 1982,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :In a speech that Democratic Vice Presidential candidate John Edwards gave in Iowa late last year,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e274289-a468-4404-a100-59fde6abf00d"
+    },
+    {
+      "start_time": 1982,
+      "end_time": 1986,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :he said that under our present administration, there are two Americas, not one."
+        }
+      ],
+      "tags": [],
+      "uuid": "a07801e2-0ab8-4778-8afc-525621761fd8"
+    },
+    {
+      "start_time": 1986,
+      "end_time": 1991,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :One America that does the work, another America that reaps the reward."
+        }
+      ],
+      "tags": [],
+      "uuid": "0194a34e-8a05-4c20-babf-a9b3537f01a7"
+    },
+    {
+      "start_time": 1991,
+      "end_time": 1996,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :One America that pays the taxes, another America that gets the tax breaks."
+        }
+      ],
+      "tags": [],
+      "uuid": "429c7bb7-4802-46f3-b0db-a6f1e6d07563"
+    },
+    {
+      "start_time": 1996,
+      "end_time": 2000,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :One America that will do anything to leave its children a better life,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f62167c1-2404-4cb9-aeb2-4e1cdd1a2cd5"
+    },
+    {
+      "start_time": 2000,
+      "end_time": 2006,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :another America that never has to do a thing because its children are already set for life."
+        }
+      ],
+      "tags": [],
+      "uuid": "a66a95c1-9cd8-4d75-b853-a474e9251c78"
+    },
+    {
+      "start_time": 2006,
+      "end_time": 2011,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :These two Americas present us with a whole spectrum of political and social problems,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f8c138df-f8c7-46ce-82f1-7285cb693f9c"
+    },
+    {
+      "start_time": 2011,
+      "end_time": 2015,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :but at the moment I'm just concerned with the literary problem."
+        }
+      ],
+      "tags": [],
+      "uuid": "47b253ec-4f5b-469f-8290-b4f8da2d3f8e"
+    },
+    {
+      "start_time": 2015,
+      "end_time": 2020,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :How do you write for a populace that splits into those who understand where you're coming from,"
+        }
+      ],
+      "tags": [],
+      "uuid": "27990ac4-a17c-4b4f-9013-6d585e087143"
+    },
+    {
+      "start_time": 2020,
+      "end_time": 2027,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :literally and figuratively, and are predisposed to like you, and those who don't and aren't?"
+        }
+      ],
+      "tags": [],
+      "uuid": "56b3fcf7-a680-4be1-bdbe-c482acbd1e45"
+    },
+    {
+      "start_time": 2027,
+      "end_time": 2034,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Do you take your cue from Kerry and Edwards and pitch all of your poems at the swing readers in Missouri and New Hampshire?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f67e00b4-53b2-4aec-979d-ad171fa26904"
+    },
+    {
+      "start_time": 2034,
+      "end_time": 2038,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Do you speak to opinions that change the course of history?"
+        }
+      ],
+      "tags": [],
+      "uuid": "48bfe853-148c-433a-89a5-559264579f82"
+    },
+    {
+      "start_time": 2039,
+      "end_time": 2042,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Well, I'll tell you what Lusa Clifton has done."
+        }
+      ],
+      "tags": [],
+      "uuid": "71069709-6fd6-4b1b-82e8-8b24e5c6a1f9"
+    },
+    {
+      "start_time": 2042,
+      "end_time": 2045,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :She's written her poems not for one America or the other,"
+        }
+      ],
+      "tags": [],
+      "uuid": "858c231c-1739-4872-a599-ded184be9a26"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2050,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :not just for readers of one color or another or blue states or red ones."
+        }
+      ],
+      "tags": [],
+      "uuid": "6a1cc43b-10fe-4533-a66a-e786fc7ea090"
+    },
+    {
+      "start_time": 2050,
+      "end_time": 2053,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Here's what she has to say."
+        }
+      ],
+      "tags": [],
+      "uuid": "c371058f-741c-40b9-83b3-2b45b24096e7"
+    },
+    {
+      "start_time": 2053,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I'm really trying to listen to the poem, to hear it, trying to help the poem become what it wants to be,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9dae673-35dd-4667-92ae-a9d9afc5d348"
+    },
+    {
+      "start_time": 2060,
+      "end_time": 2062,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :not what I want it to be."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c6a7598-d89f-4faa-94db-9624fecb5127"
+    },
+    {
+      "start_time": 2063,
+      "end_time": 2068,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :In another interview, one that I conducted with Ms. Clifton, she talks some more on this subject."
+        }
+      ],
+      "tags": [],
+      "uuid": "e99dc333-f8e7-45eb-8046-4a3ce1ff4b70"
+    },
+    {
+      "start_time": 2068,
+      "end_time": 2074,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :She had told me that over the course of her career, beginning when she published her first book in 1969,"
+        }
+      ],
+      "tags": [],
+      "uuid": "784279c1-e978-41eb-816a-9a34ec28d60a"
+    },
+    {
+      "start_time": 2074,
+      "end_time": 2077,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :she had given more than 500 poetry readings."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8ee019d-9f17-4645-9b0c-bfbd7e97aacd"
+    },
+    {
+      "start_time": 2077,
+      "end_time": 2080,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Think about that. That's a lot of readings."
+        }
+      ],
+      "tags": [],
+      "uuid": "eec98566-cd34-44b1-89af-af8d3cb53d97"
+    },
+    {
+      "start_time": 2080,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And typically the audiences were mostly white with a small number of Black people present."
+        }
+      ],
+      "tags": [],
+      "uuid": "73f8d0a7-4167-49b7-ae4d-a0cd936735a7"
+    },
+    {
+      "start_time": 2085,
+      "end_time": 2090,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Yet she has readers and fans all over the world, and at the time I was speaking with her"
+        }
+      ],
+      "tags": [],
+      "uuid": "ffd223ea-4768-4585-9b2c-09e84e7d8327"
+    },
+    {
+      "start_time": 2090,
+      "end_time": 2094,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :she mentioned having received fan letters from two Albanian soldiers."
+        }
+      ],
+      "tags": [],
+      "uuid": "efd47f29-d4b6-441a-9171-68c7770f6da1"
+    },
+    {
+      "start_time": 2094,
+      "end_time": 2098,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :On the subject of audience, she said to me,"
+        }
+      ],
+      "tags": [],
+      "uuid": "53cf0a16-6c32-4e76-a007-589d97931200"
+    },
+    {
+      "start_time": 2098,
+      "end_time": 2102,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I would like African-American people to be proud of me and to like what I do."
+        }
+      ],
+      "tags": [],
+      "uuid": "7501523e-e225-4c53-8e55-41624dd452cd"
+    },
+    {
+      "start_time": 2102,
+      "end_time": 2105,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Women, I would like them to be proud of me and like what I do."
+        }
+      ],
+      "tags": [],
+      "uuid": "e255583d-4f20-48a9-a5a7-3b804dffddad"
+    },
+    {
+      "start_time": 2105,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :But I write for the poem. That's what I'm trying to do, serve the poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "5b467399-55fb-4f1f-b14a-9cb4ada77c48"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2114,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And who is to receive it will. Who can receive it will."
+        }
+      ],
+      "tags": [],
+      "uuid": "ec308f9e-f326-4bd8-95ee-3042c2d03658"
+    },
+    {
+      "start_time": 2114,
+      "end_time": 2119,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I think that's an interesting approach, writing for the poem instead of the public."
+        }
+      ],
+      "tags": [],
+      "uuid": "2ce08421-9afa-4f5f-902d-647c299935da"
+    },
+    {
+      "start_time": 2119,
+      "end_time": 2123,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :But none of this is to imply that Ms. Clifton is apolitical"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a8f6d33-174a-4e68-a2e0-508cb01fdf30"
+    },
+    {
+      "start_time": 2123,
+      "end_time": 2128,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :or that she is skirting the problem of two Americas or three Americas or three thousand."
+        }
+      ],
+      "tags": [],
+      "uuid": "e1b4f4df-f210-4839-a520-fa2e5ee08469"
+    },
+    {
+      "start_time": 2128,
+      "end_time": 2130,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Quite the contrary."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3d5befb-e955-4a5e-9411-80aa72fbd8d5"
+    },
+    {
+      "start_time": 2130,
+      "end_time": 2134,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :What she's often done and what she continues to do in her new book, Mercy,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b728549-06d8-4696-ba03-9f3801557db6"
+    },
+    {
+      "start_time": 2134,
+      "end_time": 2139,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :is to acknowledge and confront the divided house that is the United States."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc3188ac-ebff-44b8-a971-c4c92b805a74"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 2143,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :We see this in a poem called In the Inner City, which appears in Good Times,"
+        }
+      ],
+      "tags": [],
+      "uuid": "52cc39ca-8f74-48b0-8067-b2251522e93e"
+    },
+    {
+      "start_time": 2143,
+      "end_time": 2147,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :that first volume of hers, which came out in 1969."
+        }
+      ],
+      "tags": [],
+      "uuid": "5b91080a-e858-4686-b06d-b654c02dbed6"
+    },
+    {
+      "start_time": 2147,
+      "end_time": 2152,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And we see it in a sequence called In White America, which is in her book called Next,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e584d082-508b-45c3-bc18-5c736ae5018f"
+    },
+    {
+      "start_time": 2152,
+      "end_time": 2154,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :coming out in 1987."
+        }
+      ],
+      "tags": [],
+      "uuid": "31db3b61-24cd-4e20-8584-68e4bf033e96"
+    },
+    {
+      "start_time": 2154,
+      "end_time": 2159,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :That sequence is about the challenges of reading poetry to white audiences"
+        }
+      ],
+      "tags": [],
+      "uuid": "62409cb0-d006-444e-b066-a139f096731f"
+    },
+    {
+      "start_time": 2159,
+      "end_time": 2163,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :who may be welcoming without being fully comprehending."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6da04b2-58c5-4ce9-a805-7368dc1b2deb"
+    },
+    {
+      "start_time": 2163,
+      "end_time": 2167,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :There are many other examples of her poems I could give, but you get the idea."
+        }
+      ],
+      "tags": [],
+      "uuid": "eb7dd448-1531-44dd-a8fa-ac7630ef5753"
+    },
+    {
+      "start_time": 2167,
+      "end_time": 2172,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Lucille Clifton writes about the two Americas, but she writes for the poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "77dd46ca-1017-450a-8e21-18b0f408b413"
+    },
+    {
+      "start_time": 2172,
+      "end_time": 2175,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :That's her way of handling challenge number one."
+        }
+      ],
+      "tags": [],
+      "uuid": "3b24381e-f29e-4a6a-8243-b2c7e4923082"
+    },
+    {
+      "start_time": 2175,
+      "end_time": 2177,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Challenge number two."
+        }
+      ],
+      "tags": [],
+      "uuid": "93ee2aa7-3d46-435c-a341-a347f4e55b0b"
+    },
+    {
+      "start_time": 2177,
+      "end_time": 2181,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :What do you do if you want to be a poet, not a Black poet?"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd4d0630-cfdb-4c4e-8e9b-a3565de90608"
+    },
+    {
+      "start_time": 2181,
+      "end_time": 2186,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :That was the issue that incited Langston Hughes to write The Negro Artist and the Racial Mountain."
+        }
+      ],
+      "tags": [],
+      "uuid": "20ddab66-0374-4a30-8422-387cd1a77e0f"
+    },
+    {
+      "start_time": 2186,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :The essay begins with his discussion of a talented young Black poet"
+        }
+      ],
+      "tags": [],
+      "uuid": "b97b0c4b-9c7d-4bf2-9784-1f0a388fb731"
+    },
+    {
+      "start_time": 2190,
+      "end_time": 2194,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :who does not want the racial label attached to his artistic calling."
+        }
+      ],
+      "tags": [],
+      "uuid": "86c99e19-1bae-49ce-8dc6-a3a789c634a5"
+    },
+    {
+      "start_time": 2194,
+      "end_time": 2198,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Hughes concludes that this man is ashamed of his racial identity"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd034729-32b7-423e-8136-1777433c8103"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 2202,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :and secretly, or not so secretly, wants to be white."
+        }
+      ],
+      "tags": [],
+      "uuid": "cfd08c54-dad2-4727-afbd-da2d6ca7000a"
+    },
+    {
+      "start_time": 2202,
+      "end_time": 2206,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I asked Lucille about this, and this is what she said to me."
+        }
+      ],
+      "tags": [],
+      "uuid": "1cb94bcb-6ea7-48c8-9ca7-e21f6979755d"
+    },
+    {
+      "start_time": 2206,
+      "end_time": 2211,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :What the young man was probably talking about was not what he was, but what people saw him as."
+        }
+      ],
+      "tags": [],
+      "uuid": "52bf7cba-1284-406c-a96c-42570c780a0d"
+    },
+    {
+      "start_time": 2211,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And I'm seen as that quite often."
+        }
+      ],
+      "tags": [],
+      "uuid": "769c9fa0-5d42-46c1-af54-677f365c85c4"
+    },
+    {
+      "start_time": 2213,
+      "end_time": 2217,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :There's the poet, and there's the sub-genre, and Lucille is in there."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e3eeb8a-61db-42ce-866f-58d487966b5f"
+    },
+    {
+      "start_time": 2217,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Because people see it that way, that doesn't make it so."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee20d1fa-ee45-4a24-92f7-6f9800e390d6"
+    },
+    {
+      "start_time": 2220,
+      "end_time": 2225,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And I'm not an either or person. I'm not either American or Black."
+        }
+      ],
+      "tags": [],
+      "uuid": "db70a962-20f1-4779-92a0-5699133b4ad7"
+    },
+    {
+      "start_time": 2225,
+      "end_time": 2229,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :She went on to say, I aspire to be the poet Marianne Moore was,"
+        }
+      ],
+      "tags": [],
+      "uuid": "90292366-2f95-4b89-832e-134b5750fca6"
+    },
+    {
+      "start_time": 2229,
+      "end_time": 2232,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :that Langston Hughes was, that Richard Wilbur is."
+        }
+      ],
+      "tags": [],
+      "uuid": "60b96ec6-39cd-48e0-94f4-19c3940f4be6"
+    },
+    {
+      "start_time": 2232,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I aspire to be all of that. But that's what American poetry is."
+        }
+      ],
+      "tags": [],
+      "uuid": "03ff7162-a178-4e9c-8355-78a98fbe5ef5"
+    },
+    {
+      "start_time": 2236,
+      "end_time": 2239,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I'm not an American poet who happens to be Black."
+        }
+      ],
+      "tags": [],
+      "uuid": "2d4538ea-249b-47de-88af-492a5da8c40e"
+    },
+    {
+      "start_time": 2239,
+      "end_time": 2241,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I did not happen to be Black."
+        }
+      ],
+      "tags": [],
+      "uuid": "31e4226f-e9a4-44c0-bcea-8afb5b608c29"
+    },
+    {
+      "start_time": 2241,
+      "end_time": 2245,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :My mother was Black, and my father was Black, and so there I was."
+        }
+      ],
+      "tags": [],
+      "uuid": "d49867b1-cd71-4927-9c19-f5b14bfc9fe1"
+    },
+    {
+      "start_time": 2245,
+      "end_time": 2247,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I was going to be Black."
+        }
+      ],
+      "tags": [],
+      "uuid": "ed4f2c8b-e5ae-4fc0-b64e-02b67374007d"
+    },
+    {
+      "start_time": 2247,
+      "end_time": 2250,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :It didn't just zap me."
+        }
+      ],
+      "tags": [],
+      "uuid": "b3a2f0ef-daf0-416a-b04e-ca0e44234215"
+    },
+    {
+      "start_time": 2250,
+      "end_time": 2253,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And that's okay. That's all right."
+        }
+      ],
+      "tags": [],
+      "uuid": "084af0c8-5691-491c-a278-0931cb64b03c"
+    },
+    {
+      "start_time": 2253,
+      "end_time": 2255,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :That's not a sub-genre of anything."
+        }
+      ],
+      "tags": [],
+      "uuid": "6beb3d10-730f-4fa9-b0fe-7bab6c8c86c6"
+    },
+    {
+      "start_time": 2255,
+      "end_time": 2258,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I'm an American poet. That's what American poetry is."
+        }
+      ],
+      "tags": [],
+      "uuid": "2753fe75-7014-408a-9bf2-dd52e8e43a64"
+    },
+    {
+      "start_time": 2259,
+      "end_time": 2262,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :So that's how Lucille Clifton deals with challenge number two."
+        }
+      ],
+      "tags": [],
+      "uuid": "ae2c3ecf-ca56-4edd-8d8b-5ec5b80182f7"
+    },
+    {
+      "start_time": 2262,
+      "end_time": 2266,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Many of us here today are teachers, and I think it's very much up to us"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bb902bb-c0d7-4952-9b1d-945f92b50dac"
+    },
+    {
+      "start_time": 2266,
+      "end_time": 2268,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :to drive her lesson home."
+        }
+      ],
+      "tags": [],
+      "uuid": "3a44cde2-f914-4e97-8296-dfe162e8294c"
+    },
+    {
+      "start_time": 2268,
+      "end_time": 2271,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Once we can get our students in survey classes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a20777aa-ba47-4887-9ca1-ddd15036eea2"
+    },
+    {
+      "start_time": 2271,
+      "end_time": 2274,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :not just in African-American lit courses,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e59ba598-d9e1-4174-acf5-400c018541c7"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2279,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :to see that poet is not shorthand for white poet or for white male poet,"
+        }
+      ],
+      "tags": [],
+      "uuid": "7bf79ade-43f2-4188-b5f9-58df39b20e5e"
+    },
+    {
+      "start_time": 2279,
+      "end_time": 2284,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :we'll have gone a long way toward defining poetry as it really is."
+        }
+      ],
+      "tags": [],
+      "uuid": "14b5da98-f190-4fc3-a0db-255441c75115"
+    },
+    {
+      "start_time": 2284,
+      "end_time": 2287,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Finally, challenge number three."
+        }
+      ],
+      "tags": [],
+      "uuid": "1312b164-14e2-44e1-a359-8520e3d28841"
+    },
+    {
+      "start_time": 2287,
+      "end_time": 2290,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Should I become a rap star?"
+        }
+      ],
+      "tags": [],
+      "uuid": "07c8e286-baf5-439a-9e00-15172790b1d7"
+    },
+    {
+      "start_time": 2290,
+      "end_time": 2294,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :What if the vocabulary and subject matter of rap"
+        }
+      ],
+      "tags": [],
+      "uuid": "aba60229-15c7-4568-a977-0b70fa012f27"
+    },
+    {
+      "start_time": 2294,
+      "end_time": 2298,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :don't allow you to say what you want to say?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce704b41-9479-4f7f-84b6-166d10f0332e"
+    },
+    {
+      "start_time": 2298,
+      "end_time": 2301,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Even scarier, what if they do?"
+        }
+      ],
+      "tags": [],
+      "uuid": "759bd33c-dc77-4b97-b4a2-33fbf584272a"
+    },
+    {
+      "start_time": 2301,
+      "end_time": 2306,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Lucille Clifton faced a parallel dilemma in the late 1960s"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a7570cc-abca-4783-936f-342f0e1c0711"
+    },
+    {
+      "start_time": 2306,
+      "end_time": 2310,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :and early 1970s during the Black Arts Movement."
+        }
+      ],
+      "tags": [],
+      "uuid": "fbfb0a58-d9cc-4eb4-a75a-9fc4f84b6939"
+    },
+    {
+      "start_time": 2310,
+      "end_time": 2314,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Her poetry embodied some of the tenets of that movement,"
+        }
+      ],
+      "tags": [],
+      "uuid": "57a1b7ad-5af0-4475-885e-aac55af3462f"
+    },
+    {
+      "start_time": 2314,
+      "end_time": 2318,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :but as a wife and mother of six children living in Baltimore,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6fddf19-1aa1-4083-a6dd-ac522d5cd7ed"
+    },
+    {
+      "start_time": 2318,
+      "end_time": 2321,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :she was not a political activist in the same way"
+        }
+      ],
+      "tags": [],
+      "uuid": "7732efa5-9689-42fa-89a1-1b4dc5cfbc23"
+    },
+    {
+      "start_time": 2321,
+      "end_time": 2324,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :that the proponents of the Black Arts Movement were."
+        }
+      ],
+      "tags": [],
+      "uuid": "97427292-ffbf-4c6b-8cc6-62b03902fb58"
+    },
+    {
+      "start_time": 2324,
+      "end_time": 2327,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :And even if she had been single and living in New York City,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2542eaf-5fe5-46f6-9422-ebc068e19740"
+    },
+    {
+      "start_time": 2327,
+      "end_time": 2330,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :I don't think she would have followed that path."
+        }
+      ],
+      "tags": [],
+      "uuid": "184e421e-d52b-4b74-8c82-1b69b8faaf29"
+    },
+    {
+      "start_time": 2330,
+      "end_time": 2335,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :For her, serving the poem has not meant marching in the streets."
+        }
+      ],
+      "tags": [],
+      "uuid": "70e9fa53-9118-4620-a76e-0c03802a1699"
+    },
+    {
+      "start_time": 2335,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Still, if you read her early poetry and her more recent work,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f8ba3290-53f9-442c-9f2c-c7798ba8f985"
+    },
+    {
+      "start_time": 2340,
+      "end_time": 2343,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :she's the author of 11 volumes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8b33625-a637-479c-be73-6bc69254b2f3"
+    },
+    {
+      "start_time": 2343,
+      "end_time": 2347,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :you'll see that it often concerns racism and race pride,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e4f9927-3a5c-4d88-bb8b-03955e18a393"
+    },
+    {
+      "start_time": 2347,
+      "end_time": 2351,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :and she uses the lowercase letters and scant punctuation"
+        }
+      ],
+      "tags": [],
+      "uuid": "d7fa91bb-b7cd-43bd-9f9d-779c31526fac"
+    },
+    {
+      "start_time": 2351,
+      "end_time": 2355,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :often associated with Black Arts Movement poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "0f4cff6a-c760-4bd0-a8ee-ea122ab0a791"
+    },
+    {
+      "start_time": 2355,
+      "end_time": 2360,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :But what she has done is to make the subject matter uniquely her own"
+        }
+      ],
+      "tags": [],
+      "uuid": "ae8fec3a-6359-4678-9cae-ae4e32e7e0cd"
+    },
+    {
+      "start_time": 2360,
+      "end_time": 2365,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :and to use punctuation rather than letting it use her."
+        }
+      ],
+      "tags": [],
+      "uuid": "fbe53f7e-4896-4fd0-88cc-2b42ebf201ef"
+    },
+    {
+      "start_time": 2365,
+      "end_time": 2369,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :She's made deliberate, individual, and innovative choices."
+        }
+      ],
+      "tags": [],
+      "uuid": "12469b3f-2773-4374-b88a-241eb06b6961"
+    },
+    {
+      "start_time": 2369,
+      "end_time": 2374,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :This is not to say that she's the only poet of her generation to do so,"
+        }
+      ],
+      "tags": [],
+      "uuid": "8efed4e2-4896-49da-a6d7-d2e52f843b02"
+    },
+    {
+      "start_time": 2374,
+      "end_time": 2378,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :but only to argue that this is really the way to go."
+        }
+      ],
+      "tags": [],
+      "uuid": "c58fb67a-ef7d-438b-a795-253bf8fb4171"
+    },
+    {
+      "start_time": 2378,
+      "end_time": 2383,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :If you want to be a rap star or a slam poet, that's fine, that's good,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2527b2fa-d9d0-4fb3-a68f-f60eea3a8308"
+    },
+    {
+      "start_time": 2383,
+      "end_time": 2388,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :but figure out what parts of that project truly suit you"
+        }
+      ],
+      "tags": [],
+      "uuid": "a1bd18ef-188d-4be9-a3d9-5faa4f641ebc"
+    },
+    {
+      "start_time": 2388,
+      "end_time": 2393,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :and which ones might constrict you in your art and go from there."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c4b5380-39b2-4bf9-af6b-f3be9d404b85"
+    },
+    {
+      "start_time": 2394,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :So to conclude, when in doubt, don't serve any particular movement."
+        }
+      ],
+      "tags": [],
+      "uuid": "963a697a-81ab-4c36-9225-3e57845a1ea1"
+    },
+    {
+      "start_time": 2399,
+      "end_time": 2403,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Take a cue from Lucille Clifton and serve the poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "c52b80c3-152b-46f8-a3fb-1f86ef023030"
+    },
+    {
+      "start_time": 2403,
+      "end_time": 2405,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :The audience will come."
+        }
+      ],
+      "tags": [],
+      "uuid": "71d23a85-5f63-4454-9deb-93098953b989"
+    },
+    {
+      "start_time": 2405,
+      "end_time": 2409,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Take your poems out for a walk, and to return to Langston Hughes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c56978a3-d579-44d5-9bf3-3bed2a32e962"
+    },
+    {
+      "start_time": 2409,
+      "end_time": 2414,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :don't ever be afraid to be yourself and do what you have chosen to do."
+        }
+      ],
+      "tags": [],
+      "uuid": "55fc214e-254a-4967-91f1-46a50128a0ca"
+    },
+    {
+      "start_time": 2414,
+      "end_time": 2416,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " :Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "b50b877a-595a-4420-a511-d18b2ac63c57"
+    }
+  ]
+}

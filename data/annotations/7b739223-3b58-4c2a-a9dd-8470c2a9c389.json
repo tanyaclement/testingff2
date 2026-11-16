@@ -1,0 +1,8208 @@
+{
+  "event_id": "6a4a1d52-1b3c-44d1-a666-28fb339a9257",
+  "source_id": "343ff9c0-5824-432d-b4a5-ce1a107391b9",
+  "set": "Critics' Roundtable 1, 2004 September 23, Tape 2 [UA0017-DVCAM-0044] [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " : I'm going to talk about my book."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fa0a7e7-c934-4b24-8b75-60b287e245b1"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So I won't do a lot of reading."
+        }
+      ],
+      "tags": [],
+      "uuid": "302c92dd-cd74-40ef-9855-f1d2c06effb6"
+    },
+    {
+      "start_time": 6,
+      "end_time": 17,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " As Trudier said, my book takes up a question of Black poetic form in relation to ideological conflict."
+        }
+      ],
+      "tags": [],
+      "uuid": "9e75b279-7e01-4bfe-a5b4-ce562488500d"
+    },
+    {
+      "start_time": 17,
+      "end_time": 20,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So I'm going to pose a couple of questions."
+        }
+      ],
+      "tags": [],
+      "uuid": "21bed0d9-351a-4ed2-a81b-1ad1ab3bbba6"
+    },
+    {
+      "start_time": 21,
+      "end_time": 36,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " How is it possible to convince people who see themselves as morally upright, as fundamentally good people,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3190da74-b93c-49f2-93b3-9316484bc59f"
+    },
+    {
+      "start_time": 36,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " how do you convince such people to support exploitation, to take part in that?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c323658f-53e6-4b74-a183-0a4c57dcd935"
+    },
+    {
+      "start_time": 45,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And particularly when it's not in the long-term interest, even in their own best interest."
+        }
+      ],
+      "tags": [],
+      "uuid": "f5ceb249-2393-4070-808e-e9b7ff42531b"
+    },
+    {
+      "start_time": 53,
+      "end_time": 55,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " How do you do that?"
+        }
+      ],
+      "tags": [],
+      "uuid": "93e81d26-027e-437c-b9d2-a6f168172d77"
+    },
+    {
+      "start_time": 55,
+      "end_time": 62,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " My response is misrepresentation, caricature, stereotype."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ed63a8b-0e50-4d94-bcaf-90f0ac121ff1"
+    },
+    {
+      "start_time": 62,
+      "end_time": 69,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You convince people that the other, that other group is different,"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd63e58b-2225-4bae-891f-ebb3b30e1c77"
+    },
+    {
+      "start_time": 70,
+      "end_time": 76,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and therefore not deserving of another form or fair treatment."
+        }
+      ],
+      "tags": [],
+      "uuid": "29646500-1208-485f-81e9-8e14487e514e"
+    },
+    {
+      "start_time": 76,
+      "end_time": 83,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " That there's separate rules that are permissible when it comes to that group."
+        }
+      ],
+      "tags": [],
+      "uuid": "5040f6c9-062f-4d5e-a363-4f5472f64dba"
+    },
+    {
+      "start_time": 83,
+      "end_time": 91,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And Black poetry has always been caught up in the tension engendered by that."
+        }
+      ],
+      "tags": [],
+      "uuid": "be89d420-ca9b-4e44-b716-5501e2b30bd4"
+    },
+    {
+      "start_time": 92,
+      "end_time": 96,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, from the first slave poets,"
+        }
+      ],
+      "tags": [],
+      "uuid": "98b94850-2760-4d98-bc9f-7286d566c51e"
+    },
+    {
+      "start_time": 96,
+      "end_time": 102,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I've got one mind for white folks to see, another for what I know is me."
+        }
+      ],
+      "tags": [],
+      "uuid": "0199ed21-6444-4268-82b2-b3734d6c0dd8"
+    },
+    {
+      "start_time": 102,
+      "end_time": 105,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You don't know. You don't know my mind."
+        }
+      ],
+      "tags": [],
+      "uuid": "de403383-dbcc-4bc4-ad47-00cffcff1c3d"
+    },
+    {
+      "start_time": 105,
+      "end_time": 111,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Art for art, figures for figures, all for the white man, none for the nigger."
+        }
+      ],
+      "tags": [],
+      "uuid": "ab0ea007-3a7a-4c07-b40c-8856f523cca6"
+    },
+    {
+      "start_time": 111,
+      "end_time": 113,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Now these were slave poems."
+        }
+      ],
+      "tags": [],
+      "uuid": "1b66c72b-98e8-49e6-b926-0b5073ecbb45"
+    },
+    {
+      "start_time": 113,
+      "end_time": 117,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Many of you have heard them or read them before, so you have them."
+        }
+      ],
+      "tags": [],
+      "uuid": "f5672e6c-8a6f-49ed-8be9-b31e7b225b51"
+    },
+    {
+      "start_time": 117,
+      "end_time": 124,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But they were so popular on plantations that long after slavery was over with,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ee3204a-3634-4f0d-b7fe-4cab831bd0c8"
+    },
+    {
+      "start_time": 124,
+      "end_time": 129,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " people would steal them, steal currant, steal the cider,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f806f5e-0131-4f3a-99df-4bcd4f3b30fc"
+    },
+    {
+      "start_time": 129,
+      "end_time": 133,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " enough for people to actually transcribe them."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce2c7fc1-f03d-4137-9cfc-ab7ea5ade7be"
+    },
+    {
+      "start_time": 133,
+      "end_time": 139,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So at the very onset of our existence here,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4bf11fc4-eea6-4e43-a2b4-6ef7acb9319a"
+    },
+    {
+      "start_time": 139,
+      "end_time": 146,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " poetry's been at the very center of the resistance, ideologically speaking."
+        }
+      ],
+      "tags": [],
+      "uuid": "62458b38-e5e6-406f-919e-b68f1e6ce53c"
+    },
+    {
+      "start_time": 147,
+      "end_time": 150,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So what I want to do is read the preface,"
+        }
+      ],
+      "tags": [],
+      "uuid": "816e15c6-6770-4b1e-805f-4e6b79ce87b6"
+    },
+    {
+      "start_time": 150,
+      "end_time": 155,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and then what I'll do is go into the discussion."
+        }
+      ],
+      "tags": [],
+      "uuid": "e2019283-709a-438b-b4e7-952d696622f1"
+    },
+    {
+      "start_time": 160,
+      "end_time": 163,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " One night in New Orleans about 20 years ago,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c2d9e41-9c37-419c-9f17-4a58526d27a7"
+    },
+    {
+      "start_time": 163,
+      "end_time": 169,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I went to see the Dirty Dozen Brass Band perform at a local bar called the Glass House."
+        }
+      ],
+      "tags": [],
+      "uuid": "97e76cab-29ea-403c-ab96-6038bcf4977f"
+    },
+    {
+      "start_time": 169,
+      "end_time": 172,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Located uptown on Saratoga Street,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2097a7d-2a83-4f8f-8491-205c358967cc"
+    },
+    {
+      "start_time": 172,
+      "end_time": 176,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the bar lay in the heart of a working class Black community."
+        }
+      ],
+      "tags": [],
+      "uuid": "2ef92b69-a009-4d4b-a1f2-13c84979c89d"
+    },
+    {
+      "start_time": 176,
+      "end_time": 182,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " As I recall, the entrance fee was $2, with a two-drink minimum."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c719c93-6959-4c01-b9da-6e47fd49f42a"
+    },
+    {
+      "start_time": 182,
+      "end_time": 186,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Inside, the air was thick with cigarette smoke."
+        }
+      ],
+      "tags": [],
+      "uuid": "a654d15a-24d5-43b4-9e6f-2cfbf5b41fc6"
+    },
+    {
+      "start_time": 186,
+      "end_time": 188,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I remember feeling cramped."
+        }
+      ],
+      "tags": [],
+      "uuid": "41fe959a-d8ff-468a-af36-6eacc51e796e"
+    },
+    {
+      "start_time": 188,
+      "end_time": 193,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " There was little leg space, and the chairs were small and uncomfortable."
+        }
+      ],
+      "tags": [],
+      "uuid": "1ce29638-eab5-4bf3-88ac-ee49d392b3cf"
+    },
+    {
+      "start_time": 193,
+      "end_time": 198,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " There was even a local drunk who had been told the woman sitting next to me was my wife."
+        }
+      ],
+      "tags": [],
+      "uuid": "7e902311-12fe-4527-a771-e232db87770c"
+    },
+    {
+      "start_time": 199,
+      "end_time": 204,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But the beauty of the music made me forget these trivialities."
+        }
+      ],
+      "tags": [],
+      "uuid": "e0d168fd-ace6-4166-b502-ecb10cba794d"
+    },
+    {
+      "start_time": 204,
+      "end_time": 210,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The Dirty Dozen plays what might be called post-modern New Orleans street music."
+        }
+      ],
+      "tags": [],
+      "uuid": "266ee17c-5191-4e0b-aa5a-036e807ff730"
+    },
+    {
+      "start_time": 210,
+      "end_time": 215,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " That is, the music is a unique New Orleans style of jazz."
+        }
+      ],
+      "tags": [],
+      "uuid": "c19c8179-4839-4671-a588-8bb3af6d4a3e"
+    },
+    {
+      "start_time": 215,
+      "end_time": 219,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The band plays classics like Colonial Monk's Blue Monk,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e4fd4ce-4711-402a-8f13-ff42d3aa97d6"
+    },
+    {
+      "start_time": 219,
+      "end_time": 226,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " but it superimposes the rhythmic structure of New Orleans marching bands on modern jazz melodies."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e012df4-896e-4e65-97bf-0f3e5e58bb57"
+    },
+    {
+      "start_time": 226,
+      "end_time": 231,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The result is a funky music that retains the complexity of jazz compositions"
+        }
+      ],
+      "tags": [],
+      "uuid": "005bc5a3-3386-4962-b35c-8be14e4ac42b"
+    },
+    {
+      "start_time": 231,
+      "end_time": 235,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " while also compelling one's feet to move."
+        }
+      ],
+      "tags": [],
+      "uuid": "5827cfe7-7085-4857-b319-a5fe56f975e5"
+    },
+    {
+      "start_time": 235,
+      "end_time": 238,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " As if to underscore the primacy of dance,"
+        }
+      ],
+      "tags": [],
+      "uuid": "15321791-4498-4a8c-8d01-6aea183426e2"
+    },
+    {
+      "start_time": 238,
+      "end_time": 244,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the band was accompanied by a cadre of dancers who performed along with the music."
+        }
+      ],
+      "tags": [],
+      "uuid": "77f3ede0-3a22-4664-9300-51e98bc2b899"
+    },
+    {
+      "start_time": 244,
+      "end_time": 248,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I sat there oblivious to the smoke and cramped conditions"
+        }
+      ],
+      "tags": [],
+      "uuid": "94d504bb-f1e4-4edd-8a8b-72ad630f867d"
+    },
+    {
+      "start_time": 248,
+      "end_time": 252,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " enraptured by the performance that featured, at one point,"
+        }
+      ],
+      "tags": [],
+      "uuid": "204abc4c-2c71-4d70-9ceb-872b3289572d"
+    },
+    {
+      "start_time": 253,
+      "end_time": 259,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " an eight or nine-year-old Black boy who demonstrated his confidence by playing trumpet with one hand."
+        }
+      ],
+      "tags": [],
+      "uuid": "63c34508-6ee6-4cbb-967f-04a0b559249a"
+    },
+    {
+      "start_time": 259,
+      "end_time": 263,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " After a stellar performance of Miles Davis' All Blues,"
+        }
+      ],
+      "tags": [],
+      "uuid": "20c3400c-47f8-456c-9d00-ec621331de2d"
+    },
+    {
+      "start_time": 263,
+      "end_time": 267,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " one of the dancers noted my enjoyment and said,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f945c7e2-d464-4251-974c-a3a050f09066"
+    },
+    {
+      "start_time": 267,
+      "end_time": 271,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Now that's some music. That's some real music."
+        }
+      ],
+      "tags": [],
+      "uuid": "fec74eb3-b27f-4a92-94e3-e5cc27c52a08"
+    },
+    {
+      "start_time": 271,
+      "end_time": 277,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I ain't never heard that song before in my life, and I'm 23 years old, but that's some music."
+        }
+      ],
+      "tags": [],
+      "uuid": "b4ab04d3-7fdf-457c-9493-d6c146f1925b"
+    },
+    {
+      "start_time": 278,
+      "end_time": 284,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " In addition to testifying to the creativity of the blues idiom,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e9e311f2-3bc4-4c6e-a835-9337a42cceaf"
+    },
+    {
+      "start_time": 284,
+      "end_time": 291,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the dancer's comments call attention to the importance of style in African American performance."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a5c10c4-010c-449f-9228-5f427281ec0a"
+    },
+    {
+      "start_time": 291,
+      "end_time": 297,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Though he performed his traditional New Orleans dance known as the Second Line"
+        }
+      ],
+      "tags": [],
+      "uuid": "2daaf73d-8d71-4ba0-9b83-162e7cc59202"
+    },
+    {
+      "start_time": 297,
+      "end_time": 300,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " to the rhythms of a song composed before his birth,"
+        }
+      ],
+      "tags": [],
+      "uuid": "253a940e-769e-4d29-a96e-9f3971f1887c"
+    },
+    {
+      "start_time": 300,
+      "end_time": 307,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " he could appreciate it because it was played in a style that he recognized and understood."
+        }
+      ],
+      "tags": [],
+      "uuid": "6750981c-ab2a-4ecb-b6ea-8807ced8b511"
+    },
+    {
+      "start_time": 307,
+      "end_time": 312,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The following study is an attempt to sample and improvise upon the concepts"
+        }
+      ],
+      "tags": [],
+      "uuid": "de677894-ec98-4df7-9db5-f78b8a7cef1b"
+    },
+    {
+      "start_time": 312,
+      "end_time": 317,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " inscribed within such expressive forms as the Second Line dance,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4673da8-87f6-477c-8e4b-8e6189a81941"
+    },
+    {
+      "start_time": 317,
+      "end_time": 325,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " though many of us have been taught to view such forms as mere entertainment or, worse, as mindless foolishness."
+        }
+      ],
+      "tags": [],
+      "uuid": "e762cce2-ba08-47f0-bfb7-c440f1d683e5"
+    },
+    {
+      "start_time": 325,
+      "end_time": 331,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I believe that the Second Line, like the bamboula in the antebellum era,"
+        }
+      ],
+      "tags": [],
+      "uuid": "90b5bf3f-3f33-4fd8-9b3f-3c655dd785cc"
+    },
+    {
+      "start_time": 331,
+      "end_time": 338,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " contains hidden Black codes, indicating cultural resistance in the repressive New World."
+        }
+      ],
+      "tags": [],
+      "uuid": "9a56fddd-b9e2-42ff-9672-b407652a27b7"
+    },
+    {
+      "start_time": 338,
+      "end_time": 343,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " At the same time, I do not claim to address all of Black poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "655de4d0-36f2-48da-8ff1-459f39088684"
+    },
+    {
+      "start_time": 343,
+      "end_time": 349,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Rather, I am interested in analyzing the politics implicit within the historical conditions"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2790115-f215-4389-ab65-5aa44f8771e5"
+    },
+    {
+      "start_time": 349,
+      "end_time": 353,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that prompt artists to question constructed normality."
+        }
+      ],
+      "tags": [],
+      "uuid": "d78e885a-758e-4e20-9732-e6473ec70d91"
+    },
+    {
+      "start_time": 353,
+      "end_time": 358,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Before 1980, for instance, scratching records was considered taboo."
+        }
+      ],
+      "tags": [],
+      "uuid": "70642aec-9b97-4e7e-8e17-ac5f8f23c4b7"
+    },
+    {
+      "start_time": 358,
+      "end_time": 365,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And yet Black and Latino artists transformed this practice into a self-conscious mode of discourse"
+        }
+      ],
+      "tags": [],
+      "uuid": "97ed1f6d-4bb3-461d-9e80-b6e854b1e91b"
+    },
+    {
+      "start_time": 365,
+      "end_time": 370,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that challenged the dominant culture's attempt to render them silent and submissive."
+        }
+      ],
+      "tags": [],
+      "uuid": "f686a865-9e95-47f4-a7b8-0dae3de5b54b"
+    },
+    {
+      "start_time": 370,
+      "end_time": 376,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Afro-blue is my attempt to situate Black poetry within such practices,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f296b876-fa9e-4ebe-81f8-2bed39bd67fb"
+    },
+    {
+      "start_time": 376,
+      "end_time": 383,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " to riff antiphonically on the critical writers who have previously performed similar songs,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0088dec9-4da9-4490-ad3d-4021524cf12c"
+    },
+    {
+      "start_time": 383,
+      "end_time": 389,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and finally to present and represent in the manner of a collage"
+        }
+      ],
+      "tags": [],
+      "uuid": "18aad44b-3e29-4cd6-a792-d417a7b5d568"
+    },
+    {
+      "start_time": 389,
+      "end_time": 397,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " how the poetic shape by the resistive energy inscribed in scatting and scratching did not just groove."
+        }
+      ],
+      "tags": [],
+      "uuid": "3fcacfb3-98eb-434c-a683-a11b7b7234a6"
+    },
+    {
+      "start_time": 397,
+      "end_time": 405,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Rather, the funk expressed in Buddy Bolden's horn, the beautiful pain in Billie Holiday's voice,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1efc12fa-64d8-4251-a37e-0f281b9ea0a1"
+    },
+    {
+      "start_time": 405,
+      "end_time": 415,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and their interrelationships to what I call blues poetics are comprised of histories that are central to my narrative work."
+        }
+      ],
+      "tags": [],
+      "uuid": "a9f0b6b6-3c8e-413b-a787-a89e9fab18c5"
+    },
+    {
+      "start_time": 415,
+      "end_time": 423,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, the question is, for me, as someone trying to look at this, was,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4d0504a-670b-4101-9337-30455edd0813"
+    },
+    {
+      "start_time": 423,
+      "end_time": 430,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " how do I find out, how do I investigate this question of form?"
+        }
+      ],
+      "tags": [],
+      "uuid": "74369b3c-ee23-4e84-8884-df3a8fd72cab"
+    },
+    {
+      "start_time": 430,
+      "end_time": 440,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " It was pretty clear that poets who used vernacular form were consistently criticized,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ccfae05-a25f-4beb-bfb8-e4035a3048c4"
+    },
+    {
+      "start_time": 440,
+      "end_time": 444,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and particularly when you get to the Black Arts Movement,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f45df0bf-83a4-49d6-b27f-e32c91e3c7ee"
+    },
+    {
+      "start_time": 444,
+      "end_time": 449,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " what you find, for the most part, although there have been some recent efforts,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0dd31557-9f29-4f4d-b672-2a193a57b1f3"
+    },
+    {
+      "start_time": 450,
+      "end_time": 460,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " pretty much either just denunciation on the basis of the fact that writers dared to create new forms."
+        }
+      ],
+      "tags": [],
+      "uuid": "fb6bb3ee-9c76-48a6-b960-bee96780e2b8"
+    },
+    {
+      "start_time": 460,
+      "end_time": 468,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " A classic example is Henry Louis Gates' dismissal of Haki Madhubuti and Amiri Baraka's poetry"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a971877-66f6-4149-96fc-bea69afea89f"
+    },
+    {
+      "start_time": 468,
+      "end_time": 473,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " on the basis of the fact that much of it was rhetorical."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c1632c8-6126-4a03-8464-7380252d36cb"
+    },
+    {
+      "start_time": 473,
+      "end_time": 479,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, the fact that, and you find this, what I did was I went back,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a50aa014-7da4-4fe9-a7f8-e9e635773827"
+    },
+    {
+      "start_time": 479,
+      "end_time": 485,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I wanted to see what the critical attitudes were about the poets."
+        }
+      ],
+      "tags": [],
+      "uuid": "807189ea-daa5-41a1-aa79-029ab3dc5827"
+    },
+    {
+      "start_time": 485,
+      "end_time": 488,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, I went all the way back to Brathwaite."
+        }
+      ],
+      "tags": [],
+      "uuid": "1ba030c5-60eb-4d01-9895-4cd3378163d3"
+    },
+    {
+      "start_time": 488,
+      "end_time": 493,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " This is 1906 when he's doing this stuff."
+        }
+      ],
+      "tags": [],
+      "uuid": "bab19388-b2c0-44e4-9eec-441adc6edbf3"
+    },
+    {
+      "start_time": 494,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But what you find from Brathwaite all the way up to the Black Arts Movement"
+        }
+      ],
+      "tags": [],
+      "uuid": "83208f1e-723a-4d29-bd99-e794db5100db"
+    },
+    {
+      "start_time": 500,
+      "end_time": 511,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " is a fairly consistent pattern of people criticizing poets on the basis of the form that they use."
+        }
+      ],
+      "tags": [],
+      "uuid": "1d063589-62ef-4ece-a016-4eb3e34dc999"
+    },
+    {
+      "start_time": 511,
+      "end_time": 516,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, for instance, Brathwaite, he's a bit uneven."
+        }
+      ],
+      "tags": [],
+      "uuid": "64c7ea5b-defc-4465-af2e-ce041bec67da"
+    },
+    {
+      "start_time": 517,
+      "end_time": 526,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " He's able to accept James Weldon Johnson's God's Trombone and his treatment of the sermon."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9074fdc-24ee-4ae0-8c46-7a5c9ee40212"
+    },
+    {
+      "start_time": 526,
+      "end_time": 531,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Actually, I'm wrong about that."
+        }
+      ],
+      "tags": [],
+      "uuid": "fa206737-ef17-4923-975c-56aa55a8d479"
+    },
+    {
+      "start_time": 531,
+      "end_time": 538,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " He's actually able to, he claims the first book, but he says that God's Trombone,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9b8de64e-a1f0-41f8-b6e3-2b98a5f194d9"
+    },
+    {
+      "start_time": 538,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " which contains creation and other forms, was mere transcription."
+        }
+      ],
+      "tags": [],
+      "uuid": "4890d569-6c74-4847-a4aa-1f9dd8611f9c"
+    },
+    {
+      "start_time": 543,
+      "end_time": 550,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Then you come to people like Countee Cullen getting to the Harlem Renaissance."
+        }
+      ],
+      "tags": [],
+      "uuid": "06bb9a7d-65c5-4164-b2dd-fed168c368e5"
+    },
+    {
+      "start_time": 550,
+      "end_time": 555,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And I'm going to read this one because it's particularly egregious"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce876575-5bc7-4c2d-985f-9bf3c09f4ac8"
+    },
+    {
+      "start_time": 555,
+      "end_time": 558,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and I think that you'll see the contradictions therein."
+        }
+      ],
+      "tags": [],
+      "uuid": "70d53c95-72c6-4745-a878-67b431b77606"
+    },
+    {
+      "start_time": 558,
+      "end_time": 563,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " This is his review of Langston Hughes in 1926."
+        }
+      ],
+      "tags": [],
+      "uuid": "9bd981ad-3747-4bb1-a0dd-edf17b5accbe"
+    },
+    {
+      "start_time": 563,
+      "end_time": 569,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Never having been one to think all subjects in form proper for poetic consideration,"
+        }
+      ],
+      "tags": [],
+      "uuid": "87580f51-a2ca-4f57-9955-e3a01bf67011"
+    },
+    {
+      "start_time": 569,
+      "end_time": 575,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I regard these jazz poems as interlopers in the company of the truly beautiful poems"
+        }
+      ],
+      "tags": [],
+      "uuid": "1170a799-f116-465e-a9cb-d4305294e5c0"
+    },
+    {
+      "start_time": 575,
+      "end_time": 577,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " in other sections of the book."
+        }
+      ],
+      "tags": [],
+      "uuid": "6878b1f6-5284-4891-bef1-68961dca9b61"
+    },
+    {
+      "start_time": 577,
+      "end_time": 583,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " They move along with the frenzy and electric beat of a Methodist or Baptist revival meeting"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c5ea550-c960-4606-acf1-dc137d3d6fe2"
+    },
+    {
+      "start_time": 583,
+      "end_time": 586,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and affect me in much the same manner."
+        }
+      ],
+      "tags": [],
+      "uuid": "a6a6643d-c846-47be-b75c-fea831f3e662"
+    },
+    {
+      "start_time": 586,
+      "end_time": 594,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The revival meeting excites me, cooling and flushing me with the alternate chills and fevers of emotion."
+        }
+      ],
+      "tags": [],
+      "uuid": "4a32ac23-a4c6-4db3-8c45-d95465d94b56"
+    },
+    {
+      "start_time": 595,
+      "end_time": 597,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So do these poems."
+        }
+      ],
+      "tags": [],
+      "uuid": "278be837-705f-4e36-8904-f8dcd9edc3c1"
+    },
+    {
+      "start_time": 597,
+      "end_time": 603,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The cat and the saxophone knock me completely on the side of bewilderment."
+        }
+      ],
+      "tags": [],
+      "uuid": "f0a461f3-33b9-4de1-a838-8d3a0df67e98"
+    },
+    {
+      "start_time": 603,
+      "end_time": 605,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But is it a poem?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8df0537-5523-437c-8188-37459add8d9d"
+    },
+    {
+      "start_time": 605,
+      "end_time": 610,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " In the face of accomplished fact, I cannot say this will never do,"
+        }
+      ],
+      "tags": [],
+      "uuid": "78a2019d-f3e7-4cd1-9e81-54f94e8dd7d7"
+    },
+    {
+      "start_time": 610,
+      "end_time": 614,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " but I feel it ought never to have been done."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fab8b90-d383-4c4c-9bea-009637823e52"
+    },
+    {
+      "start_time": 614,
+      "end_time": 617,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Get that?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e06195c-836f-4d72-bdfe-67c7e36318d5"
+    },
+    {
+      "start_time": 618,
+      "end_time": 621,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, and there were others."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa9eb2fe-b3f9-4383-a299-dc0948a2f104"
+    },
+    {
+      "start_time": 621,
+      "end_time": 624,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " People have accused me of beating up on color."
+        }
+      ],
+      "tags": [],
+      "uuid": "19267fde-a735-4949-9675-67568d30d700"
+    },
+    {
+      "start_time": 624,
+      "end_time": 630,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " J. Saunders Redding said much the same thing about Hughes' poetry,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5ba71c2-efeb-48fe-9b17-75c0efe9aa18"
+    },
+    {
+      "start_time": 630,
+      "end_time": 634,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " particularly the poetry that was based on the blues."
+        }
+      ],
+      "tags": [],
+      "uuid": "3cce2a42-f87f-4ed4-927e-fab32f32fb2f"
+    },
+    {
+      "start_time": 634,
+      "end_time": 643,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " He said that the blues poems were, that they had the expression of the drum,"
+        }
+      ],
+      "tags": [],
+      "uuid": "6ae7e5ac-16fe-4aef-9307-028209a49c8b"
+    },
+    {
+      "start_time": 643,
+      "end_time": 650,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the iteration actually of the drum, and not the exposition of the piano."
+        }
+      ],
+      "tags": [],
+      "uuid": "88450c81-eb66-4efb-b27e-0234aa733002"
+    },
+    {
+      "start_time": 650,
+      "end_time": 655,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You can see right there the centrality of the drum."
+        }
+      ],
+      "tags": [],
+      "uuid": "ac2a79a1-d328-4b02-8c0c-0125a68c47df"
+    },
+    {
+      "start_time": 655,
+      "end_time": 658,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " There's a value statement being made."
+        }
+      ],
+      "tags": [],
+      "uuid": "636cf77b-e447-4e23-ba8b-a4a6a626ad48"
+    },
+    {
+      "start_time": 658,
+      "end_time": 665,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So form actually has a certain amount of value."
+        }
+      ],
+      "tags": [],
+      "uuid": "a6fdb7d7-ef34-4e37-83c9-b5ccd12e0d48"
+    },
+    {
+      "start_time": 665,
+      "end_time": 669,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " If you look at it within the context of a political economy,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c24985de-093f-48e4-915d-b9f5ac69a0b9"
+    },
+    {
+      "start_time": 670,
+      "end_time": 677,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " so he says that the blues can only, and the blues and the shout,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f43495b6-6838-4634-b81d-9a21383265ca"
+    },
+    {
+      "start_time": 677,
+      "end_time": 680,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " are only capable of feeling."
+        }
+      ],
+      "tags": [],
+      "uuid": "2b45dc6b-da24-4643-9756-699abce89a9c"
+    },
+    {
+      "start_time": 680,
+      "end_time": 688,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " There's that dichotomy that's always, always already ascribed to Black folk,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5f9d79f-ecfc-4735-97ab-a2910f9ca4d8"
+    },
+    {
+      "start_time": 688,
+      "end_time": 691,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and particularly vernacular culture."
+        }
+      ],
+      "tags": [],
+      "uuid": "0cb0ee2a-a5bc-40d8-b791-6bfd3ad95220"
+    },
+    {
+      "start_time": 691,
+      "end_time": 697,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " It's as though there is this split between emotions and thought,"
+        }
+      ],
+      "tags": [],
+      "uuid": "165f8610-5297-4e89-a244-2cc8f54c568d"
+    },
+    {
+      "start_time": 697,
+      "end_time": 704,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and if one is enraptured in emotion, then one is incapable of analyzing."
+        }
+      ],
+      "tags": [],
+      "uuid": "2ab14b34-14da-474d-b1d9-51b167d49fb0"
+    },
+    {
+      "start_time": 704,
+      "end_time": 709,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And we know that nothing could be further from the truth."
+        }
+      ],
+      "tags": [],
+      "uuid": "e8cf70d7-1246-424f-b5cf-ec45b86eebd1"
+    },
+    {
+      "start_time": 709,
+      "end_time": 711,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Why do we know?"
+        }
+      ],
+      "tags": [],
+      "uuid": "13fbaf91-45e2-49e2-ae90-13f757729d7a"
+    },
+    {
+      "start_time": 711,
+      "end_time": 714,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Because they banned the drum."
+        }
+      ],
+      "tags": [],
+      "uuid": "8d32f9b7-f36b-4774-8c29-edfa65c5bd23"
+    },
+    {
+      "start_time": 714,
+      "end_time": 717,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " There were a whole lot of analysis going on on that drum."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5db4dbe-2f63-45c2-9384-baa86c6c672c"
+    },
+    {
+      "start_time": 717,
+      "end_time": 720,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And they banned the drums, and they banned the dances"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e3c5464-e5a2-41bd-8c8c-7cde8560c2c1"
+    },
+    {
+      "start_time": 720,
+      "end_time": 724,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that corresponded to the music of the drum."
+        }
+      ],
+      "tags": [],
+      "uuid": "28b9cc32-9f18-4f08-8517-a4162b09c098"
+    },
+    {
+      "start_time": 725,
+      "end_time": 732,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And therein you have sort of the foundation that's set for Black expression,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9008dc41-a94e-43dd-ad43-ee503970f19f"
+    },
+    {
+      "start_time": 732,
+      "end_time": 736,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " because subsequently that, if you're a young artist,"
+        }
+      ],
+      "tags": [],
+      "uuid": "297e685c-89dd-4c68-9688-2ca7d00f6b1e"
+    },
+    {
+      "start_time": 736,
+      "end_time": 740,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " you've got to figure out how you're going to respond to that."
+        }
+      ],
+      "tags": [],
+      "uuid": "f4f453dc-0a52-476e-a64c-2f7eb5866043"
+    },
+    {
+      "start_time": 740,
+      "end_time": 742,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You've got to figure out a way."
+        }
+      ],
+      "tags": [],
+      "uuid": "34296d74-08db-4fe1-a828-f4a27d1a1c3f"
+    },
+    {
+      "start_time": 742,
+      "end_time": 747,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You don't stop feeling what you feel, and you don't stop thinking what you think."
+        }
+      ],
+      "tags": [],
+      "uuid": "c1993588-067b-438b-be9f-249d2950530c"
+    },
+    {
+      "start_time": 747,
+      "end_time": 752,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And remember, if you got caught playing those drums, you'd be put to death."
+        }
+      ],
+      "tags": [],
+      "uuid": "0060ce20-6f07-4a94-9500-8439b1418c8d"
+    },
+    {
+      "start_time": 753,
+      "end_time": 755,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Same thing with dances."
+        }
+      ],
+      "tags": [],
+      "uuid": "4dcddfbb-06fd-48d8-af52-1b80001a0868"
+    },
+    {
+      "start_time": 755,
+      "end_time": 758,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So you have to figure out a way to get around it."
+        }
+      ],
+      "tags": [],
+      "uuid": "1a13cdbc-5b2b-4e16-9462-fe17f3824193"
+    },
+    {
+      "start_time": 758,
+      "end_time": 761,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Hence, new forms."
+        }
+      ],
+      "tags": [],
+      "uuid": "1890bad0-0ff1-4281-9871-042d68a5192e"
+    },
+    {
+      "start_time": 761,
+      "end_time": 766,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And most of, I think I read recently that the slaves,"
+        }
+      ],
+      "tags": [],
+      "uuid": "884c6fe2-3df4-4fbf-83e4-203027885ebb"
+    },
+    {
+      "start_time": 766,
+      "end_time": 775,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that the median age for slaves in 1850 was something like 17 years old."
+        }
+      ],
+      "tags": [],
+      "uuid": "79f040c7-6a0b-4c05-8347-3542ce94ed83"
+    },
+    {
+      "start_time": 776,
+      "end_time": 783,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So that meant you can get the harsh mentality there."
+        }
+      ],
+      "tags": [],
+      "uuid": "b61df08d-34ec-4e33-acbb-5f35fa8b73c3"
+    },
+    {
+      "start_time": 783,
+      "end_time": 790,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But also, it's a very thickened generation in terms of age and creativity."
+        }
+      ],
+      "tags": [],
+      "uuid": "42845429-a1ae-46c1-ab7a-0cccf08dd30d"
+    },
+    {
+      "start_time": 790,
+      "end_time": 798,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So what you find is, again, you have people like Redding"
+        }
+      ],
+      "tags": [],
+      "uuid": "dab37742-0fb0-4f35-b964-ddfcc9c0860a"
+    },
+    {
+      "start_time": 798,
+      "end_time": 801,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " making statements like this."
+        }
+      ],
+      "tags": [],
+      "uuid": "08b38c2a-9316-4159-a018-111cc074ef8d"
+    },
+    {
+      "start_time": 801,
+      "end_time": 803,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " When you get to the Black Arts Movement,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e1fd1ed6-95f4-490e-ade1-2c995bbd8adf"
+    },
+    {
+      "start_time": 803,
+      "end_time": 806,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " clearly there's a controversy."
+        }
+      ],
+      "tags": [],
+      "uuid": "ceb4ad52-0deb-4c70-a72b-0bf140b054ae"
+    },
+    {
+      "start_time": 806,
+      "end_time": 813,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So what I wanted to do is look at that debate."
+        }
+      ],
+      "tags": [],
+      "uuid": "ad863faa-61af-464f-ba12-d52cc4afc5a5"
+    },
+    {
+      "start_time": 813,
+      "end_time": 822,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And my position, essentially, was that those ideas about art,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0ab0c7d6-7241-4ed8-96f1-915c42aa3fb0"
+    },
+    {
+      "start_time": 823,
+      "end_time": 834,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " about self-determination, about a self-conscious politicized art value,"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c2ec342-8ec6-4783-9776-a0c5a6dc9cb1"
+    },
+    {
+      "start_time": 834,
+      "end_time": 844,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I took the position that nationalism was a bit narrow in the way"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ba483c9-8712-4150-8075-f3fa86c1b5cf"
+    },
+    {
+      "start_time": 844,
+      "end_time": 850,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that they looked at the kinds of problems."
+        }
+      ],
+      "tags": [],
+      "uuid": "be0073c1-cc45-4c33-bb5e-e9ad02642374"
+    },
+    {
+      "start_time": 851,
+      "end_time": 856,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So what I wanted to do is try to talk about these ideas."
+        }
+      ],
+      "tags": [],
+      "uuid": "e8c7583e-4c6d-4873-b259-5983a85f1dcb"
+    },
+    {
+      "start_time": 856,
+      "end_time": 861,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And what I found was that in many ways, the writers of the 60s"
+        }
+      ],
+      "tags": [],
+      "uuid": "3b23dd09-d2fd-4b00-938e-8d15e4318213"
+    },
+    {
+      "start_time": 861,
+      "end_time": 864,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " were far more correct than"
+        }
+      ],
+      "tags": [],
+      "uuid": "8257a103-70fe-4584-8da1-d4e2adbf57f5"
+    },
+    {
+      "start_time": 864,
+      "end_time": 868,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " in some ways I think they even, that they even theorized."
+        }
+      ],
+      "tags": [],
+      "uuid": "99354db5-5fc6-484b-bda0-76e6941a1ff5"
+    },
+    {
+      "start_time": 868,
+      "end_time": 872,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Because what they wanted, what they were talking about,"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f7e29ce-71e4-474d-9833-f62be5814bd3"
+    },
+    {
+      "start_time": 872,
+      "end_time": 878,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " was a national poetry, an African American national poetics."
+        }
+      ],
+      "tags": [],
+      "uuid": "9306ac95-b110-4c7c-a6a9-449dbd2ba0b4"
+    },
+    {
+      "start_time": 878,
+      "end_time": 885,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And they sensed that there was something valuable in vernacular culture."
+        }
+      ],
+      "tags": [],
+      "uuid": "4f846847-64dc-438f-9439-658b1cc4ddaf"
+    },
+    {
+      "start_time": 885,
+      "end_time": 891,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So for me, what I realized, having read a very important essay,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a2734d0-e195-421e-aff6-b4e7bab8072e"
+    },
+    {
+      "start_time": 891,
+      "end_time": 897,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " my book in some ways is a kind of a riff on Sherley Anne Williams' essay,"
+        }
+      ],
+      "tags": [],
+      "uuid": "328f78d7-60eb-4862-9a58-5c99d487e417"
+    },
+    {
+      "start_time": 897,
+      "end_time": 903,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The Blues Roots of Contemporary Afro-American Poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "11b47d0a-d4ee-4f1e-91b5-d8672b470b06"
+    },
+    {
+      "start_time": 904,
+      "end_time": 910,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And what she said was that you could look at the musicians as a metaphor,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2935c884-648a-4308-93b9-c796bc086df4"
+    },
+    {
+      "start_time": 910,
+      "end_time": 918,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that the musicians extend musical traditions in much the same way"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9ca17ce-a513-4163-b992-7ec9c5b3094b"
+    },
+    {
+      "start_time": 918,
+      "end_time": 923,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " as the poets extend verbal traditions or verbal forms."
+        }
+      ],
+      "tags": [],
+      "uuid": "0a9938a5-4533-4ce5-aec5-411bc39f525a"
+    },
+    {
+      "start_time": 923,
+      "end_time": 929,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So for me, that became, and she's clearly elaborating"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ad9a3dc-9588-4af7-9932-6a69dfe4a405"
+    },
+    {
+      "start_time": 929,
+      "end_time": 933,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Stephen Henderson's ideas and understanding of New Black poetry,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e4464008-ecab-408f-a82b-014c6b34639e"
+    },
+    {
+      "start_time": 933,
+      "end_time": 937,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " where he talks about mass comm and the poem as a score,"
+        }
+      ],
+      "tags": [],
+      "uuid": "34dd0558-81e9-486c-82ff-3c47c0e5fe58"
+    },
+    {
+      "start_time": 937,
+      "end_time": 945,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " something that, where poets wouldn't necessarily use the print form of a poem"
+        }
+      ],
+      "tags": [],
+      "uuid": "45df8e0d-882f-4111-ba9c-8c9202c74a0d"
+    },
+    {
+      "start_time": 945,
+      "end_time": 949,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " as his only guide or her only guide,"
+        }
+      ],
+      "tags": [],
+      "uuid": "398d9d93-89f9-4f5b-9fff-aee39262ce5a"
+    },
+    {
+      "start_time": 949,
+      "end_time": 952,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " because it could vary in the vibes, etc."
+        }
+      ],
+      "tags": [],
+      "uuid": "99e0fc8f-9758-46df-96de-a2c6bd8b1c37"
+    },
+    {
+      "start_time": 952,
+      "end_time": 957,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So for me, what I did was come up with a blues model."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e8fa11f-9b12-44e4-aaed-a44e6271c795"
+    },
+    {
+      "start_time": 957,
+      "end_time": 961,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " My essential argument is that if you really want to understand"
+        }
+      ],
+      "tags": [],
+      "uuid": "a28edca4-7154-445a-a776-c9435f473532"
+    },
+    {
+      "start_time": 961,
+      "end_time": 968,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the ways that many African American poets approach form"
+        }
+      ],
+      "tags": [],
+      "uuid": "18c1a4ab-17db-402f-b8f6-b838d9d34579"
+    },
+    {
+      "start_time": 968,
+      "end_time": 977,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and the creative process, that we can look to the three bodies of blues"
+        }
+      ],
+      "tags": [],
+      "uuid": "5afd5d51-68b4-4ff3-adce-8e7b71f1b2af"
+    },
+    {
+      "start_time": 977,
+      "end_time": 979,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " poetics."
+        }
+      ],
+      "tags": [],
+      "uuid": "3548bf15-bc39-4b3b-abc0-de82141f3960"
+    },
+    {
+      "start_time": 979,
+      "end_time": 986,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " In the early portion, the first attempts you find with Paul Laurence Dunbar"
+        }
+      ],
+      "tags": [],
+      "uuid": "34084035-5f8a-45aa-8362-5f506c6830b3"
+    },
+    {
+      "start_time": 986,
+      "end_time": 989,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and later Langston Hughes, Sterling Brown,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a78e90d1-b71f-4c71-a2a2-82edf87b9783"
+    },
+    {
+      "start_time": 989,
+      "end_time": 995,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " where they're taking specific stanza forms,"
+        }
+      ],
+      "tags": [],
+      "uuid": "41bcde0e-34d6-473b-884f-95093136c91d"
+    },
+    {
+      "start_time": 995,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or you find people taking Black speech patterns"
+        }
+      ],
+      "tags": [],
+      "uuid": "619c5327-6365-4091-8fd9-a408bdb433d9"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and not simply transcribing them onto the page,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1cccdef9-5853-4f60-b01c-3cd34b1b23bc"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " but attempting to represent the speech patterns of the folk"
+        }
+      ],
+      "tags": [],
+      "uuid": "56e4df4c-be4d-4ac5-83cb-1ca1c49d7ede"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1017,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " in such a way that unifies and captures the rhythmic patterns and cadences,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd172216-e51a-487f-8b17-0170be1b8d44"
+    },
+    {
+      "start_time": 1017,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the imagery of what they have to say."
+        }
+      ],
+      "tags": [],
+      "uuid": "14931239-182a-40b0-932e-c1853a49d8e8"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Zora Neale Hurston did something similar in 1937,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ae89dc33-94f5-4d39-88f8-85f590dc784b"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " in Their Eyes Were Watching God."
+        }
+      ],
+      "tags": [],
+      "uuid": "f415e12f-c957-42c9-af12-a612817261e8"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1032,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So you have people like Sterling Brown,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4936fca3-8ad8-4ba2-abb7-eaacf46e94ae"
+    },
+    {
+      "start_time": 1032,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " for those of you who don't know that famous poem,"
+        }
+      ],
+      "tags": [],
+      "uuid": "279dd4e9-7961-4fc0-be53-a6d6476e0cc1"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Southern Rose, swing that hammer."
+        }
+      ],
+      "tags": [],
+      "uuid": "11c9ff76-a6f0-4975-8dd0-225881459f9d"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Steady bow, swing that hammer."
+        }
+      ],
+      "tags": [],
+      "uuid": "16b93382-f3db-4d24-b89f-e54584c7930d"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Steady bow, ain't no rush baby, long ways to go."
+        }
+      ],
+      "tags": [],
+      "uuid": "83367dd4-5486-42ad-a2cb-8a82794c2705"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So you get that kind of, and clearly there's no stereotyping."
+        }
+      ],
+      "tags": [],
+      "uuid": "d4f890df-1bed-49af-9026-23949966a383"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1057,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " This is 1932."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c80a7e9-6771-4a32-a310-b1005ec6c760"
+    },
+    {
+      "start_time": 1057,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Before this time, you really don't have,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c304d9c7-94a5-4566-ac07-197d83879abe"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " there's a kind of confusion between Black vernacular speech patterns on one hand"
+        }
+      ],
+      "tags": [],
+      "uuid": "172a2941-3e34-4107-b6f1-1fcb94112e24"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and stereotypes on another."
+        }
+      ],
+      "tags": [],
+      "uuid": "5be972e4-7bff-401d-b862-b2f9aca33697"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " People felt that if a poet wrote in the vernacular,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c4f3fefa-2500-44e8-952c-2cb8a19b506c"
+    },
+    {
+      "start_time": 1081,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that it was simply because of that stereotype."
+        }
+      ],
+      "tags": [],
+      "uuid": "646b4c65-6e80-4217-9797-162ba26b08cc"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And they weren't able to differentiate between literary discourse"
+        }
+      ],
+      "tags": [],
+      "uuid": "1bcad94f-2a40-44bc-9ae6-9a083e845d3c"
+    },
+    {
+      "start_time": 1091,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or vernacular as a component of that,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b94c06b9-1b94-4162-8feb-3ab6064aeab2"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and stereotyping, and its representation."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5c7357f-7aa1-4880-a34b-bb2c613536d2"
+    },
+    {
+      "start_time": 1099,
+      "end_time": 1102,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " They were really afraid, I think, of that."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4900f38-7dfa-4445-9807-d00c85d25e2d"
+    },
+    {
+      "start_time": 1102,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And what's at stake here, what's the problem that I see,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c9bb215a-c090-4766-ad47-f79dfb6093fa"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " is a version of class politics where, particularly you saw it in color,"
+        }
+      ],
+      "tags": [],
+      "uuid": "80e0b7a1-bf64-4d47-82a5-abe9551ddc47"
+    },
+    {
+      "start_time": 1112,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " where there's this sense that if it isn't legitimate,"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a87f107-1154-46e2-8525-05c9f180ae60"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " if it isn't expressed by the dominant culture,"
+        }
+      ],
+      "tags": [],
+      "uuid": "54cb37e1-26a5-4ecb-b355-42defdfe431d"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1125,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " by the dominant institutions,"
+        }
+      ],
+      "tags": [],
+      "uuid": "079d6383-ba9b-485e-a429-675e0e3d470f"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1129,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or what we call the ideological state apparatus,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d9cc390-e78f-48ca-bc59-9807d995bfa9"
+    },
+    {
+      "start_time": 1129,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " if it isn't circulated through that,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1aa1e15d-8b5e-4767-afa8-17173cc730c2"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that there's something wrong,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bf78491-21e2-4bef-82a3-2cef289798f7"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " something, if it's not official,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9f1f3db5-91a4-4b70-91bd-7655d128eac4"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and of course, people don't go around thinking this,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a9b95e6e-9540-4783-8623-35c3c9f70e62"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1144,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " but these are the kinds of ideas that people are operating on."
+        }
+      ],
+      "tags": [],
+      "uuid": "a712ddc9-1410-4817-a78f-4a54327ef5f7"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So jazz isn't capable, again, of thought,"
+        }
+      ],
+      "tags": [],
+      "uuid": "8f5e0687-bbc7-4275-b921-6f3120fbb3fa"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " only capable of expressing fear."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d946661-24b8-4fb6-babd-6bff62969dbb"
+    },
+    {
+      "start_time": 1154,
+      "end_time": 1162,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So after Colin responds to Hughes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "27732dcf-38ce-4ed4-bfd7-4a64f6fb5fd5"
+    },
+    {
+      "start_time": 1162,
+      "end_time": 1165,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " you have Hughes writing his essay,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ecaa61ae-a4d3-4d8b-b63a-a40a9d56f316"
+    },
+    {
+      "start_time": 1165,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Negro Artist on a Racial Mountain,"
+        }
+      ],
+      "tags": [],
+      "uuid": "463e3b08-1cd3-4194-8127-0c41eb46a9e1"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the poets go on, an experiment."
+        }
+      ],
+      "tags": [],
+      "uuid": "7dbf1d05-042c-4743-8b95-8ed5fb3b341b"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Hughes himself comes up in 1951 with Montage of a Dream Deferred,"
+        }
+      ],
+      "tags": [],
+      "uuid": "886a8d5f-9d24-40c6-a9f6-994e9ec565a7"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and here you have a different type of poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "eb31df15-cc08-493c-955d-00593944e8c0"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Robert Hayden as well,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fed8f4ea-3bc0-4859-8406-adc0db214dd2"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " where you have poets fusing their concerns for the vernacular"
+        }
+      ],
+      "tags": [],
+      "uuid": "b35c046a-6a36-4f40-b5cb-0d116f0ec8c5"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " with conventional notions of literature, imagery."
+        }
+      ],
+      "tags": [],
+      "uuid": "fe6fa4d6-ac60-4968-919e-cc1f1fa6c945"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1198,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You have snatches of titles, allusions,"
+        }
+      ],
+      "tags": [],
+      "uuid": "6959e157-c279-47cb-b80b-f9126b882750"
+    },
+    {
+      "start_time": 1198,
+      "end_time": 1202,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " a veritable tapestry, a collage."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ebf3058-400b-4060-b0fe-0a0da330b38a"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Stephen Henderson used the term mascom,"
+        }
+      ],
+      "tags": [],
+      "uuid": "017afdce-4fbd-44d6-9fe6-9196dc0bc5f1"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and his idea was that there were certain words in Black culture"
+        }
+      ],
+      "tags": [],
+      "uuid": "431064a6-2c7e-4e80-a7be-f394269b265d"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that carried a great deal of weight."
+        }
+      ],
+      "tags": [],
+      "uuid": "91f4f347-13d7-4d89-a938-d89729a2e4f0"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So you'd find repetitions throughout the culture,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5df7ef86-1934-421a-a0ff-28a82dd7d2ef"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1227,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the term role, big time,"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c13550e-b249-427b-b1f2-f8380ab4db57"
+    },
+    {
+      "start_time": 1227,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " as recently I wrote,"
+        }
+      ],
+      "tags": [],
+      "uuid": "18e4e2ef-f075-4c87-809b-b90f40638415"
+    },
+    {
+      "start_time": 1229,
+      "end_time": 1231,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and then you've got Snoop Dogg,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d1efbfb7-6263-4385-a7a1-14d3ebcb1318"
+    },
+    {
+      "start_time": 1231,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Rolling My 64."
+        }
+      ],
+      "tags": [],
+      "uuid": "0faf61a6-503d-4949-a6a6-bcd2d309ded1"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1239,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So the term roll, certain titles that tend to affect us,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4388ddcf-271a-4149-96a9-1e2c450f902b"
+    },
+    {
+      "start_time": 1239,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and what I think he was talking about"
+        }
+      ],
+      "tags": [],
+      "uuid": "f47f77f7-ffaf-4736-8428-507c984f7b22"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " is that music and the language is a repository of cultural memory."
+        }
+      ],
+      "tags": [],
+      "uuid": "e636a36b-ee5f-4922-927b-b432b4d591b7"
+    },
+    {
+      "start_time": 1248,
+      "end_time": 1256,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So a snatch of one poem where you might think about the title here,"
+        }
+      ],
+      "tags": [],
+      "uuid": "765ca5ad-af80-4271-bd78-dc13e5b8320a"
+    },
+    {
+      "start_time": 1256,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " It Don't Mean a Thing if It Ain't Got That Swing,"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc8f4362-8925-4171-8997-413d571e4613"
+    },
+    {
+      "start_time": 1261,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Like a Shim-Sham-Shimmy,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2cf3297-b0d0-4514-acb7-47bc4425db44"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1267,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Verbs, Swerves, and Curves,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c758a2f0-ccb3-4998-acfc-f4e2d656ba20"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Polyrhythmic, Triple Hip Dips,"
+        }
+      ],
+      "tags": [],
+      "uuid": "26dbd0c7-c329-4f32-839c-6cdb360eb3f5"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " On the Good Foot, Like Jitterbugs,"
+        }
+      ],
+      "tags": [],
+      "uuid": "567048db-af66-4ad8-ae15-70e7f551035c"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Crump, In Congo Square,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9b7ab53c-6347-4921-bf5f-d7cd7f4286da"
+    },
+    {
+      "start_time": 1276,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Drumbeat Choreographies,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e4c2aed-5b0d-43b7-a48c-3bd41d05a7b3"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1281,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Like Bam-Boola, Backflips,"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d87716f-123d-454f-b3dc-40a6ac825750"
+    },
+    {
+      "start_time": 1281,
+      "end_time": 1284,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Ham-Bone, and Huckle-Buck,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4b633567-88fc-458a-b801-dad2933b1712"
+    },
+    {
+      "start_time": 1284,
+      "end_time": 1287,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Cake-Walk, and Jubilee-Stomp,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d7f21995-e5f7-4db1-8d95-5ea7939d7e6f"
+    },
+    {
+      "start_time": 1287,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Lindy-Hop, Boogie-Woogie,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a3137ac-c3d0-481b-9327-6657796841b0"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Shake, Rattle, and Roll,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f914e473-ef71-4218-a26b-466e5bc0c168"
+    },
+    {
+      "start_time": 1292,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Double-Jointed Bumps, and Grinds,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5cbb4f01-5382-4584-9fe8-ff2202279738"
+    },
+    {
+      "start_time": 1295,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Got to be Jelly, Cause Jam,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ce73956-4388-4bf4-a5e9-86d5c1271478"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Don't Shake Like That."
+        }
+      ],
+      "tags": [],
+      "uuid": "cbca601c-0af0-4cda-a13f-f82437a8eb9f"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1308,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So you have, and I think most poets"
+        }
+      ],
+      "tags": [],
+      "uuid": "40926107-d308-4acb-a274-42b0ed35b318"
+    },
+    {
+      "start_time": 1308,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " combine various aspects of the vernacular"
+        }
+      ],
+      "tags": [],
+      "uuid": "d70789f5-1c35-4343-84cb-11ee58c88d6a"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " with notions of literary discourse,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e5f0323-610c-4be9-9c21-868f61189d67"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and so depending on the individual,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4514289e-aefd-4b7b-8b1a-346545cd76a8"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " this can manifest itself in a lot of different ways."
+        }
+      ],
+      "tags": [],
+      "uuid": "76c745cf-511f-44e9-ad56-d6876058ee96"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " When you get to the 60s,"
+        }
+      ],
+      "tags": [],
+      "uuid": "42911c06-4f67-4a9d-b0dc-f77063db0efa"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " what I found was,"
+        }
+      ],
+      "tags": [],
+      "uuid": "21c05969-c7ab-4181-94b7-9149e7a84a73"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the central problem was that"
+        }
+      ],
+      "tags": [],
+      "uuid": "c776b102-aa48-4373-8918-0147d689c373"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1344,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " most people seemed to believe that there wasn't any form"
+        }
+      ],
+      "tags": [],
+      "uuid": "45b13514-7c23-4247-a31b-34a045c97375"
+    },
+    {
+      "start_time": 1344,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " associated with the poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "136f5f97-b452-4871-a7ab-2abf335e202e"
+    },
+    {
+      "start_time": 1348,
+      "end_time": 1353,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Now, I had actually been in a Black writer's workshop"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e6a7a78-b36b-4995-baa2-e25519f3a6a0"
+    },
+    {
+      "start_time": 1353,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " when I was in college."
+        }
+      ],
+      "tags": [],
+      "uuid": "c57caea6-dd80-468f-8cb8-2fe0db798814"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I was the youngest member of the workshop,"
+        }
+      ],
+      "tags": [],
+      "uuid": "43d407b5-e607-4553-9f9c-7ae534bb5673"
+    },
+    {
+      "start_time": 1357,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and they made sure that I remembered that."
+        }
+      ],
+      "tags": [],
+      "uuid": "b1be013c-4924-41d5-aee3-50bee92eb87d"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And one of the people in that workshop"
+        }
+      ],
+      "tags": [],
+      "uuid": "c55d566d-cf29-4262-83fd-5d78422b4c9d"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1367,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " was Kalamu ya Salaam."
+        }
+      ],
+      "tags": [],
+      "uuid": "7defe46c-1e0f-4783-82a3-d1eb532d9233"
+    },
+    {
+      "start_time": 1367,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So I heard people talk about their poems,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f08d9eb-2cae-4cb8-a928-7001e1a8d39c"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1376,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " their ideas, at a fairly early stage."
+        }
+      ],
+      "tags": [],
+      "uuid": "d5d35a0c-30e0-40b5-8f63-d08927d25dc1"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1383,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So I always knew that there was a form and a technique."
+        }
+      ],
+      "tags": [],
+      "uuid": "806b07a9-9d50-44d1-8859-b4832e43e85f"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " The question had to do with how do I come to grips with this,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2789a0d-9a25-4969-95cd-f7a1dc1953a1"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and how do I translate that for readers,"
+        }
+      ],
+      "tags": [],
+      "uuid": "088ca82f-7886-46fb-928d-678ed72c574f"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " because the jazz musician was an important model,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c81e84e9-79da-4d2e-934e-d95bfb51cf52"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1402,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and of course that sound."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c46b1a2-c882-4e53-af5e-fa15b63c2825"
+    },
+    {
+      "start_time": 1403,
+      "end_time": 1408,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So how do you write about that in a way that makes sense?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a1d738ec-9410-46ac-8085-96c535cf0178"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And what I found was,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5fc58476-8755-437a-86d3-ae0042b2d5db"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1413,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I began to read performance theory,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd565739-4738-443b-879f-292817a242f9"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and just thinking about the music itself,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3200af97-a67f-4f0a-b78b-8560356807f5"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that sound itself has meaning."
+        }
+      ],
+      "tags": [],
+      "uuid": "9eb001a4-8c72-475e-bc53-d402aadfb3de"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1426,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " More specifically,"
+        }
+      ],
+      "tags": [],
+      "uuid": "24f239d3-20ec-4291-a590-b7d3b55db52c"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I found a concept of what we call paralinguistics."
+        }
+      ],
+      "tags": [],
+      "uuid": "6e5d222c-f01c-449e-998b-389974e32955"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1433,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Paralinguistics are,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e1b1f58b-22e8-45f7-828f-6bed47f5476c"
+    },
+    {
+      "start_time": 1433,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Geneva Smith, a Black linguist,"
+        }
+      ],
+      "tags": [],
+      "uuid": "86d1978a-3b6a-432f-a479-0bc5aa6164b4"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " calls the African American version of that,"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc05385d-ec20-40c4-8774-c99eda7833fc"
+    },
+    {
+      "start_time": 1439,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " tonal semantics."
+        }
+      ],
+      "tags": [],
+      "uuid": "999735be-5af8-4617-84ee-dfdf164abd26"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1445,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But what paralinguistics are referred to"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd8f5034-b482-4f30-bd48-61706a24c7cb"
+    },
+    {
+      "start_time": 1445,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " is forms of expression"
+        }
+      ],
+      "tags": [],
+      "uuid": "19c4c95e-29e3-452b-b4ec-50ebab5df143"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1453,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " in which the sound goes on to mean"
+        }
+      ],
+      "tags": [],
+      "uuid": "cbb805c0-2d42-4801-9b6f-98b10ca06c74"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1456,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " more than the literal words."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f9bb34e-fc7f-4fe4-99b6-98c71694ffa4"
+    },
+    {
+      "start_time": 1456,
+      "end_time": 1459,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Singing is a form of paralinguistics."
+        }
+      ],
+      "tags": [],
+      "uuid": "ae2fe2c0-cd3e-4f60-94fd-630d26fbf024"
+    },
+    {
+      "start_time": 1460,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Scat, the beatbox,"
+        }
+      ],
+      "tags": [],
+      "uuid": "45b82d69-db8d-4aa4-9984-1c0b682df65f"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1469,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " this is endemic to Black vernacular thought."
+        }
+      ],
+      "tags": [],
+      "uuid": "88a79e27-2f30-4e50-9c7e-f275f1361071"
+    },
+    {
+      "start_time": 1469,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Long before African Americans came here,"
+        }
+      ],
+      "tags": [],
+      "uuid": "86416364-2a34-46a0-b05a-7de1161961ab"
+    },
+    {
+      "start_time": 1473,
+      "end_time": 1475,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the voice instrument dynamic"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e37c337-22e4-41db-9b2a-911fbbca935f"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1480,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " where the instrumentalists mimic the human voice,"
+        }
+      ],
+      "tags": [],
+      "uuid": "4fcadff5-fb4a-4e09-9bfe-4d5325f1816d"
+    },
+    {
+      "start_time": 1480,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and singers and poets have recreated,"
+        }
+      ],
+      "tags": [],
+      "uuid": "27584635-a9b9-4cce-884d-eb2a1639f80b"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1490,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or simulated or approximated instruments."
+        }
+      ],
+      "tags": [],
+      "uuid": "89cca2ad-c8e0-42d4-8b5c-d9cb757c9cdb"
+    },
+    {
+      "start_time": 1490,
+      "end_time": 1493,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And so what we find in hip-hop today"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a5d7111-57ab-4ba2-b8f5-8cd4f3cedb06"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " is simply the most recent form of that."
+        }
+      ],
+      "tags": [],
+      "uuid": "5175ebe8-a6f5-46b0-b4b4-dc7412250e0d"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And more specifically,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9f422fac-8e36-4e8c-ab2e-e27143e26763"
+    },
+    {
+      "start_time": 1500,
+      "end_time": 1503,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I came up with the idea"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e0e9926-f538-4988-adf1-65577bc715e0"
+    },
+    {
+      "start_time": 1503,
+      "end_time": 1509,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that writers who use this form of poetry"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2f359d1-1157-4b48-b9cd-f2b7f1c91672"
+    },
+    {
+      "start_time": 1509,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " can be called secular priests,"
+        }
+      ],
+      "tags": [],
+      "uuid": "19686153-6d90-4c22-97ba-68b1fb4884f6"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1517,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or they try to incarnate secular priesthood."
+        }
+      ],
+      "tags": [],
+      "uuid": "b486a2ed-5149-4f81-bacf-dc4c034df1b4"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1519,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And say, well, what's that got to do with me?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2a0741fb-0dc9-4423-a6fe-9c9d609e04a2"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Well, secular priesthood comes from,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a28d876-3772-4506-a338-ca41a420e774"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1523,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " if you look at the musicians,"
+        }
+      ],
+      "tags": [],
+      "uuid": "121e8fb0-3fc7-4d75-970f-ffe5a5af4eae"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and the way that the musicians are respected"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bc98a4c-54eb-4a72-903a-1f2518264f43"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and responded to in performances,"
+        }
+      ],
+      "tags": [],
+      "uuid": "92e53cdd-6b20-45c0-834c-688fdfd95d25"
+    },
+    {
+      "start_time": 1530,
+      "end_time": 1534,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " the way audiences think about them,"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf1d5461-91f8-446b-ac62-ef7eb129fd86"
+    },
+    {
+      "start_time": 1534,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " even afterwards,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a67e7371-f28e-40ba-8c10-85bd66d64638"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " there's a kind of,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7cd03b3-ea5b-40ac-aaee-d56b5da61e28"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I've just been told I'm out of time."
+        }
+      ],
+      "tags": [],
+      "uuid": "173330fe-047e-48b0-916b-994c8fe21434"
+    },
+    {
+      "start_time": 1541,
+      "end_time": 1544,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But what I will say in concluding this"
+        }
+      ],
+      "tags": [],
+      "uuid": "f55f6c7c-7b94-4d2b-8ca3-a04638e9098c"
+    },
+    {
+      "start_time": 1544,
+      "end_time": 1549,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " is that that form of poetics"
+        }
+      ],
+      "tags": [],
+      "uuid": "7944882f-3b19-411b-b841-0bafbbcb9a49"
+    },
+    {
+      "start_time": 1549,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " anticipated spoken word,"
+        }
+      ],
+      "tags": [],
+      "uuid": "37e5ca82-dd0c-48a3-aa89-6e991ef8d654"
+    },
+    {
+      "start_time": 1552,
+      "end_time": 1558,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and I think the ideas are very much alive and well."
+        }
+      ],
+      "tags": [],
+      "uuid": "87c3c1d7-3526-429d-ac25-ad7c8f4d4b07"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "text": "[Applause]"
+        }
+      ],
+      "tags": [],
+      "uuid": "49d97597-4476-4db3-8b48-0e0c1b8cce1f"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " : We'd like to thank our panelists for their presentations."
+        }
+      ],
+      "tags": [],
+      "uuid": "290950f5-3bda-4167-8d3b-5a84ed8018c4"
+    },
+    {
+      "start_time": 1570,
+      "end_time": 1572,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " I think everybody can hear me."
+        }
+      ],
+      "tags": [],
+      "uuid": "6ee91fb7-fe31-4c30-8164-bcd6fd7226e5"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1573,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Okay."
+        }
+      ],
+      "tags": [],
+      "uuid": "7f5dd06c-e84d-4c93-905f-492fb5139edd"
+    },
+    {
+      "start_time": 1573,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And what we'd like to do now,"
+        }
+      ],
+      "tags": [],
+      "uuid": "aff7ab05-ee20-4577-87d3-3c996d1fae1e"
+    },
+    {
+      "start_time": 1575,
+      "end_time": 1578,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " I want to pose a couple questions to the panelists"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0167c43-bd20-45d7-8e32-e35377d93e90"
+    },
+    {
+      "start_time": 1578,
+      "end_time": 1579,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and have them respond,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5e9914d-9fa1-47dd-9451-c9808286a3a8"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and then we'll open this up to the entire audience."
+        }
+      ],
+      "tags": [],
+      "uuid": "367f6216-3956-444e-805e-c6821bd84d71"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " You heard Maryemma say that Dunbar mastered the art"
+        }
+      ],
+      "tags": [],
+      "uuid": "bafd008e-86bd-4f3e-bc0b-7fd391c94727"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " of speaking to two audiences,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8d7e353-5eb5-4b34-928a-2880f6dec8f2"
+    },
+    {
+      "start_time": 1590,
+      "end_time": 1593,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and you heard Hilary raise the question"
+        }
+      ],
+      "tags": [],
+      "uuid": "c1e7c454-053f-4646-a7d1-1606c165f533"
+    },
+    {
+      "start_time": 1593,
+      "end_time": 1596,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " about these two Americas,"
+        }
+      ],
+      "tags": [],
+      "uuid": "1389aa36-bce8-45da-a630-83ead43195d6"
+    },
+    {
+      "start_time": 1596,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and then suggesting that Lucille Clifton wrote for the poem"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf7ab0a8-8cab-4681-9ed3-a35c9ad15e7e"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " instead of thinking about those audiences."
+        }
+      ],
+      "tags": [],
+      "uuid": "98e97fac-7b70-4099-aa82-49b6cb7c07a3"
+    },
+    {
+      "start_time": 1603,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " I want to turn the question back to think about the poet a bit more"
+        }
+      ],
+      "tags": [],
+      "uuid": "edc54d5f-0b5f-43e2-a81c-967511e56b6e"
+    },
+    {
+      "start_time": 1607,
+      "end_time": 1609,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and ask our panelists to think,"
+        }
+      ],
+      "tags": [],
+      "uuid": "73fafd63-7ac7-437b-b04f-574162e8c2f8"
+    },
+    {
+      "start_time": 1609,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " you're in 2004."
+        }
+      ],
+      "tags": [],
+      "uuid": "c6073064-17c1-4220-83ef-fe6a0a11f346"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What are the stresses on poetic creativity"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c42dcd1-92ec-4d33-8c8b-90820086245e"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1618,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " that are imposed from the outside,"
+        }
+      ],
+      "tags": [],
+      "uuid": "37e2db7b-29b2-48c4-a841-77e6863a8ce1"
+    },
+    {
+      "start_time": 1618,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " that are imposed from the inside?"
+        }
+      ],
+      "tags": [],
+      "uuid": "12ed3d61-5538-498f-9486-f152646e4d98"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1625,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " If you're a poet writing in 2004,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3746c80f-e223-4993-bf6a-9d82c4157421"
+    },
+    {
+      "start_time": 1625,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and you might be Lucille Clifton writing for the poem,"
+        }
+      ],
+      "tags": [],
+      "uuid": "53ab5ab4-a56c-4a1c-a9dc-beaeccb8f483"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1630,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " but there are other issues as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "32876e9f-08ca-4fed-9ac3-6b8e6ff100d3"
+    },
+    {
+      "start_time": 1630,
+      "end_time": 1632,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " If we could sort of capsulize a few of those issues"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9369e31-5c6d-45a6-9a6e-441dd51eedb1"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1634,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " at the beginning of the conversation here."
+        }
+      ],
+      "tags": [],
+      "uuid": "aa40a0ea-254f-43b9-9ef2-9048fadfa906"
+    },
+    {
+      "start_time": 1634,
+      "end_time": 1638,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " : I'll take a stab at it."
+        }
+      ],
+      "tags": [],
+      "uuid": "52c07e76-71af-449f-b2ff-9bfab43cbe45"
+    },
+    {
+      "start_time": 1638,
+      "end_time": 1646,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I'm currently teaching a course using,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9531af92-0a01-4b44-813d-04c04e9e917f"
+    },
+    {
+      "start_time": 1646,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " as a bunch of material, of course, on slavery."
+        }
+      ],
+      "tags": [],
+      "uuid": "3f601da8-c56d-441b-83cd-017d1817a7a0"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1652,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And one of the things that I'm struck by is the idea,"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c8d2894-f778-4ddd-8866-d411b7223bf0"
+    },
+    {
+      "start_time": 1652,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and I guess James Olden has written about it,"
+        }
+      ],
+      "tags": [],
+      "uuid": "917a22bb-c600-4d89-af0b-e6291f154b5c"
+    },
+    {
+      "start_time": 1656,
+      "end_time": 1660,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " this triangular relationship that affected the narrative."
+        }
+      ],
+      "tags": [],
+      "uuid": "d6c6e83b-827c-46f5-abd2-8f41762a0b28"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That is, the audience, the sponsor,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea74891f-30c3-45b9-a37d-c3522ef13386"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1669,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and the publication of the text itself."
+        }
+      ],
+      "tags": [],
+      "uuid": "15580fc5-52e3-469a-b43f-05471c3d5e0e"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1672,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And I think that we can actually think about that relationship"
+        }
+      ],
+      "tags": [],
+      "uuid": "87fb64fe-b86a-40f5-beec-bcc13e6a9eb3"
+    },
+    {
+      "start_time": 1672,
+      "end_time": 1676,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " with contemporary publishing, the contemporary text."
+        }
+      ],
+      "tags": [],
+      "uuid": "c50a1001-1d03-4b6f-a7c2-6f2f9137d89f"
+    },
+    {
+      "start_time": 1676,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That is, the audience, the sponsor,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b73108bc-4b11-4831-9ba7-5f5014b102fb"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and the text itself are in this triangular relationship."
+        }
+      ],
+      "tags": [],
+      "uuid": "d867b090-6642-4b44-9d98-f9531480a3cd"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And the balance, I think, varies."
+        }
+      ],
+      "tags": [],
+      "uuid": "fa27f75f-a1e3-49b7-a467-a4d38a5e168c"
+    },
+    {
+      "start_time": 1688,
+      "end_time": 1691,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That is, some people write more toward the audience."
+        }
+      ],
+      "tags": [],
+      "uuid": "6f9ed2d9-b429-4c62-9930-79a76422486e"
+    },
+    {
+      "start_time": 1691,
+      "end_time": 1696,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Some people are more in touch with what the kind of sponsorship"
+        }
+      ],
+      "tags": [],
+      "uuid": "d957daa3-9523-441d-aa3d-0d262ca3e8fb"
+    },
+    {
+      "start_time": 1696,
+      "end_time": 1700,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " or publication venue, the expectations of that."
+        }
+      ],
+      "tags": [],
+      "uuid": "014b12db-755e-445b-8c16-0bda8369d8f5"
+    },
+    {
+      "start_time": 1700,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And then other people, or the same people at different times,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0926d939-979c-4ff6-8ad6-31d8c881da86"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1710,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " really want to push a particular form or theme in the text."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9479349-2753-4943-9ad1-bc7ecb74b05c"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1714,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So I think that the answer is more complex in terms of the shift"
+        }
+      ],
+      "tags": [],
+      "uuid": "addd42b2-ab3f-4d27-a981-1b0760460636"
+    },
+    {
+      "start_time": 1714,
+      "end_time": 1718,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " that has occurred, that the balance between those three things"
+        }
+      ],
+      "tags": [],
+      "uuid": "6689b5d5-9efd-4502-8d8d-f0afab95d79d"
+    },
+    {
+      "start_time": 1718,
+      "end_time": 1722,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " varies from poem to poem, or poet to poet."
+        }
+      ],
+      "tags": [],
+      "uuid": "546a331f-a036-4dd8-ac7a-b4bdbb37e8be"
+    },
+    {
+      "start_time": 1722,
+      "end_time": 1727,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And depending on what part of your career you might have to be in."
+        }
+      ],
+      "tags": [],
+      "uuid": "14e8442e-9b81-4655-845b-89acec0c832b"
+    },
+    {
+      "start_time": 1727,
+      "end_time": 1730,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I don't like to use the word purists,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc68a3f4-b58d-4f87-94f9-2d46083a417c"
+    },
+    {
+      "start_time": 1731,
+      "end_time": 1734,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " but I think that people make those kinds of choices."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1927c9b-1931-473d-9c67-e8c2aaefe0c3"
+    },
+    {
+      "start_time": 1734,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That if I'm not going to write for the marketplace,"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4894878-b6eb-4c36-b671-1533faa18336"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " it might take me longer, and I'm going to do it this way."
+        }
+      ],
+      "tags": [],
+      "uuid": "72415381-135d-4f1d-9ccc-b14e81c183fa"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1747,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I think that people make those choices pretty much based on"
+        }
+      ],
+      "tags": [],
+      "uuid": "b45f06a4-45e2-448c-905c-22fc3280b94b"
+    },
+    {
+      "start_time": 1747,
+      "end_time": 1750,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " a set of internal values."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ae36931-8b76-4c92-be73-389f3150ebf9"
+    },
+    {
+      "start_time": 1750,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And people change."
+        }
+      ],
+      "tags": [],
+      "uuid": "b285dd90-87e9-4a1c-bf23-b61c72e6eea2"
+    },
+    {
+      "start_time": 1753,
+      "end_time": 1756,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Sometimes a career at the beginning, and you hear people make"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac92d8a2-3cbc-47e7-844a-21b1fcb791cc"
+    },
+    {
+      "start_time": 1756,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " autobiographical statements all the time."
+        }
+      ],
+      "tags": [],
+      "uuid": "4e01b613-affa-4508-981c-5ab8390ab000"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 1762,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I used to think, but now I do."
+        }
+      ],
+      "tags": [],
+      "uuid": "42d4cd41-0532-4900-bde6-9ad7c907df80"
+    },
+    {
+      "start_time": 1762,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So I think that that kind of thing makes it a little bit more complicated"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfcd4986-c31f-40c0-8bb6-82d26f78d37e"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1771,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " for us to set a particular paradigm on how it's done."
+        }
+      ],
+      "tags": [],
+      "uuid": "f2a974ac-675e-4d55-a732-ecffc7d20f20"
+    },
+    {
+      "start_time": 1771,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But I do think those three factors are still very much concerns."
+        }
+      ],
+      "tags": [],
+      "uuid": "a2589302-8d27-4b94-853e-c6ca658e2620"
+    },
+    {
+      "start_time": 1777,
+      "end_time": 1782,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " : Well, I think that makes a lot of sense."
+        }
+      ],
+      "tags": [],
+      "uuid": "a80f37f8-cfc1-49b3-8113-a480f61390d2"
+    },
+    {
+      "start_time": 1783,
+      "end_time": 1787,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And I do think that writing the poem, serving the poem,"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b5425d1-78a2-403b-93e2-c1da69123ceb"
+    },
+    {
+      "start_time": 1787,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " is a lot easier said than done."
+        }
+      ],
+      "tags": [],
+      "uuid": "eb4acf0f-68d9-4bab-8a32-a420e413ea50"
+    },
+    {
+      "start_time": 1790,
+      "end_time": 1793,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And I think Clifton would certainly acknowledge that, too."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c24e922-f5bf-4f99-a36d-9523fbc8f129"
+    },
+    {
+      "start_time": 1793,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " One way to approach all of this is to be a poet of pluralistic influences."
+        }
+      ],
+      "tags": [],
+      "uuid": "91f14630-8fd7-44bb-a2e6-0547f45b67b5"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1806,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " I don't think that any poet, no matter what his or her race or ethnicity"
+        }
+      ],
+      "tags": [],
+      "uuid": "fa0e7298-1f7b-4606-8188-648022d449c8"
+    },
+    {
+      "start_time": 1806,
+      "end_time": 1810,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " or sexual orientation or gender might be,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4563b05-1125-4a2e-9b03-aad0ea0a9c90"
+    },
+    {
+      "start_time": 1810,
+      "end_time": 1817,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " should think that their influences will come just from one particular camp."
+        }
+      ],
+      "tags": [],
+      "uuid": "167e379a-2c90-40f5-adb5-ed5dd7bf9f8c"
+    },
+    {
+      "start_time": 1817,
+      "end_time": 1822,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " You can't escape all the influences coming at you from every different direction."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c525ba1-63e1-4737-ae6f-93218fed0893"
+    },
+    {
+      "start_time": 1822,
+      "end_time": 1825,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Lucille Clifton has said that when she was growing up,"
+        }
+      ],
+      "tags": [],
+      "uuid": "25d669cc-07a0-4a43-885c-a83d33544364"
+    },
+    {
+      "start_time": 1825,
+      "end_time": 1829,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " the writers who were especially important to her were Thomas Wolfe"
+        }
+      ],
+      "tags": [],
+      "uuid": "80451bbc-baf8-4f07-8c02-fbdd8d52142e"
+    },
+    {
+      "start_time": 1829,
+      "end_time": 1832,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " and Edna St. Vincent Millay."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fe60df6-5821-469d-aea5-651157a06bb1"
+    },
+    {
+      "start_time": 1832,
+      "end_time": 1836,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Those are surprising writers, I think, for her to cite time and again"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d59900d-8d2e-40c2-b671-ca3682712099"
+    },
+    {
+      "start_time": 1836,
+      "end_time": 1838,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " as having been important to her."
+        }
+      ],
+      "tags": [],
+      "uuid": "d173eac1-4c76-4d43-a84c-2481586ac143"
+    },
+    {
+      "start_time": 1838,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " But they came to her."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ac58553-a528-4eee-ba5e-208170fa2573"
+    },
+    {
+      "start_time": 1840,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Sometimes you can't always choose your influences."
+        }
+      ],
+      "tags": [],
+      "uuid": "c9979283-9d8f-4c52-bb00-a527dc7a4b52"
+    },
+    {
+      "start_time": 1842,
+      "end_time": 1844,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " They choose you."
+        }
+      ],
+      "tags": [],
+      "uuid": "41a001c5-7816-496c-bacd-38a13525527d"
+    },
+    {
+      "start_time": 1844,
+      "end_time": 1846,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " It's a matter of what you do with those influences."
+        }
+      ],
+      "tags": [],
+      "uuid": "dc5963f1-7b73-455f-ac2d-1075d8661288"
+    },
+    {
+      "start_time": 1846,
+      "end_time": 1850,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Once you reach a certain age, of course, you can choose influences."
+        }
+      ],
+      "tags": [],
+      "uuid": "2aed17ad-64e0-47ca-a3ac-02e98c5e1c37"
+    },
+    {
+      "start_time": 1850,
+      "end_time": 1855,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " You can choose African-American precursors and models."
+        }
+      ],
+      "tags": [],
+      "uuid": "968c053b-51ae-4cca-b56e-c08f371a7eed"
+    },
+    {
+      "start_time": 1855,
+      "end_time": 1859,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And whether you're Black or white or some other race or ethnicity,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef031c9b-7f7f-42ec-bba8-89a2b1c35877"
+    },
+    {
+      "start_time": 1859,
+      "end_time": 1861,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " see what you can do with those."
+        }
+      ],
+      "tags": [],
+      "uuid": "64c28e2a-7812-4201-9db6-5bb8da8ee7b9"
+    },
+    {
+      "start_time": 1861,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " But I think it's a matter of staying flexible and acknowledging,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a0b37d1e-1dc2-4562-a744-2ee836cfbc01"
+    },
+    {
+      "start_time": 1865,
+      "end_time": 1867,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " as Maryemma said, that people do change."
+        }
+      ],
+      "tags": [],
+      "uuid": "51534174-1103-44b4-8cc7-173c24a12635"
+    },
+    {
+      "start_time": 1867,
+      "end_time": 1870,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " That's our right as human beings."
+        }
+      ],
+      "tags": [],
+      "uuid": "f120e0b4-d32c-4479-ae2c-a41b4b86267b"
+    },
+    {
+      "start_time": 1870,
+      "end_time": 1872,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " That comes with the territory of being human."
+        }
+      ],
+      "tags": [],
+      "uuid": "0b08169d-cf29-4d4d-be10-26be56b98ff1"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1876,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And so enjoy the changes that you go through as a poet."
+        }
+      ],
+      "tags": [],
+      "uuid": "0a8317db-47d1-404a-9acc-e238de5f948e"
+    },
+    {
+      "start_time": 1876,
+      "end_time": 1882,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And although the marketplace may not like who you become, so what?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fda121ef-e25c-4b78-9772-056c90c4910c"
+    },
+    {
+      "start_time": 1882,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " They may come along later and look back at those changes"
+        }
+      ],
+      "tags": [],
+      "uuid": "026e0786-c7ea-4da9-aa9b-4491150d8e8c"
+    },
+    {
+      "start_time": 1886,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " as being the seminal moment in your career."
+        }
+      ],
+      "tags": [],
+      "uuid": "279292a3-adba-4c0b-97e8-5eccb9df1eee"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 1892,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " I think about Adrienne Rich and her development as a poet"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b212c8b-39d6-4a33-95d7-794d2178f005"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1896,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " and how mistrustful critics were when she published"
+        }
+      ],
+      "tags": [],
+      "uuid": "9b26c218-2101-4951-842d-d276a27a2468"
+    },
+    {
+      "start_time": 1896,
+      "end_time": 1898,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Diving into the Wreck."
+        }
+      ],
+      "tags": [],
+      "uuid": "682f7a38-ee29-46ee-88f2-de58a59a7077"
+    },
+    {
+      "start_time": 1898,
+      "end_time": 1901,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " What's she doing there with her poetry?"
+        }
+      ],
+      "tags": [],
+      "uuid": "29c42dc5-010b-425d-abc0-8a489b6f3036"
+    },
+    {
+      "start_time": 1901,
+      "end_time": 1904,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " But in later years, people look back at that volume"
+        }
+      ],
+      "tags": [],
+      "uuid": "6bacf34b-a037-4a36-84f0-c55296238ba6"
+    },
+    {
+      "start_time": 1904,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " as her greatest work to that point."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee1188ff-5384-49b3-b4b9-f1e1a7543310"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 1911,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " So sometimes the role of a poet involves educating the audiences"
+        }
+      ],
+      "tags": [],
+      "uuid": "f99d929e-f5cb-441a-8621-f9da89d4c46e"
+    },
+    {
+      "start_time": 1911,
+      "end_time": 1913,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " instead of playing to the market."
+        }
+      ],
+      "tags": [],
+      "uuid": "91a30745-8b25-4e90-88ae-b5e52d8bb2d5"
+    },
+    {
+      "start_time": 1913,
+      "end_time": 1915,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " See if you can raise your audience to your level,"
+        }
+      ],
+      "tags": [],
+      "uuid": "66e36ce3-15a7-4164-9460-5701e06a7bf6"
+    },
+    {
+      "start_time": 1915,
+      "end_time": 1917,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " bring them along with you."
+        }
+      ],
+      "tags": [],
+      "uuid": "83e5c404-fbfa-4db8-8409-d2b407ba72b6"
+    },
+    {
+      "start_time": 1918,
+      "end_time": 1924,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " : Well, I think that what you said about transformation"
+        }
+      ],
+      "tags": [],
+      "uuid": "d131d700-1550-46b6-a4f3-dc2de62e4b84"
+    },
+    {
+      "start_time": 1924,
+      "end_time": 1932,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " and how ultimately what you do with the idea is a good one."
+        }
+      ],
+      "tags": [],
+      "uuid": "3dff45d7-442d-4537-b9f5-dc370d42a7c5"
+    },
+    {
+      "start_time": 1932,
+      "end_time": 1939,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I suppose, for me, I'm rather suspicious of the marketplace"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac11723d-9384-4b3d-a816-ab246ff9f3d7"
+    },
+    {
+      "start_time": 1940,
+      "end_time": 1948,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " as a kind of barometer for what people or how successful people are."
+        }
+      ],
+      "tags": [],
+      "uuid": "fe13a5a3-49cc-4371-9954-f333326890ae"
+    },
+    {
+      "start_time": 1948,
+      "end_time": 1954,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Whitman didn't sell many copies."
+        }
+      ],
+      "tags": [],
+      "uuid": "7de90ac2-6b3e-4837-8cdb-fc01432f5a32"
+    },
+    {
+      "start_time": 1954,
+      "end_time": 1962,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And sometimes, you know, I had a great friend named Tom Denton."
+        }
+      ],
+      "tags": [],
+      "uuid": "5cead57d-17b0-4aec-90cb-d9f16ce647ae"
+    },
+    {
+      "start_time": 1963,
+      "end_time": 1969,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Tom used to tell me that your assets and your liabilities"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bb744fb-980f-4af8-a7c8-e2a105277035"
+    },
+    {
+      "start_time": 1969,
+      "end_time": 1971,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " are interchangeable."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c28538e-2321-4e2f-be49-215697aa7c91"
+    },
+    {
+      "start_time": 1971,
+      "end_time": 1978,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So sometimes you don't want certain people to like what you're doing."
+        }
+      ],
+      "tags": [],
+      "uuid": "dae9212f-4ab4-468e-8e11-a8f9b0ea4b4d"
+    },
+    {
+      "start_time": 1978,
+      "end_time": 1981,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " It might not be a good idea."
+        }
+      ],
+      "tags": [],
+      "uuid": "e376b5e9-13fe-4583-af6d-cb40d9c0a027"
+    },
+    {
+      "start_time": 1981,
+      "end_time": 1984,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " That's the way I see it."
+        }
+      ],
+      "tags": [],
+      "uuid": "99d72487-f82e-4a7c-b20e-1b0594b09e7c"
+    },
+    {
+      "start_time": 1984,
+      "end_time": 1987,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I think people should do..."
+        }
+      ],
+      "tags": [],
+      "uuid": "e00d1f0d-d4d2-4845-b31d-c6a56780bca4"
+    },
+    {
+      "start_time": 1987,
+      "end_time": 1990,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I think when we talk about art,"
+        }
+      ],
+      "tags": [],
+      "uuid": "da3cb8bd-01b9-4974-b3c0-860307f8f2ad"
+    },
+    {
+      "start_time": 1990,
+      "end_time": 1995,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " there's always positionality."
+        }
+      ],
+      "tags": [],
+      "uuid": "e10420f1-0eff-44cf-a900-2f664fc409a1"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2001,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But at the same time, people have to do what they feel they need to do."
+        }
+      ],
+      "tags": [],
+      "uuid": "810e31c2-4fff-4555-9617-e7aa441f2c95"
+    },
+    {
+      "start_time": 2001,
+      "end_time": 2007,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I do think that it's important for people not to be naive,"
+        }
+      ],
+      "tags": [],
+      "uuid": "170b7f4a-c86e-4974-85ac-eebd893fa88b"
+    },
+    {
+      "start_time": 2007,
+      "end_time": 2010,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " not to have some understanding,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c36f18a2-7e44-4432-9af3-2820792fcfa5"
+    },
+    {
+      "start_time": 2010,
+      "end_time": 2014,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or at least be able to deal with consequences."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e3e289d-da7a-4abd-a6b6-4dce8a4ccf2d"
+    },
+    {
+      "start_time": 2014,
+      "end_time": 2021,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I mean, we don't live in a meaning-free society."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c5f5828-a208-4675-b80b-a4129627f7b3"
+    },
+    {
+      "start_time": 2021,
+      "end_time": 2024,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So people are going to respond one way or another."
+        }
+      ],
+      "tags": [],
+      "uuid": "79dac9b5-21b0-46ff-a38f-6ea29f8e7f8a"
+    },
+    {
+      "start_time": 2024,
+      "end_time": 2026,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " People don't."
+        }
+      ],
+      "tags": [],
+      "uuid": "d646425a-ffc9-4747-8b94-f280968c29e1"
+    },
+    {
+      "start_time": 2026,
+      "end_time": 2030,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I don't think there's any neutral position on that either."
+        }
+      ],
+      "tags": [],
+      "uuid": "576811a7-4187-4eec-af89-44d600f18316"
+    },
+    {
+      "start_time": 2030,
+      "end_time": 2035,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " : Well, Maryemma says that, essentially..."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1a7a500-1d79-41a5-aa23-1e7c2c6213d5"
+    },
+    {
+      "start_time": 2035,
+      "end_time": 2036,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " What was the name?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7fa82d1e-2d0c-4e02-aa54-31213195049f"
+    },
+    {
+      "start_time": 2036,
+      "end_time": 2037,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " : Right."
+        }
+      ],
+      "tags": [],
+      "uuid": "26a7f1f3-2a59-4b62-a718-94d5c3f23fbc"
+    },
+    {
+      "start_time": 2037,
+      "end_time": 2038,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " The triangle."
+        }
+      ],
+      "tags": [],
+      "uuid": "ff32b95f-8331-4564-b41c-9905bd11a3ff"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2039,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " : Yeah, the triangle."
+        }
+      ],
+      "tags": [],
+      "uuid": "37811a7c-4522-42c9-9535-1f60395d87f3"
+    },
+    {
+      "start_time": 2039,
+      "end_time": 2042,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " You dealt with all of those issues, the three things there."
+        }
+      ],
+      "tags": [],
+      "uuid": "1bc1f770-93a0-4345-9c81-5c0b319f6672"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2047,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Hilary says that the poet can bring the audience along."
+        }
+      ],
+      "tags": [],
+      "uuid": "ea9aa178-dd46-41c0-8ba7-c0059403e8b1"
+    },
+    {
+      "start_time": 2047,
+      "end_time": 2051,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And Tony says that you should be who you are, write what you want."
+        }
+      ],
+      "tags": [],
+      "uuid": "5e9d26fa-bb85-41f4-affa-797ea50682b1"
+    },
+    {
+      "start_time": 2051,
+      "end_time": 2054,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " But let's consider the reality in 2004."
+        }
+      ],
+      "tags": [],
+      "uuid": "9d0b91a7-d605-4164-8261-757fd20d222e"
+    },
+    {
+      "start_time": 2054,
+      "end_time": 2057,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " Lots of young people, those poets under 30,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f590a920-ba04-4dbb-ba3f-ee840333471a"
+    },
+    {
+      "start_time": 2057,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " whom Hilary had to raise their hands."
+        }
+      ],
+      "tags": [],
+      "uuid": "16d62016-073b-4844-8d8e-03573ed96878"
+    },
+    {
+      "start_time": 2060,
+      "end_time": 2062,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And they're not Toni Morrison."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ee299b5-7ae9-4a2f-9a2a-6fca8669dfa6"
+    },
+    {
+      "start_time": 2062,
+      "end_time": 2064,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " They don't have the option of bringing people along."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6818e4b-6d3d-44d1-8b3f-76c736189402"
+    },
+    {
+      "start_time": 2064,
+      "end_time": 2067,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " And when you think about commercialization,"
+        }
+      ],
+      "tags": [],
+      "uuid": "71278599-3946-4f1d-9d67-b990c5dc1b51"
+    },
+    {
+      "start_time": 2067,
+      "end_time": 2070,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " and you think about technological influences on what they're doing,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5b5c424a-a6ae-41ab-8a02-a8729afc21b5"
+    },
+    {
+      "start_time": 2070,
+      "end_time": 2073,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " pressures on them to get things out if they want to be published."
+        }
+      ],
+      "tags": [],
+      "uuid": "fa4bc231-1575-4cf5-b40f-80a0e8d8f9a3"
+    },
+    {
+      "start_time": 2073,
+      "end_time": 2076,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " How do you average technology commercialization,"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc04924d-6938-4a62-9139-a29743c5e301"
+    },
+    {
+      "start_time": 2076,
+      "end_time": 2079,
+      "annotation": [
+        {
+          "text": "Trudier Harris:",
+          "bold": true
+        },
+        {
+          "text": " somebody mentioned that earlier, into this whole picture?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c834a98-9c67-460f-afb5-04e029f6625d"
+    },
+    {
+      "start_time": 2079,
+      "end_time": 2081,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " : Wow."
+        }
+      ],
+      "tags": [],
+      "uuid": "645c19bb-548a-46b6-8a3c-e058385266f7"
+    },
+    {
+      "start_time": 2081,
+      "end_time": 2083,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Well, you know, I was glad you asked that."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b0e865e-ee6c-4f71-bd7c-432308c9179e"
+    },
+    {
+      "start_time": 2083,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I was like, okay."
+        }
+      ],
+      "tags": [],
+      "uuid": "d5af8c97-1e33-44cf-b30f-91d59578ab22"
+    },
+    {
+      "start_time": 2085,
+      "end_time": 2093,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " Because I do think that the direction of poetry is changing in some parts."
+        }
+      ],
+      "tags": [],
+      "uuid": "c99bd3e6-0747-4188-841c-e919a859ab6e"
+    },
+    {
+      "start_time": 2094,
+      "end_time": 2098,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " We have the net now in terms of publishing,"
+        }
+      ],
+      "tags": [],
+      "uuid": "12c1faea-9f02-4199-8130-9c3551e6ab40"
+    },
+    {
+      "start_time": 2098,
+      "end_time": 2102,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " even more than publishing, certainly changing."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e5d68dc-9b0b-442a-a510-f04de77159aa"
+    },
+    {
+      "start_time": 2102,
+      "end_time": 2107,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But on some level, this is not new."
+        }
+      ],
+      "tags": [],
+      "uuid": "3af9f432-965b-4aa7-99f3-a7a75fb626fe"
+    },
+    {
+      "start_time": 2107,
+      "end_time": 2111,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You mentioned Toni Morrison."
+        }
+      ],
+      "tags": [],
+      "uuid": "92b425b2-6860-4705-ba36-d81580b07077"
+    },
+    {
+      "start_time": 2111,
+      "end_time": 2114,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " She used to be an editor, as you know."
+        }
+      ],
+      "tags": [],
+      "uuid": "470abba4-9985-4a18-a5a1-cfcf6f57c748"
+    },
+    {
+      "start_time": 2114,
+      "end_time": 2117,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So most Black writers until very, very recently"
+        }
+      ],
+      "tags": [],
+      "uuid": "fb0e15ba-d04f-4a1f-b370-3d12be7a0c2c"
+    },
+    {
+      "start_time": 2117,
+      "end_time": 2120,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " always had to have a job."
+        }
+      ],
+      "tags": [],
+      "uuid": "4befd0db-1086-4ac9-95dd-b2c1223430d0"
+    },
+    {
+      "start_time": 2121,
+      "end_time": 2126,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I remember people saying, well, they called it a trade."
+        }
+      ],
+      "tags": [],
+      "uuid": "21a2f5ae-0a78-42f4-8302-f5436dc16bee"
+    },
+    {
+      "start_time": 2126,
+      "end_time": 2128,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " You did a trade."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c93212c-17bd-486e-a2ae-3af678b8ceab"
+    },
+    {
+      "start_time": 2128,
+      "end_time": 2131,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And then your real work was your writing."
+        }
+      ],
+      "tags": [],
+      "uuid": "5985b368-28f3-4f3d-af79-790c1425374c"
+    },
+    {
+      "start_time": 2131,
+      "end_time": 2133,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " William Carlos Williams was a doctor."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c53f2b8-0dd0-4584-aa6a-55414861d64f"
+    },
+    {
+      "start_time": 2133,
+      "end_time": 2138,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So, I mean, the idea that your work has to sell,"
+        }
+      ],
+      "tags": [],
+      "uuid": "f0a470e7-fe51-47c7-9e59-02c99b060005"
+    },
+    {
+      "start_time": 2138,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that you have to live."
+        }
+      ],
+      "tags": [],
+      "uuid": "0c30ab37-de32-4e72-b719-3a12b418b1ee"
+    },
+    {
+      "start_time": 2140,
+      "end_time": 2145,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " I mean, now, this is imperialism."
+        }
+      ],
+      "tags": [],
+      "uuid": "25348f4a-5d76-4034-a33f-60f967cce35a"
+    },
+    {
+      "start_time": 2146,
+      "end_time": 2153,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " So the question of – I think for me, I'm more concerned with how is it"
+        }
+      ],
+      "tags": [],
+      "uuid": "2cfe6a71-4e5f-4bba-a7c7-b986822202ef"
+    },
+    {
+      "start_time": 2153,
+      "end_time": 2156,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " that people are able to be productive?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9938dda4-3530-4ba3-bd11-05d781da4be1"
+    },
+    {
+      "start_time": 2156,
+      "end_time": 2159,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And what is it going to take?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d615857a-c8bd-4de7-8d0a-4fb44b18df32"
+    },
+    {
+      "start_time": 2159,
+      "end_time": 2162,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And that's probably an individual kind of thing."
+        }
+      ],
+      "tags": [],
+      "uuid": "882e0ad0-83e2-408f-947a-cf1ffd8bee12"
+    },
+    {
+      "start_time": 2162,
+      "end_time": 2167,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " What is it going to take for people to continue to produce?"
+        }
+      ],
+      "tags": [],
+      "uuid": "89a91a5e-4346-4395-885d-703a125a5058"
+    },
+    {
+      "start_time": 2167,
+      "end_time": 2173,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " And if you can find somebody to pay you for what you do,"
+        }
+      ],
+      "tags": [],
+      "uuid": "87ef0504-7db2-4547-872f-0e39c9674e5b"
+    },
+    {
+      "start_time": 2173,
+      "end_time": 2176,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " then by all means."
+        }
+      ],
+      "tags": [],
+      "uuid": "c01fe061-66b0-4045-a412-22c04e248c2a"
+    },
+    {
+      "start_time": 2176,
+      "end_time": 2182,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " But, again, it's very difficult to get somebody to pay you loads of money anyway"
+        }
+      ],
+      "tags": [],
+      "uuid": "486fddc8-e8af-4487-a2fb-e85e617ca448"
+    },
+    {
+      "start_time": 2182,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " for ultimately a representation that challenges the way that you've been taught"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c39e99d-07a7-4b79-b4c1-f75708813ca4"
+    },
+    {
+      "start_time": 2190,
+      "end_time": 2192,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " or people taught you."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c9cb289-8eae-4c65-bd68-29c3c5ea326b"
+    },
+    {
+      "start_time": 2192,
+      "end_time": 2196,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " In other words, how you get your master – it's hard to pay your master –"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdb00b1b-87e2-49dd-b6b3-c79e8e2a73aa"
+    },
+    {
+      "start_time": 2196,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "text": "Tony Bolden:",
+          "bold": true
+        },
+        {
+          "text": " get your master to pay you for telling him, look, I don't want to be a slave anymore."
+        }
+      ],
+      "tags": [],
+      "uuid": "53feb0d5-d4ac-482f-ac4d-b6a1f018aace"
+    },
+    {
+      "start_time": 2201,
+      "end_time": 2208,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " : I agree with that."
+        }
+      ],
+      "tags": [],
+      "uuid": "c6a08f9b-7d7e-4db4-bc71-7c28fa7d8cf1"
+    },
+    {
+      "start_time": 2208,
+      "end_time": 2216,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But it also appears to me that we have such a broad range of venues today,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ed2308ab-a6b7-4905-9020-cae1cb61d4c7"
+    },
+    {
+      "start_time": 2216,
+      "end_time": 2222,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " both high technology, whether it's the internet, the web,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5a82be2-c533-4347-9ea5-d974fa4a35cd"
+    },
+    {
+      "start_time": 2222,
+      "end_time": 2227,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " but also we have the sound."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f5325a1-057c-487f-8d84-ff204f257de8"
+    },
+    {
+      "start_time": 2227,
+      "end_time": 2229,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We have radio still."
+        }
+      ],
+      "tags": [],
+      "uuid": "65ae4b0d-fb6b-4578-a965-8af08918080c"
+    },
+    {
+      "start_time": 2229,
+      "end_time": 2235,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " One of the things that I was interested in is what happened around the 1940s and 50s."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ee8be53-265a-47a2-8b58-dd2a38a5bfd6"
+    },
+    {
+      "start_time": 2235,
+      "end_time": 2237,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I think you talked a little bit about this too."
+        }
+      ],
+      "tags": [],
+      "uuid": "be764f4f-0495-4898-aba2-21ffa9f80e4e"
+    },
+    {
+      "start_time": 2237,
+      "end_time": 2244,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " When radio began to put what was in private homes,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f2863eb-5c52-4a30-b69d-413a263ca4e4"
+    },
+    {
+      "start_time": 2244,
+      "end_time": 2247,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " what we used to call records, remember those?"
+        }
+      ],
+      "tags": [],
+      "uuid": "638ff8b2-bae3-4168-8999-9c739fef834d"
+    },
+    {
+      "start_time": 2247,
+      "end_time": 2252,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " You can hear it on the radio."
+        }
+      ],
+      "tags": [],
+      "uuid": "456e319e-671d-4a14-8065-0b4a06cf0b0c"
+    },
+    {
+      "start_time": 2252,
+      "end_time": 2255,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So what would happen if, which is actually what's happening now,"
+        }
+      ],
+      "tags": [],
+      "uuid": "494cdd32-fbb1-4d79-bce0-9dd9cd7cb2ad"
+    },
+    {
+      "start_time": 2255,
+      "end_time": 2259,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " if poetry had that same venue that early?"
+        }
+      ],
+      "tags": [],
+      "uuid": "96d5cb65-18f0-4fe5-97d6-0956eb5a25d0"
+    },
+    {
+      "start_time": 2259,
+      "end_time": 2263,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Now it's got it now because, as I said, I came in last night"
+        }
+      ],
+      "tags": [],
+      "uuid": "478e674d-3e91-4c98-8592-8002230dcbc3"
+    },
+    {
+      "start_time": 2263,
+      "end_time": 2266,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and I should have been asleep, but I'm watching that poetry jam"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b7e5412-eaf6-4988-b7b6-f98106f7943b"
+    },
+    {
+      "start_time": 2266,
+      "end_time": 2271,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " because I like to watch it and it's interesting to me."
+        }
+      ],
+      "tags": [],
+      "uuid": "583e511a-a6cc-43c4-890f-111bcac0fdff"
+    },
+    {
+      "start_time": 2271,
+      "end_time": 2279,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " But I'm hearing it, and I think the sound aspect of it is what is –"
+        }
+      ],
+      "tags": [],
+      "uuid": "197a1bbc-e4d4-46f8-a99f-cea1d301dcea"
+    },
+    {
+      "start_time": 2279,
+      "end_time": 2282,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and I don't want to use the word performance because that gets into a whole other thing,"
+        }
+      ],
+      "tags": [],
+      "uuid": "a76bb961-e110-4167-aa7e-ed60639e6a0b"
+    },
+    {
+      "start_time": 2282,
+      "end_time": 2288,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " but just the very fact that people hear it has changed it more than anything else."
+        }
+      ],
+      "tags": [],
+      "uuid": "c01a947d-d56e-4781-817b-ee176bf7bd90"
+    },
+    {
+      "start_time": 2288,
+      "end_time": 2290,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I think that leads to more performance."
+        }
+      ],
+      "tags": [],
+      "uuid": "874bdddf-13f9-4ef8-8df9-74f54ca10b44"
+    },
+    {
+      "start_time": 2290,
+      "end_time": 2294,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " That leads, but it's if you can imagine using radio,"
+        }
+      ],
+      "tags": [],
+      "uuid": "28a5e702-49d2-4a1b-8a10-3ad3b77a36b1"
+    },
+    {
+      "start_time": 2294,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " because that's an earlier form of technology,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7280244-de5f-4f91-bb02-eff7d2b765b3"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2302,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and what it did to music, what it did for music, what it did with music,"
+        }
+      ],
+      "tags": [],
+      "uuid": "dcd61821-9ae5-4ce5-81a8-819c90d48306"
+    },
+    {
+      "start_time": 2302,
+      "end_time": 2307,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " or go back even further in the 1920s when people were doing with race records."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d5cb44e-ad58-4415-8260-c2f115ab4bfc"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2313,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So each of those moments there's been change in the form"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd22ad81-991c-4e26-8071-f2553c0d6760"
+    },
+    {
+      "start_time": 2313,
+      "end_time": 2318,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " because of change in the distribution, and so those things are affected."
+        }
+      ],
+      "tags": [],
+      "uuid": "24208719-6c5e-4b4d-b4d7-9b8b97743050"
+    },
+    {
+      "start_time": 2318,
+      "end_time": 2328,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So I think we might, I think Herman Weaver's talked a little bit about this notion of sound"
+        }
+      ],
+      "tags": [],
+      "uuid": "9aa4367d-b63d-4f50-943c-91041f8a275a"
+    },
+    {
+      "start_time": 2328,
+      "end_time": 2333,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " as opposed to the spoken word."
+        }
+      ],
+      "tags": [],
+      "uuid": "339683b0-647c-48ce-9059-10e2063e05ea"
+    },
+    {
+      "start_time": 2333,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " When we talk about oral, we also hear aural, and to distinguish between those two things."
+        }
+      ],
+      "tags": [],
+      "uuid": "44bb2fff-bdb9-496e-bd09-84cd516ae87a"
+    },
+    {
+      "start_time": 2340,
+      "end_time": 2344,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So I think that we're getting into, obviously, questions of poetics,"
+        }
+      ],
+      "tags": [],
+      "uuid": "b49edc01-c26d-40cc-89d9-ab7ec32daa88"
+    },
+    {
+      "start_time": 2344,
+      "end_time": 2350,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " and they're very difficult and complex issues."
+        }
+      ],
+      "tags": [],
+      "uuid": "0571328a-9371-4c0e-9890-8c508745b20a"
+    },
+    {
+      "start_time": 2350,
+      "end_time": 2354,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And so we tend to talk about the oral tradition a little bit."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e7d696e-0835-48f6-bc80-95db98c6ad34"
+    },
+    {
+      "start_time": 2354,
+      "end_time": 2357,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " Well, the oral tradition has its own sort of mix of things."
+        }
+      ],
+      "tags": [],
+      "uuid": "56fc155e-884d-4cd3-888f-5db3f965c7b0"
+    },
+    {
+      "start_time": 2357,
+      "end_time": 2362,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So what you heard me say was, I'm getting old, y'all got to do more work."
+        }
+      ],
+      "tags": [],
+      "uuid": "e912cd36-5e7c-4951-9321-aaf9915212b5"
+    },
+    {
+      "start_time": 2362,
+      "end_time": 2367,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " On some of these questions, because I'm not going to live long enough to finish the work."
+        }
+      ],
+      "tags": [],
+      "uuid": "af14ff10-e27a-40cc-b23e-b9bdceed01b4"
+    },
+    {
+      "start_time": 2367,
+      "end_time": 2373,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " I'm glad you folks are here, but we need to bring some more people on board to do this kind of work."
+        }
+      ],
+      "tags": [],
+      "uuid": "bec76e3f-bd26-449f-8cb7-8aed89b0bd92"
+    },
+    {
+      "start_time": 2373,
+      "end_time": 2378,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " And this requires studying in a wide range of fields, whether it's linguistics or what have you."
+        }
+      ],
+      "tags": [],
+      "uuid": "718f462a-441a-4234-866d-0bc8198a8c63"
+    },
+    {
+      "start_time": 2378,
+      "end_time": 2382,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " We need a lot more work to examine those cultural aspects."
+        }
+      ],
+      "tags": [],
+      "uuid": "a532809d-ce72-4cfa-8462-bd57ffa7c3e1"
+    },
+    {
+      "start_time": 2382,
+      "end_time": 2386,
+      "annotation": [
+        {
+          "text": "Maryemma Graham:",
+          "bold": true
+        },
+        {
+          "text": " So some of that is what I've been thinking about."
+        }
+      ],
+      "tags": [],
+      "uuid": "c8cc2b8a-d804-48ac-9dd1-06ce8c3dcb88"
+    },
+    {
+      "start_time": 2386,
+      "end_time": 2396,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " : Well, I would just add to that that I think it's very different."
+        }
+      ],
+      "tags": [],
+      "uuid": "8c526ff0-6bf8-487d-9847-0e35cda54f3d"
+    },
+    {
+      "start_time": 2396,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " You have a choice."
+        }
+      ],
+      "tags": [],
+      "uuid": "83ba78ff-9f2a-4198-9989-2da0f0021f89"
+    },
+    {
+      "start_time": 2399,
+      "end_time": 2403,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Do you want to try to be a famous poet, or do you want to try to be a great poet?"
+        }
+      ],
+      "tags": [],
+      "uuid": "053cb696-f2d0-45c1-80db-e6aa43461a73"
+    },
+    {
+      "start_time": 2403,
+      "end_time": 2406,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " They're not necessarily one and the same."
+        }
+      ],
+      "tags": [],
+      "uuid": "99a59bdf-826d-46f9-aefe-a4dc092acbdc"
+    },
+    {
+      "start_time": 2406,
+      "end_time": 2410,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And I think that Tony gets at that by bringing up Walt Whitman."
+        }
+      ],
+      "tags": [],
+      "uuid": "a8dfe486-b2f1-4b3d-9d66-4d6f54c19f18"
+    },
+    {
+      "start_time": 2410,
+      "end_time": 2418,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And it will only be a very lucky few in any generation to be called both great and famous."
+        }
+      ],
+      "tags": [],
+      "uuid": "2f4f8d41-efda-46e7-a72e-0bde0b5c0515"
+    },
+    {
+      "start_time": 2418,
+      "end_time": 2426,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " I wonder how many here in this audience today are great poets, but they never achieve Gordon Anthology fame."
+        }
+      ],
+      "tags": [],
+      "uuid": "3099ad97-6b40-4a27-8996-958323aef0d5"
+    },
+    {
+      "start_time": 2426,
+      "end_time": 2429,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " It's our loss if that's the case."
+        }
+      ],
+      "tags": [],
+      "uuid": "0ead4653-cbcd-44ad-8559-8601d0685206"
+    },
+    {
+      "start_time": 2429,
+      "end_time": 2439,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " But we live in a time when the literary marketplace is so fragmented that it's really going to be tough to join the ranks of Toni Morrison."
+        }
+      ],
+      "tags": [],
+      "uuid": "28fef1e5-52bc-41df-9735-ece8a39df264"
+    },
+    {
+      "start_time": 2439,
+      "end_time": 2442,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Maybe prose is the way to go."
+        }
+      ],
+      "tags": [],
+      "uuid": "730b7e3e-08a3-4154-bd7f-354c0ad47c9b"
+    },
+    {
+      "start_time": 2442,
+      "end_time": 2443,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " She's not a poet."
+        }
+      ],
+      "tags": [],
+      "uuid": "602a7698-9671-4c32-bfda-85d691860605"
+    },
+    {
+      "start_time": 2443,
+      "end_time": 2445,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " She has a poetic voice."
+        }
+      ],
+      "tags": [],
+      "uuid": "327662b4-eb83-416e-bd3e-5d62380e3566"
+    },
+    {
+      "start_time": 2445,
+      "end_time": 2450,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " But maybe if what you're really looking for is enduring fame, maybe try the novel."
+        }
+      ],
+      "tags": [],
+      "uuid": "23fa29fd-f1df-4782-85eb-6b7b0ddd2e32"
+    },
+    {
+      "start_time": 2450,
+      "end_time": 2451,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Start on that now."
+        }
+      ],
+      "tags": [],
+      "uuid": "5eed3ce0-5021-402c-b557-16adb69258b2"
+    },
+    {
+      "start_time": 2451,
+      "end_time": 2453,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Do your poetry."
+        }
+      ],
+      "tags": [],
+      "uuid": "58e50b03-04c9-4716-97be-aa3289be7f10"
+    },
+    {
+      "start_time": 2453,
+      "end_time": 2456,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Let novel writing be your trade."
+        }
+      ],
+      "tags": [],
+      "uuid": "5cebb509-8535-4ca0-9910-64739498da72"
+    },
+    {
+      "start_time": 2456,
+      "end_time": 2457,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " Poetry can be yours."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3daa36d-beae-478e-8b38-d7fdf2018e9b"
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " It wouldn't be the first time for a writer to try that."
+        }
+      ],
+      "tags": [],
+      "uuid": "59946d8c-ac23-435f-b72d-2444929fa46c"
+    },
+    {
+      "start_time": 2460,
+      "end_time": 2463,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " And I know this sounds sentimental."
+        }
+      ],
+      "tags": [],
+      "uuid": "57597d90-497f-499d-aff0-bf98f6434182"
+    },
+    {
+      "start_time": 2463,
+      "end_time": 2471,
+      "annotation": [
+        {
+          "text": "Hilary Holladay:",
+          "bold": true
+        },
+        {
+          "text": " But I do think it's important to aim to be a good poet before you aim to be a well-known poet."
+        }
+      ],
+      "tags": [],
+      "uuid": "8608d7f3-a8e1-44dc-99eb-a3a1b73bb68c"
+    }
+  ]
+}
