@@ -9562,6 +9562,22 @@
       ],
       "tags": [],
       "uuid": "1f9c4193-ad6f-4c50-a96d-a9960c76f386"
+    },
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to add a new annotation. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5a18b710-097f-402e-a7c1-6a46e95d3346"
     }
   ]
 }
