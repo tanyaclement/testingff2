@@ -38,11 +38,16 @@
       "end_time": 41.32,
       "annotation": [
         {
-          "text": "Uknown speaker:",
-          "bold": true
-        },
-        {
-          "text": " In the clapping clasp of long time no see hands."
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uknown speaker:",
+              "bold": true
+            },
+            {
+              "text": " In the clapping clasp of long time no see hands. What is happening."
+            }
+          ]
         }
       ],
       "tags": [],
